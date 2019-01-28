@@ -6,3 +6,5 @@ thumbnail: /images/uploads/castle23.png
 rating: '4'
 ---
 Coucuoucocuciccdaz
+
+![](/images/uploads/castle23.png)
