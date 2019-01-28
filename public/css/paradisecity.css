@@ -1466,8 +1466,8 @@ html.w-mod-js *[data-ix="boyload"] {
     -ms-flex-direction: row;
     flex-direction: row;
     border-radius: 20px;
-	margin-top: 200px;
   }
+	
   .col4.whitebg {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;

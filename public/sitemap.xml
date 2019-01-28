@@ -3,18 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://paradisecity.netlify.com/djkoze/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/artist/news2-copy-2/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/artist/news2-copy/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/news/news1-copy/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/news/news1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/categories/</loc>
+    <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://paradisecity.netlify.com/artists/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/news/</loc>
+    <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://paradisecity.netlify.com/</loc>
+    <changefreq>daily</changefreq>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/static/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.netlify.com/practical/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
