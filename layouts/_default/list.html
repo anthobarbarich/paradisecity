@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<div class="section-page line-up">
+    <div class="container writing">
+      <h3 class="section-intro">{{.Title}}</h3>
+					{{ .Content }}
+		<div class="container split artistes">
+         {{ range .Pages }}
+			<a href="{{.Permalink}}" class="artiste w-inline-block">
+          <h3 class="nameartiste">{{ .Params.name }}</h3>
+			</a>  
+		{{ end }}
+      </div>
+		
+
+		
+	</div>
+</div>
+
+{{ partial "footer.html" . }}

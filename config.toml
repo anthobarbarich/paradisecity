@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://brave-ride-4d3713.netlify.com/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Paradise City Festival 2018"
+
+[params]
+  author = "Studio Colibri"
+  description = "5, 6 & 7 July in Perk, Belgium"
+  mainSections = ["static", "news", "lineup", "home"]
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5

@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<div class="section-page line-up">
+    <div class="container writing">
+      <h3 class="section-intro">{{.Title}}</h3>
+		{{ .Params.introtxt }}
+		{{ .Params.author.display_name }}
+  <div class="section-page article">
+    <div class="container articles">
+      <div class="headarticle">
+        <h3 class="heading-3">ARTICLE TITLE</h3>
+      </div>
+      <div class="textblock w-richtext">
+        	{{ .Content }}
+      </div><a href="news.html" class="btnback w-button"><span class="orange">← </span>back to news list</a></div>
+  </div>
+		
+		
+	
+	</div>
+</div>
+
+{{ partial "footer.html" . }}

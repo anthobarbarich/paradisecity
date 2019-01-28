@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<div class="section-page line-up">
+    <div class="container writing">
+      <h3 class="section-intro">{{.Title}}</h3>
+		{{ .Params.introtxt }}
+		{{ .Params.author.display_name }}
+
+{{ .Content }}
+	</div>
+</div>
+
+{{ partial "footer.html" . }}

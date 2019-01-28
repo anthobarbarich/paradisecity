@@ -786,7 +786,6 @@ a {
 
 .section-green {
   padding-top: 141px;
-  padding-bottom: 100px;
   background-image: none;
   background-position: 0px 0px;
   background-size: auto;
@@ -1467,6 +1466,7 @@ html.w-mod-js *[data-ix="boyload"] {
     -ms-flex-direction: row;
     flex-direction: row;
     border-radius: 20px;
+	margin-top: 200px;
   }
   .col4.whitebg {
     -webkit-box-orient: horizontal;
