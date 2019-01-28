@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+
+<div class="section-page line-up">
+    <div class="container writing">
+		<h3 class="section-intro">{{.Title}}</h3>        
+		<div class="container split artistes">
+			
+			  {{ range .Pages }}
+          <a href="{{.Permalink}}" class="artiste w-inline-block">
+            <h3 class="headingblogthumb">{{ .Params.newstitle }}</h3>
+          </a>
+			{{ end }}
+        </div>
+        <div id="w-node-fb8e61b59f78-bd048010" class="block50 bgwhite"></div>
+      </div>
+>
+					{{ .Content }}
+
+		
+	</div>
+</div>
+
+{{ partial "footer.html" . }}
