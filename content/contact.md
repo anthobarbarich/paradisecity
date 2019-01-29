@@ -1,14 +1,10 @@
 ---
-title: "Contact"
+title: "Want to get in touch with us ?"
 uniqueid: "contact"
 type: "static"
 url: "contact"
 description: "Coucou"
 introtxt: "Salut les gars !"
-author:
-  given_name: John
-  family_name: Feminella
-  display_name: Matthieu
 ---
 
-Practical stuff :)
+info@paradisecity.be

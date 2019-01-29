@@ -1,5 +1,5 @@
 ---
-title: "practical"
+title: "practical - More info soon !"
 type: "static"
 url: "practical"
 uniqueid: "practical"
@@ -11,4 +11,4 @@ author:
   display_name: Matthieu
 ---
 
-Practical stuff :)
+More info soon !
