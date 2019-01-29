@@ -1,9 +1,8 @@
 ---
-title: "Food - More info coming soon !"
-type: "static"
-uniqueid: "food"
-url: "food"
-description: "Coucou"
+blocks:
+  - block:
+      description: Popi
+      img: /images/uploads/green.jpg
+      title: Hello
 ---
 
-More info soon !
