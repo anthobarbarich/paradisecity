@@ -1,4 +1,5 @@
 ---
+uniqueid: "artists"
 url: artists
 title: LOOK AT THIS YEAR CRAZY LINE-UP :O
 name: John Talabot

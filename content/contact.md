@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+uniqueid: "contact"
 type: "static"
 url: "contact"
 description: "Coucou"

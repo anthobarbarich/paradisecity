@@ -1,6 +1,7 @@
 ---
 title: "Food"
 type: "static"
+uniqueid: "food"
 url: "food"
 description: "Coucou"
 introtxt: "Salut les gars !"

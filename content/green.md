@@ -2,6 +2,8 @@
 title: Respect the nature, respect the castle
 type: static
 url: green
+uniqueid: green
+
 description: Coucou
 ---
 

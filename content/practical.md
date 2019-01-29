@@ -2,6 +2,7 @@
 title: "practical"
 type: "static"
 url: "practical"
+uniqueid: "practical"
 description: "Coucou"
 introtxt: "Salut les gars !"
 author:
