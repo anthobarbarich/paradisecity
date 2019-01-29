@@ -25,14 +25,18 @@ collections:
         name: "food"
         file: "content/food.md"
         fields:
-          - label: Blocks
-            name: blocks
+          - label: Restos
+            name: restos
             widget: list
             fields:
-              - label: Block
-                name: block
+              - label: Resto
+                name: resto
                 widget: object
                 fields:
                   - {label: Title, name: title, widget: string, required: false}
                   - {label: Description, name: description, widget: markdown, required: false}
                   - {label: Image, name: img, widget: image, required: false}
+          - label: Body
+            name: body
+            widget: markdown
+     
