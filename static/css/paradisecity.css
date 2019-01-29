@@ -1943,11 +1943,23 @@ html.w-mod-js *[data-ix="boyload"] {
 }
 
 
-.container.split.margin-bottom:nth-child(even) {
+body.food.container.split.margin-bottom:nth-child(even) {
     margin-bottom: 107px;
     flex-direction: row-reverse;
 }
 
-.container.split.margin-bottom:nth-child(even) .block50 {
+body.food.container.split.margin-bottom:nth-child(even) .block50 {
     text-align: right;
+}
+
+
+.container.split {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-evenly;
 }
