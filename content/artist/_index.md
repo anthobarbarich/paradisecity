@@ -1,10 +1,6 @@
 ---
-uniqueid: "artists"
-url: artists
-title: LOOK AT THIS YEAR CRAZY LINE-UP :O
 name: John Talabot
-img: /20112018-20112018-capture0029-3-2x.jpg
-day: Saturday
-desc: the best in the world
-external_url: 'https://www.google.be'
+date: '2019-01-12T00:00:00+01:00'
+thumbnail: /images/uploads/green.jpg
 ---
+fgrgg
