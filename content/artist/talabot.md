@@ -1,6 +1,6 @@
 ---
 layout: artist
-name: John Talabot
+artistname: John Talabot
 date: 
 thumbnail: 
 link: 'https://www.google.be'
