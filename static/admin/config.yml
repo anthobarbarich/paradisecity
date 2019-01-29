@@ -28,5 +28,3 @@ collections:
       - {label: "Artist Name", name: "name", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      
