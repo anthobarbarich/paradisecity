@@ -27,5 +27,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Artist Name", name: "name", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Stage", name: "stage", widget: "select", options: ["Love", "Play Label", "UMG"]}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      
