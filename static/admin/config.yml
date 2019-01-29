@@ -17,3 +17,22 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Food"
+        name: "food"
+        file: "content/food.md"
+        fields:
+          - label: Blocks
+            name: blocks
+            widget: list
+            fields:
+              - label: Block
+                name: block
+                widget: object
+                fields:
+                  - {label: Title, name: title, widget: string, required: false}
+                  - {label: Description, name: description, widget: markdown, required: false}
+                  - {label: Image, name: img, widget: image, required: false}
