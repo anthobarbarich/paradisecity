@@ -1,4 +1,5 @@
 ---
+title: Here are your favorites !
 restos:
   - resto:
       description: LLOLL
