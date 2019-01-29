@@ -1,4 +1,5 @@
 ---
+type: food
 title: Here is our food trucks & restaurants selection !
 restos:
   - resto:
