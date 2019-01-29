@@ -181,6 +181,7 @@ a {
   max-width: 800px;
 }
 
+
 .section {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1939,4 +1940,14 @@ html.w-mod-js *[data-ix="boyload"] {
   src: url('../fonts/Akrobat-Black.otf') format('opentype');
   font-weight: 900;
   font-style: normal;
+}
+
+
+.container.split.margin-bottom:nth-child(even) {
+    margin-bottom: 107px;
+    flex-direction: row-reverse;
+}
+
+.container.split.margin-bottom:nth-child(even) .block50 {
+    text-align: right;
 }
