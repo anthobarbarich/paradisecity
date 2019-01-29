@@ -6,7 +6,7 @@
 		<div class="container split artistes">
 			
 			  {{ range .Pages }}
-          <a href="{{.Permalink}}" class="artiste w-inline-block">
+          <a href="{{.Permalink}}" class="artiste w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('{{ .Params.thumbnail }}'); background-size: cover;">
             <h3 class="headingblogthumb">{{ .Title }}</h3>
           </a>
 			{{ end }}
