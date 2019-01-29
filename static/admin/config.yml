@@ -25,6 +25,12 @@ collections:
         name: "food"
         file: "content/food.md"
         fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
           - label: Restos
             name: restos
             widget: list
@@ -36,7 +42,5 @@ collections:
                   - {label: Title, name: title, widget: string, required: false}
                   - {label: Description, name: description, widget: markdown, required: false}
                   - {label: Image, name: img, widget: image, required: false}
-          - label: Body
-            name: body
-            widget: markdown
+
      
