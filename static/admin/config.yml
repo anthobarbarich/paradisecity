@@ -25,6 +25,14 @@ collections:
         name: "food"
         file: "content/food.md"
         fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: food
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: food
           - label: Title
             name: title
             widget: string
