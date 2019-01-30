@@ -1,0 +1,25 @@
+{
+  "name": "paradisecityhugo",
+  "version": "1.0.0",
+  "description": "paradisecity site with hugo and netlify cms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthobarbarich/paradisecity.git"
+  },
+  "keywords": [
+    "paradisecity",
+    "hugo",
+    "netlify",
+    "cms"
+  ],
+  "author": "studiocolibri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthobarbarich/paradisecity/issues"
+  },
+  "homepage": "https://github.com/anthobarbarich/paradisecity#readme"
+}
