@@ -2,17 +2,16 @@
 <div>
   <div class="section-page">
     <div class="container">
-        <h2 class="heading-3">{{ .Title }}</h3>
+        <h2 class="heading-3">LINE-UP ANNOUNCED SOON!</h3>
       <div class="container split artistes">
 		  	  {{ range .Params.team }}
 
-          <div href="{{.Permalink}}" class="artiste w-inline-block" style="background-image: url('{{ .photo }}'); background-size: cover;">
+          <div href="{{.Permalink}}" class="artiste w-inline-block" style="background-image: url('{{ .photo }}'); background-size: cover; background-position: center;">
           <h3 class="headingblogthumb">{{ .name }}</h3>
 		  </div>
 		   
 		  
 			{{ end }}
-      </div><a href="/news" class="btnback w-button"><span class="orange">← </span>back to news list</a></div>
   </div>
 </div>
 {{ partial "footer.html" . }}
