@@ -70,8 +70,8 @@ collections:
             name: body
             widget: markdown
             
-  - name: "artists" # Used in routes, e.g., /admin/collections/blog
-    label: "Artists" # Used in the UI
+  - name: "artist" # Used in routes, e.g., /admin/collections/blog
+    label: "Artist" # Used in the UI
     folder: "content/artist" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
