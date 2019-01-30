@@ -69,8 +69,8 @@ collections:
           - label: Body
             name: body
             widget: markdown
-      
-	  - label: "Line Up"
+            
+      - label: "Line Up"
         name: "lineup"
         file: "content/lineup.md"
         fields:
