@@ -69,5 +69,30 @@ collections:
           - label: Body
             name: body
             widget: markdown
+			
+      - label: "Artist"
+        name: "artist"
+        folder: "content/artist"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: artist
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: artists
+          - label: Title
+            name: artistname
+            widget: string
+          - label: Image
+            name: thumbnail
+            widget: image
+          - label: Date
+            name: date
+            widget: date
+          - label: Body
+            name: body
+            widget: markdown
 
      
