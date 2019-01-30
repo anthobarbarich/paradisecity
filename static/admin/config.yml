@@ -69,10 +69,12 @@ collections:
           - label: Body
             name: body
             widget: markdown
-			
+            
       - label: "Artist"
         name: "artist"
         folder: "content/artist"
+        create: true # Allow users to create new documents in this collection
+        slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
         fields:
           - label: Type
             name: type
