@@ -76,9 +76,8 @@ collections:
         fields:
           - {label: UniqueId, name: uniqueid, widget: hidden, default: artists}
           - {label: Type, name: type, widget: hidden, default: lineup}
-          - {label: Title, name: title, widget: string}
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
+          - {label: Title, name: title, widget: hidden}
+          - {label: Intro, name: intro, widget: hidden}
           - label: Team
             name: team
             widget: list
