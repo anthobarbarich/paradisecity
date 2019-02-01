@@ -1999,4 +1999,10 @@ form.contactform input {
 form.contactform label {
 padding: 10px;
 }
+form.contactform textarea {
+	height: 60px;
+	width: 70%;
+	padding: 20px;
+	font-weight: 200;
+}}
 
