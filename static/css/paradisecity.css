@@ -1991,5 +1991,12 @@ body.food.container.split.margin-bottom:nth-child(even) .block50 {
 
 form.contactform input {
 	height: 60px;
-	width: 50%;
+	width: 70%;
+	padding: 20px;
+	font-weight: 200;
 }
+
+form.contactform label {
+padding: 10px;
+}
+
