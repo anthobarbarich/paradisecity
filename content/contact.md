@@ -5,17 +5,17 @@ title: 'Want to get in touch with us ? Time to contact us ! '
 ---
 **info@paradisecity.be**
 
-<form name="contact" netlify>
+<form name="contact" class="contactform" netlify>
   <p>
-    <label>Name <input type="text" name="name" /></label>
+    <label>Name<br> <input type="text" name="name" placeholder="Your Name" /></label>
   </p>
   <p>
-    <label>Email <input type="email" name="email" /></label>
+    <label>Email<br>  <input type="email" name="email" placeholder="Your e-mail"/></label>
   </p>
   <p>
-    <label>message <input type="textarea" name="message" /></label>
+    <label>Message<br>  <input type="textarea" name="message" placeholder="Your Message"/></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit" class="btcta rev">Send →</button>
   </p>
 </form>
