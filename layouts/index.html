@@ -93,23 +93,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
     <div class="container writing">
       <h3 class="section-intro">THE writing on the walls</h3>
-		{{ .Resources.ByType "image" }}
-      <div id="w-node-72ed13c86f3d-feae796a" class="col4 whitebg">
-        <a href="#" class="blogthumb w-inline-block">
-          <h3 class="headingblogthumb">titre article</h3>
-        </a>
-        <a href="#" class="blogthumb w-inline-block">
-          <div class="bloctxtthumb">
-            <div class="text-block">This is some text inside of a div block.dzddzdzdz<br>d<br>az<br>da<br>d</div>
-          </div>
-          <h3 class="headingblogthumb">GO TO PARADISE CITY <br>WITH A BUS?</h3>
-        </a>
-        <a href="#" class="blogthumb w-inline-block">
-          <h3 class="headingblogthumb">WELCOME TO SAN!</h3>
-        </a>
-        <a href="#" class="blogthumb w-inline-block">
-          <h3 class="headingblogthumb">titre article</h3>
-        </a><a href="news.html" class="btcta reverse w-button">all news →</a></div>
+		     <div class="col4 whitebg">
+			{{ range last 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate }}	
+				 			<a href="#" class="blogthumb w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('{{ .Params.thumbnail }}'); background-size: cover;">
+          <h3 class="headingblogthumb">{{ .Title }}</h3>
+				 </a>
+				 {{ end }}
+       <a href="news.html" class="btcta reverse w-button">all news →</a></div>
       <div id="w-node-72ed13c86f3e-feae796a" class="block50 bgwhite"></div>
     </div><img src="images/shapesblog-2.png" width="409" srcset="images/shapesblog-2-p-500.png 500w, images/shapesblog-2.png 636w" sizes="(max-width: 479px) 100vw, 409px" alt="" class="image-3"></div>
   <div class="lineu"><img src="images/feuillesbottomlineup.png" width="405" alt="" class="feuillesbottomlineup"><img src="images/feuille.svg" width="278" alt="" class="feuille"><img src="images/brancherouge.svg" width="172" alt="" class="feuille rouge">

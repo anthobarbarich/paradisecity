@@ -490,10 +490,10 @@ a {
   padding: 60px 20px 60px 50px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: start;
+  -webkit-flex-direction: row-reverse;
+  -ms-flex-direction: row-reverse;
+flex-direction: row-reverse;
+		-webkit-box-pack: start;
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
   justify-content: flex-start;

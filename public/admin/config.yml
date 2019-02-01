@@ -50,5 +50,41 @@ collections:
                   - {label: Title, name: title, widget: string, required: false}
                   - {label: Description, name: description, widget: markdown, required: false}
                   - {label: Image, name: img, widget: image, required: false}
+  
+      - label: "Contact"
+        name: "contact"
+        file: "content/contact.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: food
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: contact
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+            
+      - label: "Line Up"
+        name: "lineup"
+        file: "content/lineup.md"
+        fields:
+          - {label: UniqueId, name: uniqueid, widget: hidden, default: artists}
+          - {label: Type, name: type, widget: hidden, default: lineup}
+          - {label: Title, name: title, widget: hidden}
+          - {label: Intro, name: intro, widget: hidden}
+          - label: Team
+            name: team
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+            
 
      
