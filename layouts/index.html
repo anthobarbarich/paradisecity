@@ -94,9 +94,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container writing">
       <h3 class="section-intro">THE writing on the walls</h3>
 		     <div class="col4 whitebg">
-			{{ range last 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate }}	
-				 			<a href="#" class="blogthumb w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('{{ .Params.thumbnail }}'); background-size: cover;">
-          <h3 class="headingblogthumb">{{ .Title }}</h3>
+			{{ range first 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate.Reverse }}	
+				 			<a href="{{.Permalink}}" class="blogthumb w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('{{ .Params.thumbnail }}'); background-size: cover;">
+          <h3 class="headingblogthumb"><span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>{{ .Title }}</h3>
 				 </a>
 				 {{ end }}
        <a href="news.html" class="btcta reverse w-button">all news →</a></div>
