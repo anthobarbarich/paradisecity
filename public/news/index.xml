@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The writings on the walls on Paradise City Festival 2018</title>
-    <link>https://paradisecity.netlify.com/news/</link>
+    <link>https://paradisecity.be/news/</link>
     <description>Recent content in The writings on the walls on Paradise City Festival 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Jan 2019 18:15:37 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 03 Feb 2019 23:48:35 +0100</lastBuildDate>
     
-	<atom:link href="https://paradisecity.netlify.com/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paradisecity.be/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Test new</title>
+      <link>https://paradisecity.be/news/test-new/</link>
+      <pubDate>Sun, 03 Feb 2019 23:48:35 +0100</pubDate>
+      
+      <guid>https://paradisecity.be/news/test-new/</guid>
+      <description>jojoj</description>
+    </item>
+    
+    <item>
       <title>Ticket sale starts on February 12th </title>
-      <link>https://paradisecity.netlify.com/news/ticket-sale-starts-on-february-12th/</link>
+      <link>https://paradisecity.be/news/ticket-sale-starts-on-february-12th/</link>
       <pubDate>Tue, 29 Jan 2019 18:15:37 +0100</pubDate>
       
-      <guid>https://paradisecity.netlify.com/news/ticket-sale-starts-on-february-12th/</guid>
+      <guid>https://paradisecity.be/news/ticket-sale-starts-on-february-12th/</guid>
       <description>Dear citizens,  Please mark you agenda’s on February 12th as ticket sale will start on that day! Early Birds and tickets with a Green Card discount will be available from then on. Watch out as there’s a very limited amount of tickets available in Wave 1 of Green Card tickets.</description>
     </item>
     
     <item>
       <title>5th Anniversary Edition</title>
-      <link>https://paradisecity.netlify.com/news/5th-anniversary-edition/</link>
+      <link>https://paradisecity.be/news/5th-anniversary-edition/</link>
       <pubDate>Tue, 29 Jan 2019 16:57:43 +0100</pubDate>
       
-      <guid>https://paradisecity.netlify.com/news/5th-anniversary-edition/</guid>
+      <guid>https://paradisecity.be/news/5th-anniversary-edition/</guid>
       <description>2019 marks our 5th anniversary and our excitement is mounting to deliver the most special edition to date. The Paradise City recipe has been quite simple from the start in 2015: mix the best
 electronic music on offer with open minded people and a strong
 effort to minimize our ecological footprint. Meanwhile our intention has always been a dancefloor packed with energy, where people dance, live

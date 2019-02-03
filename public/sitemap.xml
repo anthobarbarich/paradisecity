@@ -3,84 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paradisecity.netlify.com/news/ticket-sale-starts-on-february-12th/</loc>
+    <loc>https://paradisecity.be/news/test-new/</loc>
+    <lastmod>2019-02-03T23:48:35+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://paradisecity.be/news/ticket-sale-starts-on-february-12th/</loc>
     <lastmod>2019-01-29T18:15:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/news/5th-anniversary-edition/</loc>
+    <loc>https://paradisecity.be/news/5th-anniversary-edition/</loc>
     <lastmod>2019-01-29T16:57:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/artist/</loc>
+    <loc>https://paradisecity.be/artist/</loc>
     <lastmod>2019-01-12T00:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/</loc>
-    <lastmod>2019-01-29T18:15:37+01:00</lastmod>
+    <loc>https://paradisecity.be/</loc>
+    <lastmod>2019-02-03T23:48:35+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/partners/</loc>
+    <loc>https://paradisecity.be/partners/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/categories/</loc>
+    <loc>https://paradisecity.be/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/food/</loc>
+    <loc>https://paradisecity.be/food/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/lineup/</loc>
+    <loc>https://paradisecity.be/lineup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/green/</loc>
+    <loc>https://paradisecity.be/green/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/tags/</loc>
+    <loc>https://paradisecity.be/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/news/</loc>
-    <lastmod>2019-01-29T18:15:37+01:00</lastmod>
+    <loc>https://paradisecity.be/news/</loc>
+    <lastmod>2019-02-03T23:48:35+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/contact/</loc>
+    <loc>https://paradisecity.be/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.netlify.com/practical/</loc>
+    <loc>https://paradisecity.be/practical/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paradise City Festival 2018</title>
-    <link>https://paradisecity.netlify.com/artist/</link>
+    <link>https://paradisecity.be/artist/</link>
     <description>Recent content on Paradise City Festival 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 12 Jan 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://paradisecity.netlify.com/artist/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paradisecity.be/artist/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

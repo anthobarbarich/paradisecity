@@ -105,6 +105,10 @@ collections:
         name: "partners"
         file: "content/partners.md"
         fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: partners
           - label: Partner
             name: partner
             widget: list
