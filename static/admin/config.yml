@@ -99,4 +99,17 @@ collections:
             widget: image
           - label: Body
             name: body
-            widget: markdown 
+            widget: markdown
+            
+      - label: "Partners"
+        name: "partners"
+        file: "content/partners.md"
+        fields:
+          - label: Partner
+            name: partner
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Link, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+              
