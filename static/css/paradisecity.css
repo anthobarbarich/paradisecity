@@ -1340,6 +1340,8 @@ font-size: 20px;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+	    width: 146px;
+
 }
 
 html.w-mod-js *[data-ix="appearcatle"] {
@@ -1994,6 +1996,7 @@ form.contactform input {
 	width: 70%;
 	padding: 20px;
 	font-weight: 200;
+	border: 1px solid #e2e2e2
 }
 
 form.contactform label {
@@ -2004,5 +2007,7 @@ form.contactform textarea {
 	width: 70%;
 	padding: 20px;
 	font-weight: 200;
-}}
+	border: 1px solid #e2e2e2;
+	resize: none;
+}
 
