@@ -17,3 +17,8 @@
 [build]
 publish = "public"
 command = "hugo; gulp"
+
+[context.production.environment]
+HUGO_VERSION = "0.52"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
