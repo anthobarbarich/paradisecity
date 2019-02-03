@@ -5,24 +5,19 @@ const imageminMozjpeg = require('imagemin-mozjpeg');
 const gulpImageresize = require("gulp-image-resize");
 const gulpNewer = require("gulp-newer");
 
-gulp.task('default',['minify', 'images']);
+gulp.task('default',['images']);
 
-gulp.task('minify', () => {
-  return gulp.src('public/**/*.html')
-    .pipe(htmlmin({ collapseWhitespace: true }))
-    .pipe(gulp.dest('public'));
-});
 
 gulp.task('images', () =>
-    gulp.src('static/images/**/**')
-        .pipe(gulpNewer("static/images/uploadsOut"))
+    gulp.src('static/images/uploads/**')
+        .pipe(gulpNewer('public/images/uploads'))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
             imageminMozjpeg({
-                quality: 40
+                quality: 35
             }),
-            imagemin.optipng({optimizationLevel: 5}),
+            imagemin.optipng({optimizationLevel: 7}),
             imagemin.svgo({
                 plugins: [
                     {removeViewBox: true},
@@ -32,12 +27,12 @@ gulp.task('images', () =>
         ]))
         .pipe(gulpImageresize({
             width : 600,
-            crop : true,
+			quality : 0.4,
           }))
-        .pipe(gulp.dest('static/images/uploadsOut'))
+        .pipe(gulp.dest('public/images/uploads'))
         .pipe(gulpImageresize({
-            width : 287,
-            crop : true,
+            width : 251,
+			quality : 0.4,
           }))
-        .pipe(gulp.dest('static/iges/uploadsOutThumbs'))
+        .pipe(gulp.dest('public/images/uploadsThumbs'))
 );

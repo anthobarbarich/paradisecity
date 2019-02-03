@@ -565,7 +565,6 @@ flex-direction: row;
   width: 23%;
   height: 302px;
   margin-right: 20px;
-  margin-bottom: 37px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -973,16 +972,17 @@ flex-direction: row;
   position: relative;
   margin-top: 100px;
   padding-top: 61px;
-  padding-bottom: 120px;
 }
 
-.section-page.line-up {
-  padding-bottom: 80px;
-}
+
 
 .section-page.article {
   padding-top: 0px;
   padding-bottom: 60px;
+}
+
+.section-page.line-up {
+	padding-bottom: 100px;
 }
 
 .block-icons {
@@ -1535,12 +1535,15 @@ html.w-mod-js *[data-ix="boyload"] {
   }
   .blogthumb {
     width: 45%;
-    margin-bottom: 37px;
     -webkit-box-flex: 0;
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
   }
+	
+a.blogthumb.w-inline-block {
+    margin-bottom: 0px;
+}
   .btcta.reverse {
     position: relative;
     -webkit-box-flex: 0;
