@@ -492,8 +492,8 @@ a {
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: start;
+flex-direction: row;
+		-webkit-box-pack: start;
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
   justify-content: flex-start;
@@ -554,6 +554,7 @@ a {
 }
 
 .blogthumb {
+	padding: 10px;
   position: relative;
   z-index: 99;
   display: -webkit-box;
@@ -1134,6 +1135,14 @@ a {
   transform: scale(1.03);
 }
 
+.headarticle span.datearticle {
+	
+display:block;
+	font-size: 20px;
+	line-height:2em;
+
+}
+
 .heading-3 {
   font-size: 34px;
   text-align: left;
@@ -1272,7 +1281,15 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   font-family: Akrobat;
   color: #535353;
   text-transform: uppercase;
-font-size: 16px;
+font-size: 20px;
+}
+.btnback:before {
+	content: "← ";
+		color: #fa8d76;
+}
+
+.btnback:hover {
+	color: #fa8d76;
 }
 
 .smbuttons {
@@ -1323,6 +1340,8 @@ font-size: 16px;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+	    width: 146px;
+
 }
 
 html.w-mod-js *[data-ix="appearcatle"] {
@@ -1963,3 +1982,32 @@ body.food.container.split.margin-bottom:nth-child(even) .block50 {
     -ms-flex-pack: justify;
     justify-content: space-evenly;
 }
+
+
+.datearticle {
+	font-size:14px;
+	color:#fa8d76;
+	display: inline-block;
+	text-align: center;
+}
+
+form.contactform input {
+	height: 60px;
+	width: 70%;
+	padding: 20px;
+	font-weight: 200;
+	border: 1px solid #e2e2e2
+}
+
+form.contactform label {
+padding: 10px;
+}
+form.contactform textarea {
+	height: 60px;
+	width: 70%;
+	padding: 20px;
+	font-weight: 200;
+	border: 1px solid #e2e2e2;
+	resize: none;
+}
+

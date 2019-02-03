@@ -3,15 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paradisecity.netlify.com/news/dzdzd/</loc>
-    <lastmod>2019-01-31T00:00:00+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paradisecity.netlify.com/news/edzfzffzefezfez/</loc>
-    <lastmod>2019-01-29T22:42:40+01:00</lastmod>
+    <loc>https://paradisecity.netlify.com/news/test-news/</loc>
+    <lastmod>2019-02-01T13:56:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,27 +26,6 @@
   <url>
     <loc>https://paradisecity.netlify.com/news/dixon-to-headline-this-year-edition/</loc>
     <lastmod>2019-01-29T15:46:28+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paradisecity.netlify.com/news/dzdzddzdzzd/</loc>
-    <lastmod>2019-01-29T14:38:05+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paradisecity.netlify.com/news/hello/</loc>
-    <lastmod>2019-01-29T13:14:53+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://paradisecity.netlify.com/news/2019-01-28-antoine-est-un-gros-pe%CC%81de%CC%81/</loc>
-    <lastmod>2019-01-28T22:43:05+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -92,7 +64,7 @@
   
   <url>
     <loc>https://paradisecity.netlify.com/</loc>
-    <lastmod>2019-01-31T00:00:00+01:00</lastmod>
+    <lastmod>2019-02-01T13:56:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
@@ -111,7 +83,7 @@
   
   <url>
     <loc>https://paradisecity.netlify.com/news/</loc>
-    <lastmod>2019-01-31T00:00:00+01:00</lastmod>
+    <lastmod>2019-02-01T13:56:22+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
