@@ -3,7 +3,6 @@ title: Respect the nature, respect the castle
 type: static
 url: green
 uniqueid: green
-
 description: Coucou
 ---
 
@@ -69,7 +68,7 @@ description: Coucou
       <div class="container split margin-bottom">
         <div class="block50 rightalign">
           <h3 class="section-intro nomargin">awareness</h3>
-          <div class="txtblock green page">Our sustainable vision is communicated to each partner &amp; sponsor to assure they share our concerns about a greener future. And we give you useful sustainable tips on the festival site.<br><br>Just as last year, Beplanet (http://beplanet.org) will be on site to present new innovative and sustainable projects on site. Furthermore, this year, we will ask our guests to participate to a good cause and financially support the Klimaatzaak / le Projet Climat (https://www.klimaatzaak.eu/nl; https://affaire-climat.be)</div>
+          <div class="txtblock green page">Our sustainable vision is communicated to each partner &amp; sponsor to assure they share our concerns about a greener future. And we give you useful sustainable tips on the festival site.<br></div>
         </div>
         <div class="block50 midalign"><img src="../images/Groupe-16.svg" width="248" alt="" class="greenimages"></div>
       </div>
