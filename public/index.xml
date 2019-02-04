@@ -2,39 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paradise City Festival 2018</title>
-    <link>https://paradisecity.be/</link>
+    <link>/</link>
     <description>Recent content on Paradise City Festival 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Feb 2019 23:48:35 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 11:40:42 +0100</lastBuildDate>
     
-	<atom:link href="https://paradisecity.be/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Test new</title>
-      <link>https://paradisecity.be/news/test-new/</link>
-      <pubDate>Sun, 03 Feb 2019 23:48:35 +0100</pubDate>
+      <title>BECOME AN AMBASSADOR</title>
+      <link>/news/become-an-ambassador/</link>
+      <pubDate>Mon, 04 Feb 2019 11:40:42 +0100</pubDate>
       
-      <guid>https://paradisecity.be/news/test-new/</guid>
-      <description>jojoj</description>
+      <guid>/news/become-an-ambassador/</guid>
+      <description>Become an official Paradise City ambassador and earn tickets and exclusive experiences by selling tickets to Paradise City Festival 2019!
+Rewards to claim
+ Friday ticket Saturday ticket Sunday ticket Weekend ticket Holiday ticket Camping ticket €40 Credit Weekend ticket for you and 1 friend  How Does the Program Work?
+You’ll earn points for every ticket that you sell to your friends. You can then use these points to redeem rewards in a shop within your ambassador dashboard.</description>
+    </item>
+    
+    <item>
+      <title>Carbon Footprint </title>
+      <link>/news/carbon-footprint/</link>
+      <pubDate>Mon, 04 Feb 2019 11:18:38 +0100</pubDate>
+      
+      <guid>/news/carbon-footprint/</guid>
+      <description>Sustainability is in our festival’s DNA since day 1.
+It implies taking into consideration various aspects regarding its organisation and its process, gathering many data in order to be sure to improve the festival&amp;rsquo;s ecological impact for each edition. And we are very proud to realize, year after year, that our strict policies are effective and that, thanks to our citizens, we are reducing our impact on the planet. This video shows how we achieve it and what are the steps that we should still implement to further reduce our inevitable CO2 consumption.</description>
     </item>
     
     <item>
       <title>Ticket sale starts on February 12th </title>
-      <link>https://paradisecity.be/news/ticket-sale-starts-on-february-12th/</link>
+      <link>/news/ticket-sale-starts-on-february-12th/</link>
       <pubDate>Tue, 29 Jan 2019 18:15:37 +0100</pubDate>
       
-      <guid>https://paradisecity.be/news/ticket-sale-starts-on-february-12th/</guid>
+      <guid>/news/ticket-sale-starts-on-february-12th/</guid>
       <description>Dear citizens,  Please mark you agenda’s on February 12th as ticket sale will start on that day! Early Birds and tickets with a Green Card discount will be available from then on. Watch out as there’s a very limited amount of tickets available in Wave 1 of Green Card tickets.</description>
     </item>
     
     <item>
       <title>5th Anniversary Edition</title>
-      <link>https://paradisecity.be/news/5th-anniversary-edition/</link>
+      <link>/news/5th-anniversary-edition/</link>
       <pubDate>Tue, 29 Jan 2019 16:57:43 +0100</pubDate>
       
-      <guid>https://paradisecity.be/news/5th-anniversary-edition/</guid>
+      <guid>/news/5th-anniversary-edition/</guid>
       <description>2019 marks our 5th anniversary and our excitement is mounting to deliver the most special edition to date. The Paradise City recipe has been quite simple from the start in 2015: mix the best
 electronic music on offer with open minded people and a strong
 effort to minimize our ecological footprint. Meanwhile our intention has always been a dancefloor packed with energy, where people dance, live
@@ -43,37 +56,37 @@ euphoric moments and connect with the artists and each-other.</description>
     
     <item>
       <title></title>
-      <link>https://paradisecity.be/partners/</link>
+      <link>/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paradisecity.be/partners/</guid>
+      <guid>/partners/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Here is our food trucks &amp; restaurants selection !</title>
-      <link>https://paradisecity.be/food/</link>
+      <link>/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paradisecity.be/food/</guid>
+      <guid>/food/</guid>
       <description>Here is the list we&amp;rsquo;ve been waiting for !</description>
     </item>
     
     <item>
-      <title>Hey man</title>
-      <link>https://paradisecity.be/lineup/</link>
+      <title>Line-Up</title>
+      <link>/lineup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paradisecity.be/lineup/</guid>
+      <guid>/lineup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Respect the nature, respect the castle</title>
-      <link>https://paradisecity.be/green/</link>
+      <link>/green/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paradisecity.be/green/</guid>
+      <guid>/green/</guid>
       <description>let us remind you to : respect the nature on site.
 respect the ground.
 respect the trees, some are very old.
@@ -84,10 +97,10 @@ do not litter on the land, use the provided bins for general waste and for compo
     
     <item>
       <title>Want to get in touch with us ? Time to contact us ! </title>
-      <link>https://paradisecity.be/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paradisecity.be/contact/</guid>
+      <guid>/contact/</guid>
       <description> Name
   Email
   Message
@@ -96,10 +109,10 @@ do not litter on the land, use the provided bins for general waste and for compo
     
     <item>
       <title>practical - More info soon !</title>
-      <link>https://paradisecity.be/practical/</link>
+      <link>/practical/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://paradisecity.be/practical/</guid>
+      <guid>/practical/</guid>
       <description>More info soon !</description>
     </item>
     

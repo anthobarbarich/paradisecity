@@ -3,91 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paradisecity.be/news/test-new/</loc>
-    <lastmod>2019-02-03T23:48:35+01:00</lastmod>
+    <loc>/news/become-an-ambassador/</loc>
+    <lastmod>2019-02-04T11:40:42+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/news/ticket-sale-starts-on-february-12th/</loc>
+    <loc>/news/carbon-footprint/</loc>
+    <lastmod>2019-02-04T11:18:38+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/ticket-sale-starts-on-february-12th/</loc>
     <lastmod>2019-01-29T18:15:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/news/5th-anniversary-edition/</loc>
+    <loc>/news/5th-anniversary-edition/</loc>
     <lastmod>2019-01-29T16:57:43+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/artist/</loc>
+    <loc>/artist/</loc>
     <lastmod>2019-01-12T00:00:00+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/</loc>
-    <lastmod>2019-02-03T23:48:35+01:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-02-04T11:40:42+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/partners/</loc>
+    <loc>/partners/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/food/</loc>
+    <loc>/food/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/lineup/</loc>
+    <loc>/lineup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/green/</loc>
+    <loc>/green/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/news/</loc>
-    <lastmod>2019-02-03T23:48:35+01:00</lastmod>
+    <loc>/news/</loc>
+    <lastmod>2019-02-04T11:40:42+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/contact/</loc>
+    <loc>/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://paradisecity.be/practical/</loc>
+    <loc>/practical/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
