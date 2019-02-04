@@ -10,7 +10,7 @@ gulp.task('default',['images']);
 
 gulp.task('images', () =>
     gulp.src('static/images/uploads/**')
-        .pipe(gulpNewer('static/images/uploads'))
+        .pipe(gulpNewer('static/images/uploadsPartners'))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
