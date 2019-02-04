@@ -17,5 +17,9 @@ partner:
     photo: /images/uploads/somersby-logo-1.png
   - name: Aperol_Sprit
     photo: /images/uploads/aperol_logo_v2.png
+  - name: Studio_Brussel
+    photo: /images/uploads/vrt_studio_brussel_logo.png
+  - name: Bruzz
+    photo: /images/uploads/bruzz_logo_red_rgb.png
 ---
 
