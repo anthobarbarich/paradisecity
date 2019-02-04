@@ -10,7 +10,7 @@ gulp.task('default',['images']);
 
 gulp.task('images', () =>
     gulp.src('static/images/uploads/**')
-        .pipe(gulpNewer('public/images/uploads'))
+        .pipe(gulpNewer('static/images/uploadsOut'))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
@@ -29,10 +29,16 @@ gulp.task('images', () =>
             width : 600,
 			quality : 0.4,
           }))
-        .pipe(gulp.dest('public/images/uploads'))
+        .pipe(gulp.dest('static/images/uploads'))
         .pipe(gulpImageresize({
             width : 251,
 			quality : 0.4,
           }))
-        .pipe(gulp.dest('public/images/uploadsThumbs'))
+        .pipe(gulp.dest('static/images/uploadsThumbs')) 
+		  
+		 .pipe(gulpImageresize({
+            width : 132,
+			quality : 0.6,
+          }))
+        .pipe(gulp.dest('static/images/uploadsPartners'))
 );
