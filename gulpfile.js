@@ -31,10 +31,10 @@ gulp.task('images', () =>
           }))
         .pipe(gulp.dest('static/images/uploads'))
         .pipe(gulpImageresize({
-            width : 251,
-			quality : 0.5,
+            width : 300,
+			quality : 0.6,
           }))
-        .pipe(gulp.dest('static/images/uploadsThumbs')) 
+        .pipe(gulp.dest('static/thumbs/images/uploads')) 
 		  
 		 .pipe(gulpImageresize({
             width : 132,
