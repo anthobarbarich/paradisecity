@@ -25,7 +25,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
-    "gulp-sass": "^4.0.2"
+    "gulp-sass": "^4.0.2",
+    "gulp-webp": "^4.0.1"
   },
   "dependencies": {
     "gm": "^1.23.1",
