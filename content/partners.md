@@ -21,5 +21,11 @@ partner:
     photo: /images/uploads/vrt_studio_brussel_logo.png
   - name: Bruzz
     photo: /images/uploads/bruzz_logo_red_rgb.png
+  - name: Eventication
+    photo: /images/uploads/eventication.png
+  - name: Klimaat_Neutraal
+    photo: /images/uploads/label-klimaatneutraal-vlaamsbrabant-015.png
+  - name: TAO
+    photo: /images/uploads/tao-300x200-1-.png
 ---
 
