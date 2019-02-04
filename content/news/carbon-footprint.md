@@ -2,7 +2,7 @@
 layout: blog
 title: 'Carbon Footprint '
 date: '2019-02-04T11:18:38+01:00'
-thumbnail: /images/uploads/carbon.jpg
+thumbnail: /images/uploads/carbonnew.jpg
 ---
 Sustainability is in our festival’s DNA since day 1. 
 
