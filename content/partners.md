@@ -1,8 +1,9 @@
 ---
 uniqueid: partners
 partner:
-  - name: funradio
-    photo: /images/uploads/image-29.png
+  - name: Metro_B
+    photo: /images/uploads/metro-logo_nl_cmyk_2016.jpg
   - name: Jupiler
     photo: /images/uploads/image-12.png
 ---
+
