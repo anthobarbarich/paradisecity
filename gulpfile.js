@@ -15,7 +15,7 @@ gulp.task('images', () =>
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
             imageminMozjpeg({
-                quality: 35
+                quality: 50
             }),
             imagemin.optipng({optimizationLevel: 7}),
             imagemin.svgo({
@@ -27,12 +27,12 @@ gulp.task('images', () =>
         ]))
         .pipe(gulpImageresize({
             width : 600,
-			quality : 0.4,
+			quality : 0.5,
           }))
         .pipe(gulp.dest('static/images/uploads'))
         .pipe(gulpImageresize({
             width : 251,
-			quality : 0.4,
+			quality : 0.5,
           }))
         .pipe(gulp.dest('static/images/uploadsThumbs')) 
 		  
