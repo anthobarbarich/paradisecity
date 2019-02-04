@@ -2011,3 +2011,8 @@ form.contactform textarea {
 	resize: none;
 }
 
+.textblock a {
+    font-weight: 600;
+    color: #ff866f;
+}
+
