@@ -1,7 +1,7 @@
 ---
 uniqueid: artists
 type: lineup
-title: Hey man
+title: Line-Up
 intro: Our iline up is amazing
 team:
   - name: TBA
