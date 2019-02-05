@@ -6,11 +6,11 @@
 		{{ .Content }}
 		  {{ range .Params.steps }} 
 	<div class="container split margin-bottom">
-        <div class="block50 rightalign">
+		<div class="block50 midalign"><img src="{{ .step.img }}" width="250" alt="" class="greenimages"></div>
+        <div class="block50">
           <h3 class="section-intro nomargin">{{ .step.title }}</h3>
           <div class="txtblock green page">{{ .step.description | markdownify }}</div>
         </div>
-        <div class="block50 midalign"><img src="{{ .step.img }}" width="250" alt="" class="greenimages"></div>
       </div>
 		{{end}}
 

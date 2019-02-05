@@ -2014,4 +2014,8 @@ form.contactform textarea {
 	resize: none;
 }
 
+.container.split.margin-bottom:nth-child(odd) {
+    flex-direction: row-reverse;
+    text-align: right;
+}
 
