@@ -1702,6 +1702,7 @@ a.blogthumb.w-inline-block {
   }
   .btn-hero {
     background-color: #fffdf8;
+	display: block;
   }
   .btn-hero.reverse {
     margin-left: 0px;
