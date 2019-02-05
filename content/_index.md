@@ -1,14 +1,14 @@
 ---
 imgvideo: /images/uploads/thumbvideo.jpg
 ---
-**2019 marks our 5th anniversary and our excitement is mounting
+2019 marks our 5th anniversary and our excitement is mounting
 to deliver the most special edition to date. The Paradise City
 recipe has been quite simple from the start in 2015: mix the
 best electronic music on offer with an open minded crowd and a
 strong effort to minimize our ecological footprint. Meanwhile
 our intention has always been a dancefloor packed with energy,
 where people dance, live euphoric moments and connect with
-the artists and each-other.**
+the artists and each-other.
 
 For our 5th birthday we want to impress our music loving
 community with a very special line-up. We also want to surprise
