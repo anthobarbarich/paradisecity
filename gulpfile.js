@@ -28,8 +28,8 @@ gulp.task('images', () =>
             })
         ]))
         .pipe(gulpImageresize({
-            width : 600,
-			quality : 0.7,
+            width : 800,
+			quality : 0.6,
           }))
         .pipe(gulp.dest('static/images/uploads'))
         .pipe(gulpImageresize({
