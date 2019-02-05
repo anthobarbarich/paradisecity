@@ -1299,12 +1299,12 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   position: fixed;
   left: 60px;
   bottom: 60px;
-  z-index: 99;
+  z-index: 99999999999999;
   width: 50px;
   height: 200px;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: #fff;
-  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .11);
+  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
 }
 
 .image-5 {
@@ -1691,6 +1691,10 @@ a.blogthumb.w-inline-block {
     width: 524px;
     max-width: 200%;
   }
+	
+	.smbuttons {
+		display: none;
+}
   .heading {
     font-size: 49px;
     line-height: 49px;
@@ -2019,3 +2023,38 @@ form.contactform textarea {
     text-align: right;
 }
 
+
+.smicone {
+	bottom: 10px;
+	opacity: 0.8;
+}
+
+.smicone:first-child {
+	margin-top: 100px;
+}
+
+img.iconez {
+   border-radius: 5px;
+    width: 30px;
+    left: 10px;
+    position: relative;
+    bottom: 0;
+	margin-top: 5px;
+}
+
+p.joinustxt {
+    transform: rotate(90deg);
+    display: block;
+    width: 70px;
+    font-family: Akrobat;
+    font-size: 22px;
+    position: absolute;
+    left: -9px;
+	top: 45px; 
+
+}
+
+.blocimgs {
+	position: absolute;
+    bottom: 12px;
+}
