@@ -48,7 +48,32 @@ steps:
         responsible alternative: Paradise City still & sparkling Tap Water.
       img: /images/uploads/groupe-18.svg
       title: Filtered tap water
-  - {}
+  - step:
+      description: >-
+        Sustainable communication is considered whenever applicable: we use only
+        FSC paper for all our communication on paper (flyers, posters …), which
+        we try to cut down. And no tokens, it’s a cashless festival. As for our
+        internet site, we make sure it is the lightest possible to avoid any
+        negative environmental impact.
+      img: /images/uploads/groupe-19.svg
+      title: Sustainable communication
+  - step:
+      description: >-
+        Water is a valuable good of nature that is spread on festival ground as
+        our visitors must rehydrate, eat and (optionally) shower. For a second
+        year in a row, we intent to purify on site the water used in our
+        showers, reducing treatment as much as possible. And with the use of our
+        eco-toilets, we intent to reduce any excessive water usage.
+      img: /images/uploads/groupe-13.svg
+      title: Water
+  - step:
+      description: >-
+        A CO2-Neutral festival is a goal we have achieved year after year. We
+        are aware that even after all our efforts, there is a remaining climate
+        impact. Taking our responsibility, we offset the unavoidable climate
+        impact through the support of CO2logic’s climate project.
+      img: /images/uploads/groupe-11.svg
+      title: 'CO2-Neutral '
 ---
 <p class="txtblock">We are <strong>optimists</strong> and we think the <strong>future can be bright</strong>. Therefore, we need to take sustainability seriously, knowing that any gathering of a large number of people has a potential negative impact on air, soil, water, resources and people. We need to draw up less resources, and we decided to start with our own little festival and go <strong>full on for a green policy</strong>. We trust we can influence change by leaving a positive legacy and <strong>hopefully inspiring</strong> our visitors to live more <strong>sustainably</strong>. It’s with these ideas that we try to build our festival as green as possible, improving ourselves year after year and knowing that we still have a long way ahead of us</p>
 
