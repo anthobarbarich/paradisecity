@@ -1,7 +1,7 @@
   <div class="section-partners">
     <div class="container partners"> {{ range where .Site.Pages "Params.uniqueid" "partners" }}	
 		{{ range .Params.partner }}	
-		<img src="{{.photo}}" alt="{{.name}}" class="partnerimg">
+		<img src="{{.photo}}" alt="{{.name}}" class="partnerimg" width="132">
 		{{ end }}		{{ .Content }}
 		{{ end }}
 	
@@ -11,4 +11,4 @@
 	  
 	  </div>
 	  
-	  <img src="/images/bgfoot2.jpg" srcset="../images/bgfoot2-p-500.jpeg 500w, ../images/bgfoot2-p-1080.jpeg 1080w, ../images/bgfoot2.jpg 1200w" sizes="100vw" alt="" class="image-2">
+	  <img src="/images/bgfoot2.jpg" srcset="../images/bgfoot2-p-500.jpeg 500w, ../images/bgfoot2-p-1080.jpeg 1080w, ../images/bgfoot2.jpg 1200w" sizes="100vw" alt="" class="image-2" width="1200">
