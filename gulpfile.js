@@ -17,7 +17,7 @@ gulp.task('images', () =>
             imagemin.gifsicle({interlaced: true}),
             imagemin.jpegtran({progressive: true}),
             imageminMozjpeg({
-                quality: 50
+                quality: 60
             }),
             imagemin.optipng({optimizationLevel: 7}),
             imagemin.svgo({
@@ -29,18 +29,18 @@ gulp.task('images', () =>
         ]))
         .pipe(gulpImageresize({
             width : 600,
-			quality : 0.6,
+			quality : 0.7,
           }))
         .pipe(gulp.dest('static/images/uploads'))
         .pipe(gulpImageresize({
             width : 300,
-			quality : 0.6,
+			quality : 0.7,
           }))
         .pipe(gulp.dest('static/thumbs/images/uploads')) 
 		  
 		 .pipe(gulpImageresize({
             width : 132,
-			quality : 0.6,
+			quality : 0.7,
           }))
         .pipe(gulp.dest('static/images/uploadsPartners'))
 );
