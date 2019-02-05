@@ -1968,17 +1968,6 @@ a.blogthumb.w-inline-block {
   font-style: normal;
 }
 
-
-body.food.container.split.margin-bottom:nth-child(even) {
-    margin-bottom: 107px;
-    flex-direction: row-reverse;
-}
-
-body.food.container.split.margin-bottom:nth-child(even) .block50 {
-    text-align: right;
-}
-
-
 .container.split {
     display: -webkit-box;
     display: -webkit-flex;
