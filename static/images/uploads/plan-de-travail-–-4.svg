@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 449 449">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_4);
+      }
+
+      .cls-2 {
+        fill: #f2b597;
+      }
+
+      .cls-3 {
+        fill: #fcdd86;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+        stroke: #646086;
+        stroke-width: 10px;
+      }
+
+      .cls-5 {
+        stroke-linejoin: round;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_4">
+      <rect width="449" height="449"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_4" data-name="Plan de travail – 4" class="cls-1">
+    <rect id="Rectangle_415" data-name="Rectangle 415" class="cls-2" width="317" height="152" rx="51" transform="translate(69 263)"/>
+    <path id="Tracé_466" data-name="Tracé 466" class="cls-3" d="M-4431.206,18894.588l-100.939,175.3h198.28Z" transform="translate(4683 -18759)"/>
+    <path id="Tracé_469" data-name="Tracé 469" class="cls-4" d="M-4560,18024.352h248.693" transform="translate(4660 -17700)"/>
+    <path id="Tracé_464" data-name="Tracé 464" class="cls-4" d="M-4536.875,18024.352l115.62-199.082" transform="translate(4660 -17700)"/>
+    <path id="Tracé_465" data-name="Tracé 465" class="cls-4" d="M-4449.73,17825.27l113.8,199.008" transform="translate(4660 -17700)"/>
+    <path id="Tracé_467" data-name="Tracé 467" class="cls-5" d="M-4472.3,18024.352l36.355-83.152c.057,0,37.834,83.152,37.834,83.152" transform="translate(4660 -17700)"/>
+    <path id="Tracé_468" data-name="Tracé 468" class="cls-5" d="M-4467.227,18013.3l-25.42-18.393c0,.053,56.709-54.273,56.709-54.273l54.405,54.273-22.02,18.393" transform="translate(4660 -17700)"/>
+  </g>
+</svg>
