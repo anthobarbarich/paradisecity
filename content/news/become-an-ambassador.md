@@ -2,7 +2,7 @@
 layout: blog
 title: BECOME AN AMBASSADOR
 date: '2019-02-04T11:40:42+01:00'
-thumbnail: /images/uploads/ambassador.jpg
+thumbnail: /images/uploads/ambassador4.jpg
 ---
 **Become an official Paradise City ambassador** and earn tickets and exclusive experiences by selling tickets to Paradise City Festival 2019!
 
