@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 449 449">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_6);
+      }
+
+      .cls-2 {
+        fill: #94ccd2;
+      }
+
+      .cls-3 {
+        fill: #f2b597;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #646086;
+        stroke-width: 10px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_6">
+      <rect width="449" height="449"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_6" data-name="Plan de travail – 6" class="cls-1">
+    <rect id="Rectangle_411" data-name="Rectangle 411" class="cls-2" width="158" height="323" rx="51" transform="translate(220 75)"/>
+    <path id="Tracé_517" data-name="Tracé 517" class="cls-3" d="M-2346.118,17771.17s-19.819-4.264-22.987,12.23,6.166,21,6.166,21-5.631,19,5.981,27.148a22.214,22.214,0,0,0,22.9,1.711s14.112,13.732,27.378,2.764,8.258-21.084,8.258-21.084,15.5-10.033,11.9-23.346-19.014-15.561-19.014-15.561-3.613-19.545-19.675-19.182A22.734,22.734,0,0,0-2346.118,17771.17Z" transform="translate(2584 -17676)"/>
+    <ellipse id="Ellipse_31" data-name="Ellipse 31" class="cls-3" cx="71.889" cy="25.106" rx="71.889" ry="25.106" transform="translate(170.993 187)"/>
+    <path id="Tracé_518" data-name="Tracé 518" class="cls-3" d="M-2274.23,17895.105v118.441s-24.065,18.377-74.431,18.25-87.849,0-87.849,0v-109.01h19.1v-25.725s119.354-1.414,119.354,16.561" transform="translate(2589 -17684)"/>
+    <ellipse id="Ellipse_32" data-name="Ellipse 32" class="cls-4" cx="71.889" cy="25.106" rx="71.889" ry="25.106" transform="translate(151.993 206)"/>
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" class="cls-4" cx="30.584" cy="10.956" rx="30.584" ry="10.956" transform="translate(195.728 220.607)"/>
+    <path id="Tracé_519" data-name="Tracé 519" class="cls-4" d="M-2418.007,17893.633v28.732" transform="translate(2570 -17664)"/>
+    <path id="Tracé_520" data-name="Tracé 520" class="cls-4" d="M-2274.23,17895.105v118.441s-24.065,18.377-74.431,18.25-87.849,0-87.849,0v-109.01h87.849v91.83" transform="translate(2570 -17664)"/>
+    <path id="Tracé_516" data-name="Tracé 516" class="cls-4" d="M-2421.994,17831.662l36.449,1.811s17.293,14.689,14.006,21.5-24.574,3.74-24.574,3.74Z" transform="translate(2570 -17664)"/>
+    <path id="Tracé_521" data-name="Tracé 521" class="cls-4" d="M-2348.311,17885.594a91.393,91.393,0,0,1,2.193-49.51" transform="translate(2570 -17664)"/>
+    <path id="Tracé_522" data-name="Tracé 522" class="cls-4" d="M-2346.118,17771.17s-19.819-4.264-22.987,12.23,6.166,21,6.166,21-5.631,19,5.981,27.148a22.214,22.214,0,0,0,22.9,1.711s14.112,13.732,27.378,2.764,8.258-21.084,8.258-21.084,15.5-10.033,11.9-23.346-19.014-15.561-19.014-15.561-3.613-19.545-19.675-19.182A22.734,22.734,0,0,0-2346.118,17771.17Z" transform="translate(2570 -17664)"/>
+    <g id="Ellipse_34" data-name="Ellipse 34" class="cls-4" transform="translate(226 119)">
+      <circle class="cls-5" cx="16.5" cy="16.5" r="16.5"/>
+      <circle class="cls-6" cx="16.5" cy="16.5" r="11.5"/>
+    </g>
+  </g>
+</svg>
