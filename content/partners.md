@@ -27,5 +27,7 @@ partner:
     photo: /images/uploads/label-klimaatneutraal-vlaamsbrabant-015.png
   - name: TAO
     photo: /images/uploads/tao-300x200-1-.png
+  - name: CO2 Neutral
+    photo: /images/uploads/co2neutral_logo.png
 ---
 
