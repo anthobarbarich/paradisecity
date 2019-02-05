@@ -1,9 +1,27 @@
 ---
-title: Respect the nature, respect the castle
 type: green
-url: green
 uniqueid: green
-description: Coucou
+title: 'Respect the nature, respect the castle'
+steps:
+  - step:
+      description: >-
+        lowers the impact of lighting & music. We encourage everyone involved in
+        the festival to be aware of how much energy they use, while measuring,
+        monitoring and reporting each year on energy usage. The last 2 editions
+        were powered up only by renewable energy & using low consumption
+        lightning on site.
+      img: /images/uploads/groupe-20.svg
+      title: Green energy
+  - step:
+      description: >-
+        consists of 100 % locally sourced & organically grown food and
+        ingredients from fair-trade source. Because of meat’s high climate &
+        environmental impact, we propose a large range of vegetarian & meat free
+        meals from our food providers. Menus are discussed internally in order
+        to offer large & balanced alternatives. We also try to adapt food
+        quantity to avoid leftovers.
+      img: /images/uploads/groupe-14.svg
+      title: 'Future food '
 ---
 <p class="txtblock">We are <strong>optimists</strong> and we think the <strong>future can be bright</strong>. Therefore, we need to take sustainability seriously, knowing that any gathering of a large number of people has a potential negative impact on air, soil, water, resources and people. We need to draw up less resources, and we decided to start with our own little festival and go <strong>full on for a green policy</strong>. We trust we can influence change by leaving a positive legacy and <strong>hopefully inspiring</strong> our visitors to live more <strong>sustainably</strong>. It’s with these ideas that we try to build our festival as green as possible, improving ourselves year after year and knowing that we still have a long way ahead of us</p>
 
