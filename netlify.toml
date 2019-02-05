@@ -17,10 +17,6 @@
   for = "*.jpg" # jpg files too
   [headers.values]
     Cache-Control = "public, max-age=31536000"
-[[headers]]
-  for = "*.png # png files too
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
 	
 [build]
 publish = "public"
