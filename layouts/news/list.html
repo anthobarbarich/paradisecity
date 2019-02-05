@@ -6,7 +6,7 @@
 		<div class="container split artistes">
 			
 			  {{ range .Pages.ByPublishDate.Reverse }}
-          <a href="{{.Permalink}}" class="artiste w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('/thumbs{{ .Params.thumbnail }}'); background-size: cover;background-position: center;">
+          <a href="{{.Permalink}}" class="artiste w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('{{ .Params.thumbnail }}'); background-size: cover;background-position: center;">
             <h3 class="headingblogthumb"><span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>{{ .Title }}</h3>
           </a>
 			{{ end }}
