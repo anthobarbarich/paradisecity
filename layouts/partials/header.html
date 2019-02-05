@@ -14,7 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta content="{{.Title}} | Paradise City Festival 2019" property="og:title">
 	<meta name="description" content="{{ .Content | truncate 150 }}" />
   <meta content="{{ .Content | truncate 150 }}" property="og:description">
-	<meta property="og:url" content="https://paradisecity.be" />
+	<meta property="og:url" content="https://paradisecity.be{{ .Permalink }}" />
 	<meta property="og:image" content="https://paradisecity.be/images/opengraph.jpg">
 	<meta property="og:image:width" content="1200" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
