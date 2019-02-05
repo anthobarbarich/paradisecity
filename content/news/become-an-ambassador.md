@@ -32,4 +32,4 @@ Our Community Manager will also be available throughout the campaign to answer a
 
 Want to become an ambassador? 
 
-Want to become an ambassador? You can sign up here: https://bit.ly/2B3Fk3X
+<button class="btcta rev" href="https://bit.ly/2B3Fk3X" target="_blank">Sign up here →</button>
