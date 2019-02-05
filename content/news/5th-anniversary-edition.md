@@ -2,7 +2,7 @@
 layout: blog
 title: 5th Anniversary Edition
 date: '2019-01-29T16:57:43+01:00'
-thumbnail: /images/uploads/5y.jpg
+thumbnail: /images/uploads/5ynewok.jpg
 ---
 
 

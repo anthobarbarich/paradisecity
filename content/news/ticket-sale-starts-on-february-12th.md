@@ -2,7 +2,7 @@
 layout: blog
 title: 'Ticket sale starts on February 12th '
 date: '2019-01-29T18:15:37+01:00'
-thumbnail: /images/uploads/tickets_sales-petite-.jpg
+thumbnail: /images/uploads/tickets_sales-petitervb.jpg
 ---
 ## Dear citizens, 
 
