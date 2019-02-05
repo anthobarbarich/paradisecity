@@ -1687,9 +1687,9 @@ a.blogthumb.w-inline-block {
     background-color: #fffdf8;
   }
   .castle {
-    left: -80px;
-    bottom: -125px;
-    width: 1000px;
+       left: -10px;
+    bottom: -37px;
+    width: 524px;
     max-width: 200%;
   }
   .heading {
@@ -1754,9 +1754,9 @@ a.blogthumb.w-inline-block {
   .image {
     border-radius: 0px;
   }
-  .txtblock.introsection {
+/*  .txtblock.introsection {
     display: none;
-  }
+  }*/
   .txtblock.green {
     display: none;
   }
