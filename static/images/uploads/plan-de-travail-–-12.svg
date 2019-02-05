@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 449 449">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_12);
+      }
+
+      .cls-2 {
+        fill: #f2b597;
+      }
+
+      .cls-3 {
+        fill: #fcdd86;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+        stroke: #646086;
+        stroke-width: 10px;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_12">
+      <rect width="449" height="449"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_12" data-name="Plan de travail – 12" class="cls-1">
+    <rect id="Rectangle_413" data-name="Rectangle 413" class="cls-2" width="360" height="141" rx="51" transform="translate(224.5 44.5) rotate(90)"/>
+    <path id="Tracé_545" data-name="Tracé 545" class="cls-3" d="M-1205.053,18886.754l-7.693,5.795v55.652l6.121,9.2h25.2l9.728,56.5,24.757-15.834-3.312-40.664h37s93.475,51.879,93.68,52.33,19.086,0,19.086,0l-1.613-176.119h-17.474s-57.17,53.723-115.2,54.84S-1205.053,18886.754-1205.053,18886.754Z" transform="translate(1344 -18730)"/>
+    <path id="Tracé_546" data-name="Tracé 546" class="cls-4" d="M-1170.348,17911.219s6.37,95.939,23.639,96.41,30.414,0,30.414,0l5.285-8.551-13.107-19.719-3.4-68.141h-61.119l-6.024-4.945v-59.766l6.024-5.754h72.338l.255,2,8.22,64.539s85.631,28.316,106.493,57.047" transform="translate(1314 -17662)"/>
+    <path id="Tracé_547" data-name="Tracé 547" class="cls-5" d="M-1116.379,17840.754s78.418-15.33,114.916-52.207" transform="translate(1314 -17662)"/>
+    <rect id="Rectangle_382" data-name="Rectangle 382" class="cls-4" width="18" height="177" transform="translate(312 126)"/>
+    <rect id="Rectangle_383" data-name="Rectangle 383" class="cls-4" width="18" height="36" transform="translate(100 194)"/>
+    <path id="Tracé_548" data-name="Tracé 548" class="cls-5" d="M-984,17848.02s18.495,5.936,18.592,28.549S-984,17901.756-984,17901.756" transform="translate(1314 -17662)"/>
+  </g>
+</svg>
