@@ -41,6 +41,14 @@ steps:
         carbon footprint per festival resident.
       img: /images/uploads/groupe-17.svg
       title: 'Transport '
+  - step:
+      description: >-
+        Filtered tap water is available to avoid a wave of plastic water bottles
+        which usually submerges festivals. Meet our less lucrative but more
+        responsible alternative: Paradise City still & sparkling Tap Water.
+      img: /images/uploads/groupe-18.svg
+      title: Filtered tap water
+  - {}
 ---
 <p class="txtblock">We are <strong>optimists</strong> and we think the <strong>future can be bright</strong>. Therefore, we need to take sustainability seriously, knowing that any gathering of a large number of people has a potential negative impact on air, soil, water, resources and people. We need to draw up less resources, and we decided to start with our own little festival and go <strong>full on for a green policy</strong>. We trust we can influence change by leaving a positive legacy and <strong>hopefully inspiring</strong> our visitors to live more <strong>sustainably</strong>. It’s with these ideas that we try to build our festival as green as possible, improving ourselves year after year and knowing that we still have a long way ahead of us</p>
 
