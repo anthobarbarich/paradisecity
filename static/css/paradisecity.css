@@ -1300,7 +1300,6 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   left: 60px;
   bottom: 60px;
   z-index: 99;
-  display: none;
   width: 50px;
   height: 200px;
   border-radius: 5px;
