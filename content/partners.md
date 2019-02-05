@@ -4,9 +4,9 @@ partner:
   - name: Jupiler
     photo: /images/uploads/image-12.png
   - name: Metro_B
-    photo: /images/uploads/metro-logo_nl_cmyk_2016.jpg
+    photo: /images/uploads/metro-logonlrvb.jpg
   - name: Metro_G
-    photo: /images/uploads/metro-logo_fr_cmyk_2016.jpg
+    photo: /images/uploads/metro-logo_frrvb.jpg
   - name: DeMorgen
     photo: /images/uploads/demorgen_logo_q_zwart_rood.png
   - name: Ginette
