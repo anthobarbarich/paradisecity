@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 449 449">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_8);
+      }
+
+      .cls-2 {
+        fill: #fcdd86;
+      }
+
+      .cls-3 {
+        fill: #94ccd2;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #646086;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_8">
+      <rect width="449" height="449"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_8" data-name="Plan de travail – 8" class="cls-1">
+    <rect id="Rectangle_417" data-name="Rectangle 417" class="cls-2" width="170" height="170" rx="51" transform="translate(154 66.792) rotate(45)"/>
+    <path id="Tracé_472" data-name="Tracé 472" class="cls-3" d="M-4000.316,17860.006l-19.326,25.262-36.066-25.262,33.446-44.562h60.914l22.853,34.59,11.866-8.139-13.664,54.166-51.916-15.178,11.277-7.475-30.3-50.334" transform="translate(4235 -17706)"/>
+    <path id="Tracé_473" data-name="Tracé 473" class="cls-3" d="M-4000.316,17860.006l-19.326,25.262-36.066-25.262,33.446-44.562h60.914l22.853,34.59,11.866-8.139-13.664,54.166-51.916-15.178,11.277-7.475-30.3-50.334" transform="translate(14186.783 12160.512) rotate(118)"/>
+    <path id="Tracé_474" data-name="Tracé 474" class="cls-3" d="M-4000.316,17860.006l-19.326,25.262-36.066-25.262,33.446-44.562h60.914l22.853,34.59,11.866-8.139-13.664,54.166-51.916-15.178,11.277-7.475-30.3-50.334" transform="translate(-16612.727 7517.176) rotate(-126)"/>
+    <path id="Tracé_470" data-name="Tracé 470" class="cls-4" d="M-4000.316,17860.006l-19.326,25.262-36.066-25.262,33.446-44.562h60.914l22.853,34.59,11.866-8.139-13.664,54.166-51.916-15.178,11.277-7.475-30.3-50.334" transform="translate(4214 -17697)"/>
+    <path id="Tracé_475" data-name="Tracé 475" class="cls-4" d="M-4000.316,17860.006l-19.326,25.262-36.066-25.262,33.446-44.562h60.914l22.853,34.59,11.866-8.139-13.664,54.166-51.916-15.178,11.277-7.475-30.3-50.334" transform="translate(14165.783 12169.512) rotate(118)"/>
+    <path id="Tracé_471" data-name="Tracé 471" class="cls-4" d="M-4000.316,17860.006l-19.326,25.262-36.066-25.262,33.446-44.562h60.914l22.853,34.59,11.866-8.139-13.664,54.166-51.916-15.178,11.277-7.475-30.3-50.334" transform="translate(-16633.727 7526.176) rotate(-126)"/>
+  </g>
+</svg>
