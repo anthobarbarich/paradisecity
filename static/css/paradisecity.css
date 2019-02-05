@@ -603,7 +603,6 @@ flex-direction: row;
   -ms-transform: scale(1.06);
   transform: scale(1.06);
 }
-
 .headingblogthumb {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
@@ -1545,7 +1544,7 @@ html.w-mod-js *[data-ix="boyload"] {
   }
 	
 a.blogthumb.w-inline-block {
-    margin-bottom: 0px;
+    margin-bottom: 40px;
 }
   .btcta.reverse {
     position: relative;
@@ -1745,11 +1744,7 @@ a.blogthumb.w-inline-block {
     flex: 0 auto;
     text-align: center;
   }
-  .containhero {
-    grid-template-areas: ". .";
-    -ms-grid-columns: 0.5fr 1fr;
-    grid-template-columns: 0.5fr 1fr;
-  }
+	
   .section-heading {
     text-align: center;
   }
@@ -1797,6 +1792,7 @@ a.blogthumb.w-inline-block {
   .blogthumb {
     width: 100%;
     margin-right: 0px;
+	margin-bottom: 20px;
   }
   .lineu {
     padding-top: 150px;

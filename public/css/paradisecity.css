@@ -603,7 +603,10 @@ flex-direction: row;
   -ms-transform: scale(1.06);
   transform: scale(1.06);
 }
-
+@media (max-width: 991px)
+a.blogthumb.w-inline-block {
+    margin-bottom: 20px;
+}
 .headingblogthumb {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
@@ -1270,6 +1273,12 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   margin-left: auto;
 }
 
+
+
+.btnback:before {
+	content: "← ";
+		color: #fa8d76;
+}
 .btnback {
   margin-top: 45px;
   padding-right: 0px;
@@ -1278,15 +1287,18 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   font-family: Akrobat;
   color: #535353;
   text-transform: uppercase;
-font-size: 20px;
+	font-size: 20px;
+	display: block;
 }
-.btnback:before {
-	content: "← ";
-		color: #fa8d76;
-}
+
 
 .btnback:hover {
 	color: #fa8d76;
+}
+
+.textblock.w-richtext a {
+    font-weight: 600;
+	
 }
 
 .smbuttons {
@@ -1736,11 +1748,10 @@ a.blogthumb.w-inline-block {
     flex: 0 auto;
     text-align: center;
   }
-  .containhero {
-    grid-template-areas: ". .";
-    -ms-grid-columns: 0.5fr 1fr;
-    grid-template-columns: 0.5fr 1fr;
-  }
+	
+	.blogthumb {
+		margin-bottom: 20px;
+	}
   .section-heading {
     text-align: center;
   }
@@ -2009,5 +2020,10 @@ form.contactform textarea {
 	font-weight: 200;
 	border: 1px solid #e2e2e2;
 	resize: none;
+}
+@media (max-width: 479px)
+.btn-hero {
+    background-color: #fffdf8;
+    display: block;
 }
 
