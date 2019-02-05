@@ -22,7 +22,7 @@ partner:
   - name: Bruzz
     photo: /images/uploads/bruzz_logo_red_rgb.png
   - name: Eventication
-    photo: /images/uploads/eventication-1.png
+    photo: /images/uploads/eventication-logo.jpg
   - name: Klimaat_Neutraal
     photo: /images/uploads/label-klimaatneutraal-vlaamsbrabant-015.png
   - name: TAO
