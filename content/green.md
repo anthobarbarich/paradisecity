@@ -10,7 +10,7 @@ steps:
         monitoring and reporting each year on energy usage. The last 2 editions
         were powered up only by renewable energy & using low consumption
         lightning on site.
-      img: /images/uploads/groupe-20.svg
+      img: /images/uploads/plan-de-travail-–-10.svg
       title: Green energy
   - step:
       description: >-
@@ -20,7 +20,7 @@ steps:
         meals from our food providers. Menus are discussed internally in order
         to offer large & balanced alternatives. We also try to adapt food
         quantity to avoid leftovers.
-      img: /images/uploads/groupe-14.svg
+      img: /images/uploads/plan-de-travail-–-9.svg
       title: 'Future food '
   - step:
       description: >-
