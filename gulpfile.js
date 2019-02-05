@@ -33,7 +33,7 @@ gulp.task('images', () =>
           }))
         .pipe(gulp.dest('static/images/uploads'))
         .pipe(gulpImageresize({
-            width : 300,
+            width : 400,
 			quality : 0.7,
           }))
         .pipe(gulp.dest('static/thumbs/images/uploads')) 
