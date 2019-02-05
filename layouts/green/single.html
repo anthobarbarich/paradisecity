@@ -3,8 +3,17 @@
 <div class="section-page line-up">
     <div class="container writing">
 		<h3 class="section-intro">{{.Title}}</h3>
+		{{ .Content }}
+		  {{ range .Params.steps }} 
+	<div class="container split margin-bottom">
+        <div class="block50 rightalign">
+          <h3 class="section-intro nomargin">{{ .step.title }}</h3>
+          <div class="txtblock green page">{{ .step.title | markdownify }}</div>
+        </div>
+        <div class="block50 midalign"><img src="{{ .step.img }}" width="250" alt="" class="greenimages"></div>
+      </div>
+		{{end}}
 
-{{ .Content }}
 	</div>
 </div>
 
