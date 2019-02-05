@@ -69,12 +69,12 @@ collections:
           - label: Body
             name: body
             widget: markdown
-          - label: Restos
-            name: restos
+          - label: Steps
+            name: steps
             widget: list
             fields:
-              - label: Resto
-                name: resto
+              - label: Step
+                name: step
                 widget: object
                 fields:
                   - {label: Title, name: title, widget: string, required: false}
