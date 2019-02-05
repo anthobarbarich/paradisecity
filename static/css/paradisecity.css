@@ -2032,14 +2032,14 @@ img.iconez {
 }
 
 p.joinustxt {
-    transform: rotate(90deg);
+    transform: rotate(-90deg);
     display: block;
     width: 70px;
     font-family: Akrobat;
-    font-size: 22px;
+    font-size: 18px;
     position: absolute;
     left: -9px;
-	top: 45px; 
+	top: 30px; 
 
 }
 
