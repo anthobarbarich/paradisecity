@@ -74,6 +74,23 @@ steps:
         impact through the support of CO2logic’s climate project.
       img: /images/uploads/groupe-11.svg
       title: 'CO2-Neutral '
+  - step:
+      description: >-
+        Camping has always been an ecological issue for festivals, meanly
+        regarding all the waste left over. We have been working on the problem
+        since our first edition and will implement for the second time in a row
+        our circular camping where each camper has the opportunity to rent
+        recycled camping gear, how cool is that?
+      img: /images/uploads/groupe-12.svg
+      title: Camping
+  - step:
+      description: >-
+        Awareness of the importance of a sustainable way of life is enhanced and
+        communicated to our suppliers, partners and sponsors, to assure they
+        share our concerns about a greener future. And we give you useful
+        sustainable tips on the site of the festival.
+      img: /images/uploads/groupe-16.svg
+      title: Awareness
 ---
 <p class="txtblock">We are <strong>optimists</strong> and we think the <strong>future can be bright</strong>. Therefore, we need to take sustainability seriously, knowing that any gathering of a large number of people has a potential negative impact on air, soil, water, resources and people. We need to draw up less resources, and we decided to start with our own little festival and go <strong>full on for a green policy</strong>. We trust we can influence change by leaving a positive legacy and <strong>hopefully inspiring</strong> our visitors to live more <strong>sustainably</strong>. It’s with these ideas that we try to build our festival as green as possible, improving ourselves year after year and knowing that we still have a long way ahead of us</p>
 
