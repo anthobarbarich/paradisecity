@@ -1846,7 +1846,6 @@ a.blogthumb.w-inline-block {
 /*  .txtblock.introsection {
     display: none;
   }*/
-	
 	.container.split.margin-bottom:nth-child(odd) {
     flex-direction: column;
     text-align: right;
@@ -2058,7 +2057,6 @@ a.blogthumb.w-inline-block {
     margin-top: 1px;
   }
 }
-
 @font-face {
   font-family: 'Akrobat';
   src: url('../fonts/Akrobat-Black.otf') format('opentype');
