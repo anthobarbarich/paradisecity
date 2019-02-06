@@ -50,6 +50,36 @@ collections:
                   - {label: Title, name: title, widget: string, required: false}
                   - {label: Description, name: description, widget: markdown, required: false}
                   - {label: Image, name: img, widget: image, required: false}
+                  
+      - label: "Green"
+        name: "green"
+        file: "content/green.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: green
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: green
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Steps
+            name: steps
+            widget: list
+            fields:
+              - label: Step
+                name: step
+                widget: object
+                fields:
+                  - {label: Title, name: title, widget: string, required: false}
+                  - {label: Description, name: description, widget: markdown, required: false}
+                  - {label: Image, name: img, widget: image, required: false}
   
       - label: "Contact"
         name: "contact"

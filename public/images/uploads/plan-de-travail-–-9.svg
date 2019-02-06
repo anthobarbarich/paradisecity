@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 449 449">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Plan_de_travail_9);
+      }
+
+      .cls-2 {
+        fill: #fcdd86;
+      }
+
+      .cls-3 {
+        fill: #f2b597;
+      }
+
+      .cls-4, .cls-5 {
+        fill: none;
+        stroke: #646086;
+        stroke-width: 10px;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+      }
+    </style>
+    <clipPath id="clip-Plan_de_travail_9">
+      <rect width="449" height="449"/>
+    </clipPath>
+  </defs>
+  <g id="Plan_de_travail_9" data-name="Plan de travail – 9" class="cls-1">
+    <rect id="Rectangle_407" data-name="Rectangle 407" class="cls-2" width="170" height="170" rx="51" transform="translate(203 203)"/>
+    <path id="Tracé_482" data-name="Tracé 482" class="cls-3" d="M-3669.477,17948.76l46.194,64.891h89.89l47.024-64.891Z" transform="translate(3808 -17726)"/>
+    <path id="Tracé_476" data-name="Tracé 476" class="cls-3" d="M-3500.064,17931.014l-7.371-17.682-19.761-6.428-14.345-19.422c0-.055-20.4,2.715-20.4,2.715l-20.6-12.937-21.138,10.223h-19.98l-13.64,16.406-16.363,6.482-13.767,20.643Z" transform="translate(3813.783 -17726)"/>
+    <path id="Tracé_483" data-name="Tracé 483" class="cls-4" d="M-3669.477,17948.76l46.194,64.891h89.89l47.024-64.891Z" transform="translate(3797 -17715)"/>
+    <path id="Tracé_487" data-name="Tracé 487" class="cls-4" d="M-3623.345,18013.65l10.8,14.883h69.2l10.462-14.883Z" transform="translate(3797 -17715)"/>
+    <path id="Tracé_484" data-name="Tracé 484" class="cls-4" d="M-3643.485,17961.506l21.042,32.92v-32.92Z" transform="translate(3803 -17713)"/>
+    <path id="Tracé_478" data-name="Tracé 478" class="cls-4" d="M-3669.477,17930.014v18.018h176.629v-18.018Z" transform="translate(3799.733 -17714)"/>
+    <path id="Tracé_477" data-name="Tracé 477" class="cls-4" d="M-3500.064,17931.014l-7.371-17.682-19.761-6.428-14.345-19.422c0-.055-20.4,2.715-20.4,2.715l-20.6-12.937-21.138,10.223h-19.98l-13.64,16.406-16.363,6.482-13.767,20.643Z" transform="translate(3802.783 -17715)"/>
+    <path id="Tracé_488" data-name="Tracé 488" class="cls-4" d="M-3531.014,17895.4l38-45.734,10.733,9.023-36.032,49.955" transform="translate(3797 -17715)"/>
+    <path id="Tracé_479" data-name="Tracé 479" class="cls-5" d="M-3591.125,17899.613v7.4" transform="translate(3797 -17715)"/>
+    <path id="Tracé_480" data-name="Tracé 480" class="cls-5" d="M-3591.125,17899.613v7.4" transform="translate(3783 -17702)"/>
+    <path id="Tracé_481" data-name="Tracé 481" class="cls-5" d="M-3591.125,17899.613v7.4" transform="translate(3811 -17702)"/>
+    <path id="Tracé_485" data-name="Tracé 485" class="cls-5" d="M-3591.125,17899.613v7.4" transform="translate(3839 -17702)"/>
+    <path id="Tracé_486" data-name="Tracé 486" class="cls-5" d="M-3591.125,17899.613v7.4" transform="translate(3825 -17715)"/>
+  </g>
+</svg>

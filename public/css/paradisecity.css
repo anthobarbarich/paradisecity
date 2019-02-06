@@ -453,7 +453,7 @@ a {
   color: #5c5c5c;
   font-size: 14px;
   line-height: 27px;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .txtblock.green.page {
@@ -602,10 +602,6 @@ flex-direction: row;
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
   transform: scale(1.06);
-}
-@media (max-width: 991px)
-a.blogthumb.w-inline-block {
-    margin-bottom: 20px;
 }
 .headingblogthumb {
   -webkit-align-self: center;
@@ -814,7 +810,6 @@ a.blogthumb.w-inline-block {
   position: relative;
   overflow: hidden;
   padding-top: 26px;
-  padding-bottom: 80px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(12, 75%, 71%, 0)), color-stop(48%, #fceac2));
   background-image: linear-gradient(180deg, hsla(12, 75%, 71%, 0), #fceac2 48%);
   color: #fff;
@@ -836,7 +831,6 @@ a.blogthumb.w-inline-block {
   position: relative;
   bottom: -90px;
   width: 100%;
-  margin-top: -55px;
 }
 
 .feuille {
@@ -1266,7 +1260,7 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 
 .logobottom {
   position: absolute;
-  bottom: -110px;
+  bottom: -150px;
   z-index: 10;
   display: block;
   margin-right: auto;
@@ -1299,19 +1293,6 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 .textblock.w-richtext a {
     font-weight: 600;
 	
-}
-
-.smbuttons {
-  position: fixed;
-  left: 60px;
-  bottom: 60px;
-  z-index: 99;
-  display: none;
-  width: 50px;
-  height: 200px;
-  border-radius: 5px;
-  background-color: #fff;
-  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .11);
 }
 
 .image-5 {
@@ -1548,7 +1529,7 @@ html.w-mod-js *[data-ix="boyload"] {
   }
 	
 a.blogthumb.w-inline-block {
-    margin-bottom: 0px;
+    margin-bottom: 40px;
 }
   .btcta.reverse {
     position: relative;
@@ -1693,11 +1674,15 @@ a.blogthumb.w-inline-block {
     background-color: #fffdf8;
   }
   .castle {
-    left: -80px;
-    bottom: -125px;
-    width: 1000px;
+       left: -10px;
+    bottom: -37px;
+    width: 524px;
     max-width: 200%;
   }
+	
+	.smbuttons {
+		display: none;
+}
   .heading {
     font-size: 49px;
     line-height: 49px;
@@ -1708,6 +1693,7 @@ a.blogthumb.w-inline-block {
   }
   .btn-hero {
     background-color: #fffdf8;
+	display: block;
   }
   .btn-hero.reverse {
     margin-left: 0px;
@@ -1749,9 +1735,6 @@ a.blogthumb.w-inline-block {
     text-align: center;
   }
 	
-	.blogthumb {
-		margin-bottom: 20px;
-	}
   .section-heading {
     text-align: center;
   }
@@ -1762,9 +1745,9 @@ a.blogthumb.w-inline-block {
   .image {
     border-radius: 0px;
   }
-  .txtblock.introsection {
+/*  .txtblock.introsection {
     display: none;
-  }
+  }*/
   .txtblock.green {
     display: none;
   }
@@ -1799,6 +1782,7 @@ a.blogthumb.w-inline-block {
   .blogthumb {
     width: 100%;
     margin-right: 0px;
+	margin-bottom: 20px;
   }
   .lineu {
     padding-top: 150px;
@@ -1972,17 +1956,6 @@ a.blogthumb.w-inline-block {
   font-style: normal;
 }
 
-
-body.food.container.split.margin-bottom:nth-child(even) {
-    margin-bottom: 107px;
-    flex-direction: row-reverse;
-}
-
-body.food.container.split.margin-bottom:nth-child(even) .block50 {
-    text-align: right;
-}
-
-
 .container.split {
     display: -webkit-box;
     display: -webkit-flex;
@@ -2021,9 +1994,55 @@ form.contactform textarea {
 	border: 1px solid #e2e2e2;
 	resize: none;
 }
-@media (max-width: 479px)
-.btn-hero {
-    background-color: #fffdf8;
-    display: block;
+
+.container.split.margin-bottom:nth-child(odd) {
+    flex-direction: row-reverse;
+    text-align: right;
 }
 
+.smbuttons {
+  position: fixed;
+  left: 60px;
+  bottom: 60px;
+  z-index: 99999999999999;
+  width: 50px;
+  height: 240px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
+}
+
+.smicone {
+	bottom: 10px;
+	opacity: 0.8;
+}
+
+.smicone:first-child {
+	margin-top: 100px;
+}
+
+img.iconez {
+   border-radius: 5px;
+    width: 25px;
+    left: 12px;
+    position: relative;
+    bottom: 0;
+	margin-top: 5px;
+}
+
+p.joinustxt {
+    transform: rotate(-90deg);
+    display: block;
+    width: 70px;
+    font-family: Akrobat;
+    font-size: 14px;
+    position: absolute;
+    left: -9px;
+	top: 112px; 
+
+}
+
+.blocimgs {
+	position: absolute;
+    bottom: 12px;
+}

@@ -1295,18 +1295,6 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 	
 }
 
-.smbuttons {
-  position: fixed;
-  left: 60px;
-  bottom: 60px;
-  z-index: 99999999999999;
-  width: 50px;
-  height: 200px;
-  border-radius: 10px;
-  background-color: #fff;
-  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
-}
-
 .image-5 {
   position: absolute;
   right: 0px;
@@ -2012,6 +2000,17 @@ form.contactform textarea {
     text-align: right;
 }
 
+.smbuttons {
+  position: fixed;
+  left: 60px;
+  bottom: 60px;
+  z-index: 99999999999999;
+  width: 50px;
+  height: 240px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
+}
 
 .smicone {
 	bottom: 10px;
@@ -2024,8 +2023,8 @@ form.contactform textarea {
 
 img.iconez {
    border-radius: 5px;
-    width: 30px;
-    left: 10px;
+    width: 25px;
+    left: 12px;
     position: relative;
     bottom: 0;
 	margin-top: 5px;
@@ -2036,10 +2035,10 @@ p.joinustxt {
     display: block;
     width: 70px;
     font-family: Akrobat;
-    font-size: 18px;
+    font-size: 14px;
     position: absolute;
     left: -9px;
-	top: 30px; 
+	top: 112px; 
 
 }
 

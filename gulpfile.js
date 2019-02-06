@@ -11,7 +11,7 @@ gulp.task('default',['images']);
 
 
 gulp.task('images', () =>
-    gulp.src('static/images/uploads/**')
+    gulp.src(['static/images/uploads/*', '!static/images/uploads/*.svg'])
         .pipe(gulpNewer('static/images/uploadsPartners'))
         .pipe(imagemin([    
             imagemin.gifsicle({interlaced: true}),
