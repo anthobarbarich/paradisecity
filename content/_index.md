@@ -1,5 +1,5 @@
 ---
-imgvideo: /images/uploads/b64i7086.jpg
+imgvideo: /images/uploads/b64i708.jpg
 ---
 2019 marks our 5th anniversary and our excitement is mounting
 to deliver the most special edition to date. The Paradise City
