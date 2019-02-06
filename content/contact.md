@@ -1,7 +1,7 @@
 ---
 type: static
 uniqueid: contact
-title: 'Want to get in touch with us ? Time to contact us ! '
+title: 'Want to get in touch with us ?'
 ---
 <form name="contact" class="contactform" netlify>
   <p>
