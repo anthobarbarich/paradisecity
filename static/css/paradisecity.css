@@ -52,8 +52,6 @@ a {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(10, 93%, 72%, .86)), to(hsla(10, 93%, 72%, .86))), url('../images/texture.jpg'), -webkit-gradient(linear, left top, left bottom, from(#f5c3a3), to(#fa8d76));
-  background-image: linear-gradient(180deg, hsla(10, 93%, 72%, .86), hsla(10, 93%, 72%, .86)), url('../images/texture.jpg'), linear-gradient(180deg, #f5c3a3, #fa8d76);
   background-position: 0px 0px, 50% 50%, 0px 0px;
   background-size: auto, auto, auto;
   font-family: Montserrat, sans-serif;
