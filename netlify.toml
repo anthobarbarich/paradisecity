@@ -20,7 +20,7 @@
 	
 [build]
 publish = "public"
-command = "gulp; hugo"
+command = "hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.52"
