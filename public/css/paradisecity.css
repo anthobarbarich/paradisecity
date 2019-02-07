@@ -120,6 +120,7 @@ a {
 
 .container.split.margin-bottom {
   margin-bottom: 107px;
+	align-items: center;
 }
 
 .container.split.artistes {
@@ -1363,6 +1364,98 @@ html.w-mod-js *[data-ix="boyload"] {
   opacity: 0;
 }
 
+.container.split {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-evenly;
+}
+
+
+.datearticle {
+	font-size:14px;
+	color:#fa8d76;
+	display: inline-block;
+	text-align: center;
+}
+
+form.contactform input {
+	height: 60px;
+	width: 70%;
+	padding: 20px;
+	font-weight: 200;
+	border: 1px solid #e2e2e2
+}
+
+form.contactform label {
+padding: 10px;
+}
+form.contactform textarea {
+	height: 60px;
+	width: 70%;
+	padding: 20px;
+	font-weight: 200;
+	border: 1px solid #e2e2e2;
+	resize: none;
+}
+
+.container.split.margin-bottom:nth-child(odd) {
+    flex-direction: row-reverse;
+    text-align: right;
+}
+
+
+.smbuttons {
+  position: fixed;
+  left: 60px;
+  bottom: 60px;
+  z-index: 99999999999999;
+  width: 50px;
+  height: 240px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
+}
+
+.smicone {
+	bottom: 10px;
+	opacity: 0.8;
+}
+
+.smicone:first-child {
+	margin-top: 100px;
+}
+
+img.iconez {
+   border-radius: 5px;
+    width: 25px;
+    left: 12px;
+    position: relative;
+    bottom: 0;
+	margin-top: 5px;
+}
+
+p.joinustxt {
+    transform: rotate(-90deg);
+    display: block;
+    width: 70px;
+    font-family: Akrobat;
+    font-size: 14px;
+    position: absolute;
+    left: -9px;
+	top: 112px; 
+
+}
+
+.blocimgs {
+	position: absolute;
+    bottom: 12px;
+}
+
 @media (max-width: 991px) {
   .container {
     width: auto;
@@ -1669,6 +1762,11 @@ a.blogthumb.w-inline-block {
     color: #555;
     text-align: center;
   }
+	
+	.heading-3 {
+    font-size: 34px;
+    text-align: center;
+}
   .nav-menu {
     height: 100vh;
     background-color: #fffdf8;
@@ -1748,6 +1846,11 @@ a.blogthumb.w-inline-block {
 /*  .txtblock.introsection {
     display: none;
   }*/
+	.container.split.margin-bottom:nth-child(odd) {
+    flex-direction: column;
+    text-align: right;
+}
+	
   .txtblock.green {
     display: none;
   }
@@ -1832,6 +1935,12 @@ a.blogthumb.w-inline-block {
   .feuille {
     width: 228px;
   }
+	
+	.container.split.margin-bottom {
+    flex-direction:column;
+    text-align: center;
+}
+	
   .feuille.rouge {
     right: -90px;
     width: 138px;
@@ -1948,101 +2057,9 @@ a.blogthumb.w-inline-block {
     margin-top: 1px;
   }
 }
-
 @font-face {
   font-family: 'Akrobat';
   src: url('../fonts/Akrobat-Black.otf') format('opentype');
   font-weight: 900;
   font-style: normal;
-}
-
-.container.split {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
-    -ms-flex-pack: justify;
-    justify-content: space-evenly;
-}
-
-
-.datearticle {
-	font-size:14px;
-	color:#fa8d76;
-	display: inline-block;
-	text-align: center;
-}
-
-form.contactform input {
-	height: 60px;
-	width: 70%;
-	padding: 20px;
-	font-weight: 200;
-	border: 1px solid #e2e2e2
-}
-
-form.contactform label {
-padding: 10px;
-}
-form.contactform textarea {
-	height: 60px;
-	width: 70%;
-	padding: 20px;
-	font-weight: 200;
-	border: 1px solid #e2e2e2;
-	resize: none;
-}
-
-.container.split.margin-bottom:nth-child(odd) {
-    flex-direction: row-reverse;
-    text-align: right;
-}
-
-.smbuttons {
-  position: fixed;
-  left: 60px;
-  bottom: 60px;
-  z-index: 99999999999999;
-  width: 50px;
-  height: 240px;
-  border-radius: 10px;
-  background-color: #fff;
-  box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
-}
-
-.smicone {
-	bottom: 10px;
-	opacity: 0.8;
-}
-
-.smicone:first-child {
-	margin-top: 100px;
-}
-
-img.iconez {
-   border-radius: 5px;
-    width: 25px;
-    left: 12px;
-    position: relative;
-    bottom: 0;
-	margin-top: 5px;
-}
-
-p.joinustxt {
-    transform: rotate(-90deg);
-    display: block;
-    width: 70px;
-    font-family: Akrobat;
-    font-size: 14px;
-    position: absolute;
-    left: -9px;
-	top: 112px; 
-
-}
-
-.blocimgs {
-	position: absolute;
-    bottom: 12px;
 }
