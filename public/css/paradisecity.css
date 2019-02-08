@@ -52,8 +52,7 @@ a {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(10, 93%, 72%, .86)), to(hsla(10, 93%, 72%, .86))), url('../images/texture.jpg'), -webkit-gradient(linear, left top, left bottom, from(#f5c3a3), to(#fa8d76));
-  background-image: linear-gradient(180deg, hsla(10, 93%, 72%, .86), hsla(10, 93%, 72%, .86)), url('../images/texture.jpg'), linear-gradient(180deg, #f5c3a3, #fa8d76);
+  background-image: linear-gradient(180deg, hsla(10, 93%, 72%, .86), hsla(10, 93%, 72%, .86)), linear-gradient(180deg, #f5c3a3, #fa8d76);
   background-position: 0px 0px, 50% 50%, 0px 0px;
   background-size: auto, auto, auto;
   font-family: Montserrat, sans-serif;
@@ -337,7 +336,7 @@ a {
   margin-top: -186px;
   padding-top: 60px;
   padding-bottom: 99px;
-  background-image: url('../images/roundshape01.svg');
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTUwIDE5MjciPjxnIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PHBhdGggZD0iTTU0MyAxNTM4YTg1NyA4NTcgMCAwIDAgNDM0LTI5OCA4MjMgODIzIDAgMCAwIDE2NS02MzNjLTc1LTU3MS00MTktNDA3LTc4MS0zNjZDMiAyODIgMCA2IDAgMHYxOTI3YzgtMTE1IDMxNC0zMzMgNTQzLTM4OXoiIGZpbGw9IiNmZmYiIGRhdGEtbmFtZT0iTGF5ZXIgMSIvPjwvZz48L3N2Zz4=");
   background-position: 0px 0px;
   background-size: 60%;
   background-repeat: no-repeat;
