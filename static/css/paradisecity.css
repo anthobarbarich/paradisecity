@@ -1032,6 +1032,7 @@ flex-direction: row;
   border-radius: 4px;
   background-color: #fa8d76;
   background-image: url('../images/shapesblog-2.png');
+  background-image: image("../images/shapesblog-2.webp", "../images/shapesblog-2.png");
   background-position: 0px 100%;
   background-size: contain;
   background-repeat: no-repeat;
