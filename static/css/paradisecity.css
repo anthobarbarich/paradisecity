@@ -163,6 +163,7 @@ a {
   -ms-flex-line-pack: distribute;
   align-content: space-around;
   text-align: center;
+	padding-bottom: 100px;
 }
 
 .container.nav {
@@ -812,7 +813,7 @@ flex-direction: row;
   color: #fff;
 }
 
-.partnerimg {
+#partnerimg {
   position: relative;
   width: 87px;
   margin-right: 83px;
@@ -824,7 +825,7 @@ flex-direction: row;
   flex: 0 0 auto;
 }
 
-.image-2 {
+#image-2 {
   position: relative;
   bottom: -90px;
   width: 100%;
@@ -1256,9 +1257,9 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   width: 80%;
 }
 
-.logobottom {
+#logobottom {
   position: absolute;
-  bottom: -150px;
+  bottom: -50px;
   z-index: 10;
   display: block;
   margin-right: auto;
@@ -1610,7 +1611,7 @@ p.joinustxt {
     margin-left: auto;
     text-align: center;
   }
-  .blogthumb {
+  #blogthumb {
     width: 45%;
     -webkit-box-flex: 0;
     -webkit-flex: 0 auto;
@@ -1618,7 +1619,7 @@ p.joinustxt {
     flex: 0 auto;
   }
 	
-a.blogthumb.w-inline-block {
+a#blogthumb.w-inline-block {
     margin-bottom: 40px;
 }
   .btcta.reverse {
@@ -1744,7 +1745,7 @@ a.blogthumb.w-inline-block {
     padding-left: 10px;
   }
   .container.partners {
-    margin-bottom: 171px;
+    margin-bottom: 200px;
     padding-right: 20px;
     padding-left: 20px;
     -webkit-flex-wrap: wrap;
@@ -1879,7 +1880,7 @@ a.blogthumb.w-inline-block {
   .section-intro.nomargin {
     text-align: center;
   }
-  .blogthumb {
+ #blogthumb {
     width: 100%;
     margin-right: 0px;
 	margin-bottom: 20px;
@@ -1922,11 +1923,11 @@ a.blogthumb.w-inline-block {
     width: 250%;
     max-width: 300%;
   }
-  .partnerimg {
+ #partnerimg {
     width: 57px;
     margin-right: 10px;
   }
-  .image-2 {
+  #image-2 {
     bottom: -30px;
   }
   .feuille {
@@ -2046,7 +2047,7 @@ a.blogthumb.w-inline-block {
     width: 100%;
     margin-right: 0px;
   }
-  .logobottom {
+  #logobottom {
     width: 107px;
   }
   .circlelogoonly {

@@ -1,14 +1,14 @@
   <div class="section-partners">
     <div class="container partners"> {{ range where .Site.Pages "Params.uniqueid" "partners" }}	
 		{{ range .Params.partner }}	
-		<img data-src="{{.photo}}" alt="{{.name}}" class="lozad" width="132">
+		<img data-src="{{.photo}}" alt="{{.name}}" class="lozad" width="132" id="partnerimg">
 		{{ end }}		{{ .Content }}
 		{{ end }}
 	
-		<img data-src="https://d33wubrfki0l68.cloudfront.net/32bbea10aadf67711d8c467cb9803094e14cb396/f59fb/images/minilogoorange.svg" width="137" alt="" class="lozad">
+		<img data-src="https://d33wubrfki0l68.cloudfront.net/32bbea10aadf67711d8c467cb9803094e14cb396/f59fb/images/minilogoorange.svg" width="137" alt="" class="lozad" id="logobottom">
 		
 		<!--<img src="../images/Image-15.png" alt="" class="partnerimg"><img src="../images/Image-14.png" alt="" class="partnerimg"><img src="../images/Image-29.png" alt="" class="partnerimg"><img src="../images/Image-31.png" alt="" class="partnerimg"><img src="../images/Image-23.png" alt="" class="partnerimg"><img src="../images/Image-20.png" alt="" class="partnerimg"><img src="../images/Image-17.png" alt="" class="partnerimg"><img src="../images/Image-13.png" alt="" class="partnerimg"><img src="../images/Image-16.png" alt="" class="partnerimg"><img src="../images/Image-22.png" alt="" class="partnerimg"><img src="../images/Image-18.png" alt="" class="partnerimg"><img src="../images/Image-25.png" alt="" class="partnerimg"><img src="../images/Image-27.png" alt="" class="partnerimg"><img src="../images/Image-19.png" alt="" class="partnerimg"><img src="../images/Image-24.png" alt="" class="partnerimg"><img src="../images/Image-30.png" alt="" class="partnerimg"><img src="../images/minilogoorange.svg" width="137" alt="" class="logobottom"><img src="../images/Image-21.png" alt="" class="partnerimg"><img src="../images/Image-26.png" alt="" class="partnerimg"></div>-->
 	  
 	  </div>
 	  
-	  <img data-src="/images/bgfoot2.jpg" class="lozad" width="1200">
+	  <img data-src="/images/bgfoot2.jpg" class="lozad" width="1200" style="width:100%;position:relative;bottom" />
