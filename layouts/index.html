@@ -2,6 +2,10 @@
 <html>
 <head>
 <meta charset="utf-8">
+	{{ with resources.Get "css/paradisecity.css" | minify }}
+<style>{{ .Content | safeCSS }}.body {overflow-x: hidden;overflow-y: scroll;}
+</style>
+{{ end }}
 <title>Paradise City Festival 2019 | 5, 6 & 7 July Perk, Belgium</title>
 <meta name="description" content="{{ .Content | truncate 150 }}" />
 <meta content="Paradise City Festival 2019 | 5, 6 & 7 July Perk, Belgium" property="og:title">
@@ -12,10 +16,8 @@
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <!--<link href="css/normalize.css" rel="stylesheet" type="text/css">
 <link href="css/components.css" rel="stylesheet" type="text/css">-->
-
-<link href="css/paradisecity.css" rel="stylesheet" type="text/css">
+<!--<link href="css/paradisecity.css" rel="stylesheet" type="text/css">-->
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js" type="text/javascript" defer></script>
   <script type="text/javascript" defer>
       WebFont.load({
         google: {
@@ -28,10 +30,7 @@
 <link href="images/favico.png" rel="shortcut icon" type="image/x-icon">
 
 
-{{ with resources.Get "css/paradisecity.css" | minify }}
-<style>{{ .Content | safeCSS }}.body {overflow-x: hidden;overflow-y: scroll;}
-</style>
-{{ end }}
+
 </head>
 <body class="body home">
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CP3V8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>

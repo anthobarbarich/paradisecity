@@ -9,6 +9,11 @@ const webp = require('gulp-webp');
 
 gulp.task('default',['images']);
 
+gulp.task('minify', () => {
+  return gulp.src('public/**/*.html')
+    .pipe(htmlmin({ collapseWhitespace: true }))
+    .pipe(gulp.dest('public'));
+});
 
 gulp.task('images', () =>
     gulp.src(['static/images/uploads/*', '!static/images/uploads/*.svg'])
