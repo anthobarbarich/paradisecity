@@ -104,10 +104,10 @@
   </div>
   <div class="container writing">
     <h3 class="section-intro">THE writing on the walls</h3>
-    <div class="col4 whitebg"> {{ range first 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate.Reverse }} <a href="{{.Permalink}}" class="blogthumb w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('/thumbs/{{ .Params.thumbnail }}'); background-size: cover; background-position: center;">
+    <div class="col4 whitebg"> {{ range first 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate.Reverse }} <div class="lozad" data-background-image="{{ .Params.thumbnail }}" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)); background-size: cover; background-position: center;">
       <h3 class="headingblogthumb"><span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>
         {{ .Title }}</h3>
-      </a> {{ end }} <a href="news.html" class="btcta reverse w-button">all news →</a></div>
+      </div> {{ end }} <a href="news.html" class="btcta reverse w-button">all news →</a></div>
     <div id="w-node-72ed13c86f3e-feae796a" class="block50 bgwhite"></div>
   </div>
 </div>
