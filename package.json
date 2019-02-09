@@ -39,6 +39,7 @@
     "imagemin": "^6.1.0",
     "imagemin-mozjpeg": "^8.0.0",
     "imagemin-webp": "^5.0.0",
-    "intersection-observer": "^0.5.1"
+    "intersection-observer": "^0.5.1",
+    "lozad": "^1.8.0"
   }
 }

@@ -16,7 +16,12 @@
         <div class="btn-hero">book them now !</div>
       </a>
     </div>
-<!-- {{ partial "partners.html" . }}-->
+{{ partial "partners.html" . }}
 <!--{{ partial "scripts.html" . }}-->
+<script>
+const el = document.querySelector('img');
+const observer = lozad(el); // passing a `NodeList` (e.g. `document.querySelectorAll()`) is also valid
+observer.observe();
+</script>
 </body>
 </html> 
