@@ -26,14 +26,11 @@
   
   <script type="text/javascript" defer>!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
 <link href="images/favico.png" rel="shortcut icon" type="image/x-icon">
-<!--<style>
-.body {
-    overflow-x: hidden;
-    overflow-y: scroll;
-}
-</style>-->
+
+
 {{ with resources.Get "css/paradisecity.css" | minify }}
-<style>{{ .Content | safeCSS }}</style>
+<style>{{ .Content | safeCSS }}.body {overflow-x: hidden;overflow-y: scroll;}
+</style>
 {{ end }}
 </head>
 <body class="body home">
