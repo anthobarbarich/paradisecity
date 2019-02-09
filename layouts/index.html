@@ -18,9 +18,7 @@
 <link href="css/components.css" rel="stylesheet" type="text/css">
 <link href="css/paradisecity.css" rel="stylesheet" type="text/css">
 <link href="images/favico.png" rel="shortcut icon" type="image/x-icon">
-<script type="text/javascript">/*! lozad.js - v1.8.0 - 2019-01-31
-* https://github.com/ApoorvSaxena/lozad.js
-* Copyright (c) 2019 Apoorv Saxena; Licensed MIT */
+<script type="text/javascript">
 !function(t,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e():"function"==typeof define&&define.amd?define(e):t.lozad=e()}(this,function(){"use strict";var g=Object.assign||function(t){for(var e=1;e<arguments.length;e++){var r=arguments[e];for(var o in r)Object.prototype.hasOwnProperty.call(r,o)&&(t[o]=r[o])}return t},n="undefined"!=typeof document&&document.documentMode,l={rootMargin:"0px",threshold:0,load:function(t){if("picture"===t.nodeName.toLowerCase()){var e=document.createElement("img");n&&t.getAttribute("data-iesrc")&&(e.src=t.getAttribute("data-iesrc")),t.getAttribute("data-alt")&&(e.alt=t.getAttribute("data-alt")),t.appendChild(e)}if("video"===t.nodeName.toLowerCase()&&!t.getAttribute("data-src")&&t.children){for(var r=t.children,o=void 0,a=0;a<=r.length-1;a++)(o=r[a].getAttribute("data-src"))&&(r[a].src=o);t.load()}t.getAttribute("data-src")&&(t.src=t.getAttribute("data-src")),t.getAttribute("data-srcset")&&t.setAttribute("srcset",t.getAttribute("data-srcset")),t.getAttribute("data-background-image")&&(t.style.backgroundImage="url('"+t.getAttribute("data-background-image")+"')"),t.getAttribute("data-toggle-class")&&t.classList.toggle(t.getAttribute("data-toggle-class"))},loaded:function(){}};
 /**
    * Detect IE browser
@@ -112,14 +110,19 @@
   </div>
   <div class="container writing">
     <h3 class="section-intro">THE writing on the walls</h3>
-    <div class="col4 whitebg"> {{ range first 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate.Reverse }} <div class="lozad" data-background-image="{{ .Params.thumbnail }}" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)); background-size: cover; background-position: center;">
+    <div class="col4 whitebg"> {{ range first 4 (where .Site.Pages "Params.layout" "blog").ByPublishDate.Reverse }} <a id ="blogthumb" class="lozad"  href="{{ .Permalink }}" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)); background-size: cover; background-position: center;" data-background-image="{{ .Params.thumbnail }}">
       <h3 class="headingblogthumb"><span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>
         {{ .Title }}</h3>
-      </div> {{ end }} <a href="news.html" class="btcta reverse w-button">all news →</a></div>
+      </a> {{ end }} <a href="news.html" class="btcta reverse w-button">all news →</a></div>
     <div id="w-node-72ed13c86f3e-feae796a" class="block50 bgwhite"></div>
   </div>
 </div>
-<div class="lozad" data-background-image="/images/lineupteasing.jpg">
+<div class="lozad" data-background-image="/images/lineupteasing.jpg" style="position: relative;z-index: 1;padding-top: 200px;
+  padding-bottom: 200px;
+  background-position: 50% 50%;
+  background-size: auto;
+  color: #fff;
+  text-align: center; background-size: cover;">
   <div class="container">
     <h3 class="section-cta">LINE-UP</h3>
     <div class="line"></div>

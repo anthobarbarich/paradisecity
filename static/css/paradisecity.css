@@ -553,7 +553,7 @@ flex-direction: row;
   margin-bottom: 25px;
 }
 
-.blogthumb {
+#blogthumb {
 	padding: 10px;
   position: relative;
   z-index: 99;
@@ -596,7 +596,7 @@ flex-direction: row;
   transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
 
-.blogthumb:hover {
+#blogthumb:hover {
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
   transform: scale(1.06);
@@ -691,7 +691,6 @@ flex-direction: row;
   z-index: 1;
   padding-top: 200px;
   padding-bottom: 200px;
-  background-image: url('../images/lineupteasing.jpg');
   background-position: 50% 50%;
   background-size: auto;
   color: #fff;
