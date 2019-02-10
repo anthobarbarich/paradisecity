@@ -694,9 +694,8 @@ flex-direction: row;
   z-index: 1;
   padding-top: 200px;
   padding-bottom: 200px;
-  background-image: url('../images/lineupteasing.jpg');
   background-position: 50% 50%;
-  background-size: auto;
+  background-size:cover;
   color: #fff;
   text-align: center;
 }
