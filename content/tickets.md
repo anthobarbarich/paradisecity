@@ -3,6 +3,8 @@ type: static
 uniqueid: tickets
 title: Tickets
 ---
+Green card owner or looking for the early access tickets ? 
+
 <br><br><div class="col4 greencard">
 	<a href="/news-item" class="ticketschoice w-inline-block">
 		<h2 class="heading-3" style="color:white">green card shop</h3>
