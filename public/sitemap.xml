@@ -94,6 +94,12 @@
   </url>
   
   <url>
+    <loc>/tickets/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
