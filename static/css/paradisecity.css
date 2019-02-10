@@ -597,15 +597,14 @@ padding: 00px;
   transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
 
-.blogthumb:before {
+.blogthumb:after {
 	position: absolute;
 	content: "";
 	background-color: black;
 	opacity: 0.3;
 	width: 100%;
 	height: 100%;
-	
-	
+	z-index: 9;
 }
 
 .blogthumb:hover {
