@@ -1823,6 +1823,9 @@ a.blogthumb.w-inline-block {
   .container.nav {
     text-align: center;
   }
+  .ticketschoice {
+	    width: 100%;
+	}	
   .nav-link {
     margin-left: 0px;
     color: #555;
