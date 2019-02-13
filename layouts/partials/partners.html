@@ -2,7 +2,7 @@
 	<div class="container partners">
 		{{ range where .Site.Pages "Params.uniqueid" "partners" }}
 			{{ range .Params.partner }}
-			<img src="{{.photo}}" alt="{{.name}}" class="partnerimg" width="132">
+			<img src="{{.photo}}" alt="{{.name}}" class="partnerimg lozad" width="132">
 			{{ end }}
 			{{ .Content }}
 		{{ end }}
