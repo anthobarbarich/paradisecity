@@ -1,2 +1,4 @@
-<img src="/images/shapesrightintro.png" width="314" srcset="/images/shapesrightintro-p-500.png 500w, /images/shapesrightintro.png 711w" sizes="(max-width: 479px) 100vw, 314px" alt="" class="uppagebody">
- {{ partial "nav.html" . }}
+{{ if ne .Params.page_class "home" }}
+  <img data-src="/images/shapesrightintro.png" width="314" srcset="/images/shapesrightintro-p-500.png 500w, /images/shapesrightintro.png 711w" sizes="(max-width: 479px) 100vw, 314px" alt="" class="uppagebody lozad">
+{{ end }}
+{{ partial "nav.html" . }}

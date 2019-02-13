@@ -149,8 +149,12 @@ a {
 }
 
 .nav-menu {
-  display: block;
+  display: none;
   padding-top: 52px;
+
+  @media screen and (min-width:992px) {
+    display:block;
+  }
 }
 
 .nav-menu__list {
@@ -625,7 +629,6 @@ a {
   position: relative;
   bottom: -90px;
   width: 100%;
-  z-index:70;
 }
 
 .feuille {
@@ -1308,7 +1311,6 @@ p.joinustxt {
   .brand {
     position: relative;
     display: block;
-    width: 200px;
     margin-top: 54px;
     margin-right: auto;
     margin-left: auto;
@@ -1411,9 +1413,6 @@ a.blogthumb.w-inline-block {
     flex-direction: row;
     flex: 0 auto;
   }
-  .circlelogoonly {
-    width: 123px;
-  }
 }
 
 @media (max-width: 767px) {
@@ -1509,7 +1508,6 @@ a.blogthumb.w-inline-block {
     position: absolute;
     left: 50%;
     display: block;
-    width: 190px;
     margin-top: 50px;
     margin-right: auto;
     margin-left: auto;
@@ -1727,9 +1725,5 @@ a.blogthumb.w-inline-block {
   }
   .logobottom {
     width: 107px;
-  }
-  .circlelogoonly {
-    width: 118px;
-    margin-top: 1px;
   }
 }

@@ -8,7 +8,7 @@
       <br> <br>
       {{ range .Params.restos }}
       <div class="container split margin-bottom">
-        <div class="block50"><img src="{{ .resto.img }}" width="400" alt="{{ .title }}" class="greenimages"></div>
+        <div class="block50"><img data-src="{{ .resto.img }}" width="400" alt="{{ .title }}" class="greenimages lozad"></div>
         <div class="block50">
           <h3 class="section-intro nomargin">{{ .resto.title }}</h3>
           <div class="txtblock">{{ .resto.description | markdownify }}.</div>

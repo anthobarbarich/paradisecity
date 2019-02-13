@@ -135,26 +135,26 @@ steps:
     To make sure we minimize our impacts, we have set a 10 steps process.
   </h3>
   <div class="block-icons">
-    <img src="../images/Groupe-11.svg" alt="" class="icon" /><img
-      src="../images/Groupe-12.svg"
+    <img data-src="../images/Groupe-11.svg" alt="" class="icon lozad" /><img
+      data-src="../images/Groupe-12.svg"
       alt=""
-      class="icon"
-    /><img src="../images/Groupe-13.svg" alt="" class="icon" /><img
-      src="../images/Groupe-14.svg"
+      class="icon lozad"
+    /><img data-src="../images/Groupe-13.svg" alt="" class="icon lozad" /><img
+      data-src="../images/Groupe-14.svg"
       alt=""
-      class="icon"
-    /><img src="../images/Groupe-15.svg" alt="" class="icon" /><img
-      src="../images/Groupe-20.svg"
+      class="icon lozad"
+    /><img data-src="../images/Groupe-15.svg" alt="" class="icon lozad" /><img
+      data-src="../images/Groupe-20.svg"
       alt=""
-      class="icon"
-    /><img src="../images/Groupe-19.svg" alt="" class="icon" /><img
-      src="../images/Groupe-18.svg"
+      class="icon lozad"
+    /><img data-src="../images/Groupe-19.svg" alt="" class="icon lozad" /><img
+      data-src="../images/Groupe-18.svg"
       alt=""
-      class="icon"
-    /><img src="../images/Groupe-17.svg" alt="" class="icon" /><img
-      src="../images/Groupe-16.svg"
+      class="icon lozad"
+    /><img data-src="../images/Groupe-17.svg" alt="" class="icon lozad" /><img
+      data-src="../images/Groupe-16.svg"
       alt=""
-      class="icon"
+      class="icon lozad"
     />
   </div>
 </div>
