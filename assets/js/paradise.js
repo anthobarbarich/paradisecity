@@ -24,3 +24,15 @@ function scrollAnimations() {
     toggleFixedNav();
     cloudsAnim();
 }
+
+/**
+ * MENU MOBILE
+ */
+
+var burgerIcon = document.getElementById("burger-icon");
+
+function toggleMenu() {
+    document.body.classList.toggle("nav-opened");
+}
+
+burgerIcon.addEventListener('click', toggleMenu);
