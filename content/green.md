@@ -1,7 +1,7 @@
 ---
 type: green
 uniqueid: green
-title: 'Respect the nature, respect the castle'
+title: "Respect the nature, respect the castle"
 steps:
   - step:
       description: >-
@@ -21,7 +21,7 @@ steps:
         internally in order to offer large & balanced alternatives. We also try
         to adapt food quantity to avoid leftovers.
       img: /images/uploads/plan-de-travail-–-9.svg
-      title: 'Future food '
+      title: "Future food "
   - step:
       description: >-
         Waste Management allows us, with our visitors’ participation, to **sort,
@@ -40,7 +40,7 @@ steps:
         public transport, the lower the carbon footprint per passenger, the
         lower the carbon footprint per festival resident.
       img: /images/uploads/plan-de-travail-–-7.svg
-      title: 'Transport '
+      title: "Transport "
   - step:
       description: >-
         Filtered tap water is available to avoid a wave of plastic water bottles
@@ -73,7 +73,7 @@ steps:
         impact. Taking our responsibility, we **offset** the unavoidable climate
         impact through the support of CO2logic’s climate project.
       img: /images/uploads/plan-de-travail-–-3.svg
-      title: 'CO2-Neutral '
+      title: "CO2-Neutral "
   - step:
       description: >-
         Camping has always been an ecological issue for festivals, meanly
@@ -92,21 +92,69 @@ steps:
       img: /images/uploads/plan-de-travail-–-12.svg
       title: Awareness
 ---
-<p class="txtblock">We are <strong>optimists</strong> and we think the <strong>future can be bright</strong>. Therefore, we need to take sustainability seriously, knowing that any gathering of a large number of people has a potential negative impact on air, soil, water, resources and people. We need to draw up less resources, and we decided to start with our own little festival and go <strong>full on for a green policy</strong>. We trust we can influence change by leaving a positive legacy and <strong>hopefully inspiring</strong> our visitors to live more <strong>sustainably</strong>. It’s with these ideas that we try to build our festival as green as possible, improving ourselves year after year and knowing that we still have a long way ahead of us</p>
+
+<p class="txtblock">
+  We are <strong>optimists</strong> and we think the
+  <strong>future can be bright</strong>. Therefore, we need to take
+  sustainability seriously, knowing that any gathering of a large number of
+  people has a potential negative impact on air, soil, water, resources and
+  people. We need to draw up less resources, and we decided to start with our
+  own little festival and go <strong>full on for a green policy</strong>. We
+  trust we can influence change by leaving a positive legacy and
+  <strong>hopefully inspiring</strong> our visitors to live more
+  <strong>sustainably</strong>. It’s with these ideas that we try to build our
+  festival as green as possible, improving ourselves year after year and knowing
+  that we still have a long way ahead of us
+</p>
 
 <div>
-      <div class="container split center">
-        <div class="block50">
-          <h3 class="section-heading">Mandatory behaviors</h3>
-          <div class="txtblock green page">	✓	respect the nature on site.<br>	✓	respect the ground.<br>	✓	respect the trees, some are very old.<br>	✓	respect the water area (the small lake, the waterways …).</div>
-        </div>
-        <div class="block50">
-          <h3 class="section-heading">What you cannot do / use or bring</h3>
-          <div class="txtblock green page">	✓	do not pee on the land, use the provided toilets.<br>do not litter on the land, use the provided bins.<br>	✓	do not throw cigarettes butts on the floor as we recycle them, use provided ashtrays.<br>	✓	no plastic bottles for sale (you must use the reusable cups).<br>	✓	no flyering or stickering of any sort.</div>
-        </div>
+  <div class="container split center">
+    <div class="block50">
+      <h3 class="section-heading">Mandatory behaviors</h3>
+      <div class="txtblock green page">
+        ✓ respect the nature on site.<br />
+        ✓ respect the ground.<br />
+        ✓ respect the trees, some are very old.<br />
+        ✓ respect the water area (the small lake, the waterways …).
       </div>
-	<br><br><br><h3 class="section-intro">To make sure we minimize our impacts, we have set a 10 steps process.
-</h3>
-      <div class="block-icons"><img src="../images/Groupe-11.svg" alt="" class="icon"><img src="../images/Groupe-12.svg" alt="" class="icon"><img src="../images/Groupe-13.svg" alt="" class="icon"><img src="../images/Groupe-14.svg" alt="" class="icon"><img src="../images/Groupe-15.svg" alt="" class="icon"><img src="../images/Groupe-20.svg" alt="" class="icon"><img src="../images/Groupe-19.svg" alt="" class="icon"><img src="../images/Groupe-18.svg" alt="" class="icon"><img src="../images/Groupe-17.svg" alt="" class="icon"><img src="../images/Groupe-16.svg" alt="" class="icon"></div>
+    </div>
+    <div class="block50">
+      <h3 class="section-heading">What you cannot do / use or bring</h3>
+      <div class="txtblock green page">
+        ✓ do not pee on the land, use the provided toilets.<br />do not litter
+        on the land, use the provided bins.<br />
+        ✓ do not throw cigarettes butts on the floor as we recycle them, use
+        provided ashtrays.<br />
+        ✓ no plastic bottles for sale (you must use the reusable cups).<br />
+        ✓ no flyering or stickering of any sort.
+      </div>
     </div>
   </div>
+  <br /><br /><br />
+  <h3 class="section-intro">
+    To make sure we minimize our impacts, we have set a 10 steps process.
+  </h3>
+  <div class="block-icons">
+    <img src="../images/Groupe-11.svg" alt="" class="icon" /><img
+      src="../images/Groupe-12.svg"
+      alt=""
+      class="icon"
+    /><img src="../images/Groupe-13.svg" alt="" class="icon" /><img
+      src="../images/Groupe-14.svg"
+      alt=""
+      class="icon"
+    /><img src="../images/Groupe-15.svg" alt="" class="icon" /><img
+      src="../images/Groupe-20.svg"
+      alt=""
+      class="icon"
+    /><img src="../images/Groupe-19.svg" alt="" class="icon" /><img
+      src="../images/Groupe-18.svg"
+      alt=""
+      class="icon"
+    /><img src="../images/Groupe-17.svg" alt="" class="icon" /><img
+      src="../images/Groupe-16.svg"
+      alt=""
+      class="icon"
+    />
+  </div>
+</div>

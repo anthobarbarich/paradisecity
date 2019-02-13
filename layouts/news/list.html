@@ -1,20 +1,18 @@
-{{ partial "header.html" . }}
-
+{{ define "main" }}
 <div class="section-page line-up">
-    <div class="container writing">
-		<h3 class="section-intro">{{.Title}}</h3>        
-		<div class="container split artistes">
-			
-			  {{ range .Pages.ByPublishDate.Reverse }}
-          <a href="{{.Permalink}}" class="artiste w-inline-block" style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('{{ .Params.thumbnail }}'); background-size: cover;background-position: center;">
-            <h3 class="headingblogthumb"><span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>{{ .Title }}</h3>
-          </a>
-			{{ end }}
-        </div>
-        <div id="w-node-fb8e61b59f78-bd048010" class="block50 bgwhite"></div>
-      </div>
-					{{ .Content }}
-
-		
-	</div>
-{{ partial "footer.html" . }}
+  <div class="container writing">
+    <h3 class="section-intro">{{.Title}}</h3>
+    <div class="container split artistes">
+      {{ range .Pages.ByPublishDate.Reverse }}
+      <a href="{{.Permalink}}" class="artiste w-inline-block"
+        style="background-image: linear-gradient(180deg, rgba(0, 0, 0, .24), rgba(0, 0, 0, .24)), url('{{ .Params.thumbnail }}'); background-size: cover;background-position: center;">
+        <h3 class="headingblogthumb"><span class="datearticle">{{ .Date.Format "Mon, Jan 2" }}</span><br>{{ .Title }}
+        </h3>
+      </a>
+      {{ end }}
+    </div>
+    <div id="w-node-fb8e61b59f78-bd048010" class="block50 bgwhite"></div>
+  </div>
+  {{ .Content }}
+</div>
+{{ end }}

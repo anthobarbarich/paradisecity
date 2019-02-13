@@ -1,22 +1,20 @@
-{{ partial "header.html" . }}
-<div>
+{{ define "main" }}
   <div class="section-page">
     <div class="container writing">
-        <h3 class="section-intro">{{ .Title }}</h3>
+      <h3 class="section-intro">{{ .Title }}</h3>
       <div class="textblock w-richtext">
-        	{{ .Content }}
-  </div>
-		<br>	<br>
-		  {{ range .Params.restos }} 
-    <div class="container split margin-bottom">
+        {{ .Content }}
+      </div>
+      <br> <br>
+      {{ range .Params.restos }}
+      <div class="container split margin-bottom">
         <div class="block50"><img src="{{ .resto.img }}" width="400" alt="{{ .title }}" class="greenimages"></div>
-		   <div class="block50">
+        <div class="block50">
           <h3 class="section-intro nomargin">{{ .resto.title }}</h3>
           <div class="txtblock">{{ .resto.description | markdownify }}.</div>
         </div>
       </div>
-	   {{end}}
-</div>
-{{ partial "footer.html" . }}    
-
-
+      {{end}}
+    </div>
+  </div>
+{{ end }}

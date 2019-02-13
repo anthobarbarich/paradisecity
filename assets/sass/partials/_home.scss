@@ -1,0 +1,61 @@
+/*
+* HOMEPAGE
+*/
+
+.home-about {
+
+    p, h2 {
+        margin-bottom:$su*1.5;
+    }
+
+    a {
+        margin: 0 $su/2 $su/2 0;
+    }
+
+    @media screen and (min-width:960px) {
+        
+        p, h2 {
+            padding-right:$su;
+        }
+    }
+}
+
+#excess-paper {
+    text-decoration:underline;
+    position:relative;
+
+    &:hover {
+        text-decoration: none;
+        cursor:pointer;
+    }
+}
+
+#excess-paper-text {
+    display:none;
+    position:relative;
+    border: 2px solid;
+    padding: 0.5em;
+    text-decoration: none;
+    margin-top:$su;
+    background:$white;
+    z-index:50;
+    width:100%;
+    max-width:374px;
+
+    @media screen and (min-width:600px) {
+        padding: 1em;
+        position:absolute;
+        width:374px;
+    }
+
+    &.visible {
+        display:block;
+    }
+}
+
+#excess-paper-close-btn {
+    display: block;
+    position: absolute;
+    top: -15px;
+    right: -15px;
+}

@@ -1,0 +1,24 @@
+/*
+    FIXED HEADER ON HOMEPAGE
+*/
+window.onscroll = function() {scrollAnimations()toggleFixedNav()};
+var fixedNav = document.getElementById("fixed-nav");
+var clouds = document.getElementById("blocknuages");
+var spot = 100;
+
+function toggleFixedNav() {
+  if (window.pageYOffset > spot) {
+    fixedNav.classList.add("visible");
+  } else {
+    fixedNav.classList.remove("visible");
+  }
+} 
+
+function clouds() {
+    blocknuages.style.left = window.pageYOffset;
+} 
+
+function scrollAnimations() {
+    toggleFixedNav();
+    clouds();
+}

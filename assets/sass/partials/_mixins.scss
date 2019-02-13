@@ -1,0 +1,19 @@
+/*
+* MIXINS
+*/
+
+@mixin max-width($length:$mw) {
+    width:100%;
+    max-width:$length;
+    margin-left:auto;
+    margin-right:auto;
+    /* @if $length {
+        max-width: $length;
+    } @else {
+        max-width: $mw;
+    } */
+} 
+
+@mixin f-ss {
+    font-family:Helvetica, Arial, sans-serif;
+} 

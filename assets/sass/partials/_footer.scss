@@ -1,0 +1,41 @@
+/*
+* FOOTER
+*/
+
+.site-footer {
+    padding-top:$su;
+    padding-bottom:$su;
+	position: relative;
+}
+
+
+.footer-content {
+    margin-top: $su;
+	display:flex;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+
+.footer-content__item {
+    width:100%;
+    list-style-type: none;
+	margin-bottom: $su*1.5;
+
+    @media (min-width:320px) {
+        width:100%;
+    }
+
+    @media (min-width:720px) {
+        width:50%;
+		margin-bottom: 0;
+    }
+
+    @media (min-width:980px) {
+        width:30%;
+		margin-bottom: 0;
+    }
+	
+	h3 {
+		margin-bottom: $su*0.8;
+	}  
+}

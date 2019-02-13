@@ -1,0 +1,57 @@
+/*
+* BASE
+*/
+
+::selection {
+	background-color: var(--templateColor);
+	color: white;
+}
+
+html, body {
+    font-family: Courier New,Courier,Lucida Sans Typewriter,Lucida Typewriter,monospace;   
+    font-size:16px;
+    font-weight:400;
+    color:var(--templateColor);
+    min-height:100vh;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	
+    @media (min-width:400px) {
+        font-size:18px;
+    }
+
+    @media (min-width:768px) {
+        font-size:20px;
+    }
+}
+
+body {
+    border:10px solid var(--templateColor);
+    background-attachment: fixed;
+
+    @media (min-width:600px) {
+        border:15px solid var(--templateColor);
+    } 
+
+    &.home .site-nav__list__item a[href="/"],
+    &.about .site-nav__list__item a[href="/about"],
+    &.shop .site-nav__list__item a[href="/shop"],
+    &.playground .site-nav__list__item a[href="/playground"],
+    &.partners .site-nav__list__item a[href="/partners"],
+    &.process .site-nav__list__item a[href="/process"],
+    &.contact .site-nav__list__item a[href="/contact"] {
+        font-weight:bold;
+    }
+}
+	
+.site-wrapper {
+    padding-right:$su/2;
+    padding-left:$su;
+	overflow: hidden;
+
+    @media (min-width:400px) {
+        padding-right:$su;
+        padding-left:$su*2;
+    } 
+}
+
