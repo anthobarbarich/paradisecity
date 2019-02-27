@@ -31,5 +31,8 @@ team:
   - name: Mim Suleiman & Esa
     photo: /images/uploads/square-mim.jpg
     position: Contrair
+  - name: Mind Against
+    photo: /images/uploads/square-ma-–-1.jpg
+    position: Love
 ---
 
