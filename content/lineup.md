@@ -22,5 +22,8 @@ team:
   - name: Eris Drew
     photo: /images/uploads/square-erisdrew-–-1.jpg
     position: Under My Garage
+  - name: Jan Blomqvist & Band
+    photo: /images/uploads/square-jb.jpg
+    position: Paradise City Live
 ---
 
