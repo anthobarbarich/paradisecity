@@ -25,5 +25,8 @@ team:
   - name: Jan Blomqvist & Band
     photo: /images/uploads/square-jb.jpg
     position: Paradise City Live
+  - name: John Talabot
+    photo: /images/uploads/square-jt-–-1.jpg
+    position: Under My Garage
 ---
 
