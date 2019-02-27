@@ -19,5 +19,8 @@ team:
   - name: DJ Koze
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
+  - name: Eris Drew
+    photo: /images/uploads/square-erisdrew-–-1.jpg
+    position: Under My Garage
 ---
 
