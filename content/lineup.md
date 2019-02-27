@@ -28,5 +28,8 @@ team:
   - name: John Talabot
     photo: /images/uploads/square-jt-–-1.jpg
     position: Under My Garage
+  - name: Mim Suleiman & Esa
+    photo: /images/uploads/square-mim.jpg
+    position: Contrair
 ---
 
