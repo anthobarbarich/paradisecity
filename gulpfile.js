@@ -42,10 +42,5 @@ gulp.task('images', () =>
 			quality : 0.7,
           }))
         .pipe(gulp.dest('static/thumbs/images/uploads')) 
-		  
-		 .pipe(gulpImageresize({
-            width : 132,
-			quality : 0.7,
-          }))
-        .pipe(gulp.dest('static/images/uploadsPartners'))
+	
 );
