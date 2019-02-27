@@ -16,5 +16,8 @@ team:
   - name: Dixon
     photo: /images/uploads/square-_dixon-–-1.jpg
     position: Silo
+  - name: DJ Koze
+    photo: /images/uploads/square-koze–-1.jpg
+    position: Silo
 ---
 
