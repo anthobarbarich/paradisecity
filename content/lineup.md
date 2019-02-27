@@ -8,7 +8,7 @@ team:
     photo: /images/uploads/square-_me-–-1-copie.jpg
     position: Nico Morano & Friends
   - name: 'Blond:ish'
-    photo: /images/uploads/square-blondshi-–-1.png
+    photo: /images/uploads/square-_blondish-–-1.jpg
     position: Love
 ---
 
