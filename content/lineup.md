@@ -13,5 +13,8 @@ team:
   - name: Carista
     photo: /images/uploads/square-carista-–-1.jpg
     position: Play Label Records
+  - name: Dixon
+    photo: /images/uploads/square-_dixon-–-1.jpg
+    position: Silo
 ---
 
