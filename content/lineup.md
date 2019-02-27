@@ -11,24 +11,31 @@ team:
   - name: 'Blond:ish'
     photo: /images/uploads/square-_blondish-–-1.jpg
     position: Love
+    soundcloud: 'https://soundcloud.com/blondish'
   - name: Carista
     photo: /images/uploads/square-carista-–-1.jpg
     position: Play Label Records
+    soundcloud: 'https://soundcloud.com/iamcarista'
   - name: Dixon
     photo: /images/uploads/square-_dixon-–-1.jpg
     position: Silo
+    soundcloud: 'https://soundcloud.com/dixon'
   - name: DJ Koze
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
+    soundcloud: 'https://soundcloud.com/dj-koze-official'
   - name: Eris Drew
     photo: /images/uploads/square-erisdrew-–-1.jpg
     position: Under My Garage
+    soundcloud: 'https://soundcloud.com/eris-drew'
   - name: Jan Blomqvist & Band
     photo: /images/uploads/square-jb.jpg
     position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/janblomqvist'
   - name: John Talabot
     photo: /images/uploads/square-jt-–-1.jpg
     position: Under My Garage
+    soundcloud: 'https://soundcloud.com/john-talabot'
   - name: Mim Suleiman & Esa
     photo: /images/uploads/square-mim.jpg
     position: Contrair
