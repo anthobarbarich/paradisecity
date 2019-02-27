@@ -65,7 +65,7 @@ collections:
             default: green
           - label: Title
             name: title
-            widget: string
+            wid	get: string
           - label: Body
             name: body
             widget: markdown
@@ -134,6 +134,8 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Position, name: position, widget: string}
               - {label: Photo, name: photo, widget: image}
+              - {label: Soundcloud, name: soundcloud, widget: string}
+              - {label: Link, name: linkartist, widget: string}
             
       - label: "Homepage"
         name: "index"
