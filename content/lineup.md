@@ -10,5 +10,8 @@ team:
   - name: 'Blond:ish'
     photo: /images/uploads/square-_blondish-–-1.jpg
     position: Love
+  - name: Carista
+    photo: /images/uploads/square-carista-–-1.jpg
+    position: Play Label Records
 ---
 
