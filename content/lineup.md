@@ -39,14 +39,18 @@ team:
   - name: Mim Suleiman & Esa
     photo: /images/uploads/square-mim.jpg
     position: Contrair
+    soundcloud: 'https://soundcloud.com/mim-suleiman-1'
   - name: Mind Against
     photo: /images/uploads/square-ma-–-1.jpg
     position: Love
+    soundcloud: 'https://soundcloud.com/mindagainst'
   - name: Motor City Drum Ensemble
     photo: /images/uploads/square-mcde-–-1.jpg
     position: Play Label Records
+    soundcloud: 'https://soundcloud.com/mcde-recordings'
   - name: Nu Guinea (Live Band)
     photo: /images/uploads/square-ng–-1.jpg
     position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/nu-guinea'
 ---
 
