@@ -34,5 +34,8 @@ team:
   - name: Mind Against
     photo: /images/uploads/square-ma-–-1.jpg
     position: Love
+  - name: Motor City Drum Ensemble
+    photo: /images/uploads/square-mcde-–-1.jpg
+    position: Play Label Records
 ---
 
