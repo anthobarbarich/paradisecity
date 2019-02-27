@@ -37,5 +37,8 @@ team:
   - name: Motor City Drum Ensemble
     photo: /images/uploads/square-mcde-–-1.jpg
     position: Play Label Records
+  - name: Nu Guinea (Live Band)
+    photo: /images/uploads/square-ng–-1.jpg
+    position: Paradise City Live
 ---
 
