@@ -7,8 +7,6 @@ partner:
     photo: /images/uploads/metro-logonlrvb.jpg
   - name: Metro_G
     photo: /images/uploads/metro-logo_frrvb.jpg
-  - name: DeMorgen
-    photo: /images/uploads/demorgen_logo_q_zwart_rood.png
   - name: Ginette
     photo: /images/uploads/ginette-knipoog-logo.png
   - name: DWNTWN
