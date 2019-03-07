@@ -4,7 +4,8 @@ type: lineup
 title: Line-Up
 intro: Our iline up is amazing
 team:
-  - name: '&ME'
+  - linkartist: 'https://www.facebook.com/andmekeinemusik/'
+    name: '&ME'
     photo: /images/uploads/square-_me-–-1-copie.jpg
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/andmeandyou'
