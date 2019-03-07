@@ -19,7 +19,8 @@ team:
     photo: /images/uploads/square-carista-–-1.jpg
     position: Play Label Records
     soundcloud: 'https://soundcloud.com/iamcarista'
-  - name: Dixon
+  - linkartist: 'https://www.facebook.com/dixoninnervisions/'
+    name: Dixon
     photo: /images/uploads/square-_dixon-–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dixon'
