@@ -49,7 +49,8 @@ team:
     photo: /images/uploads/square-mim.jpg
     position: Contrair
     soundcloud: 'https://soundcloud.com/mim-suleiman-1'
-  - name: Mind Against
+  - linkartist: 'https://www.facebook.com/mindagainst/'
+    name: Mind Against
     photo: /images/uploads/square-ma-–-1.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/mindagainst'
