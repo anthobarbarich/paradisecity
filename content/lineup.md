@@ -54,7 +54,7 @@ team:
     photo: /images/uploads/square-ma-–-1.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/mindagainst'
-  - linkartist: ''
+  - linkartist: 'https://www.facebook.com/MotorCityDrumEnsemble/'
     name: Motor City Drum Ensemble
     photo: /images/uploads/square-mcde-–-1.jpg
     position: Play Label Records
