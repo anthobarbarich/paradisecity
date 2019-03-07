@@ -44,7 +44,8 @@ team:
     photo: /images/uploads/square-jt-–-1.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/john-talabot'
-  - name: Mim Suleiman & Esa
+  - linkartist: 'https://www.facebook.com/kasimamadede/'
+    name: Mim Suleiman & Esa
     photo: /images/uploads/square-mim.jpg
     position: Contrair
     soundcloud: 'https://soundcloud.com/mim-suleiman-1'
