@@ -29,7 +29,8 @@ team:
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dj-koze-official'
-  - name: Eris Drew
+  - linkartist: 'https://www.facebook.com/ErisDrewPrairieState/'
+    name: Eris Drew
     photo: /images/uploads/square-erisdrew-–-1.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/eris-drew'
