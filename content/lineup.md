@@ -14,7 +14,8 @@ team:
     photo: /images/uploads/square-_blondish-–-1.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/blondish'
-  - name: Carista
+  - linkartist: 'https://www.facebook.com/iamcarista/'
+    name: Carista
     photo: /images/uploads/square-carista-–-1.jpg
     position: Play Label Records
     soundcloud: 'https://soundcloud.com/iamcarista'
