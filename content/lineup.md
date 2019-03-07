@@ -24,7 +24,8 @@ team:
     photo: /images/uploads/square-_dixon-–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dixon'
-  - name: DJ Koze
+  - linkartist: 'https://www.facebook.com/djkoze/'
+    name: DJ Koze
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dj-koze-official'
