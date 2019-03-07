@@ -39,7 +39,8 @@ team:
     photo: /images/uploads/square-jb.jpg
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/janblomqvist'
-  - name: John Talabot
+  - linkartist: 'https://www.facebook.com/JohnTalabot.JT/'
+    name: John Talabot
     photo: /images/uploads/square-jt-–-1.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/john-talabot'
