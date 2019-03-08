@@ -4,7 +4,7 @@ title: Giegling
 date: '2019-03-08T19:10:56+01:00'
 thumbnail: /images/uploads/gieglingsquaresite.jpg
 ---
-Giegling will celebrate its 10th anniversary and host a stage for 2 days at Paradise City this year. We are beyond excited about this. For those who know Giegling it needs no further introduction. For those who are not familiar with Giegling, they are known for their focus on the deeper realms of house and techno.
+Celebrating its 10th anniversary this year, Giegling will host a stage for 2 days at Paradise City. We are beyond excited about this. For those who know Giegling it needs no further introduction. For those who are not familiar with Giegling, they are known for their focus on the deeper realms of house and techno.
 
 Finding their music can be tricky as they only release it on vinyl. But here are some links for you to discover their beautiful sound...
 
