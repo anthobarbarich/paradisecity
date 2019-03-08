@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+  <div class="section-page line-up">
+    <div class="container">
+        <h2 class="heading-3">LINE-UP : FIRST NAMES</h3>
+      <div class="container split artistes">
+		  	  {{ range .Params.team }}
+
+          <a href="{{ .soundcloud }}" target="_blank" class="artiste w-inline-block" style="background-image: url('{{ .photo }}'); background-size: cover; background-position: center;">
+          <h3 class="headingblogthumb">{{ .name }}</h3>
+		  </a>
+		   
+		  
+			{{ end }}
+		  
+  </div>
+</div>
+{{ partial "footer.html" . }}

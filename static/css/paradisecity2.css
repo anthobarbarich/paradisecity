@@ -126,9 +126,9 @@ a {
 .container.split.artistes {
   margin-top: 96px;
   -webkit-box-pack: start;
-  -webkit-justify-content: space-evenly;
+  -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
@@ -1259,11 +1259,35 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 .artiste {
   position: relative;
   z-index: 99;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   overflow: hidden;
-  width: 100%;
+  width: 30%;
   height: 250px;
   margin-right: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 37px;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap-reverse;
+  -ms-flex-wrap: wrap-reverse;
+  flex-wrap: wrap-reverse;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 auto;
+  -ms-flex: 0 auto;
+  flex: 0 auto;
   border-radius: 5px;
   background-position: 0px 100%, 0px 0px, 50% 50%;
   background-size: 108px, auto, cover;
@@ -1275,15 +1299,14 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
 
-.containartist {
-	width: 30%;
-	margin-top:0;
-}
-
-.containartist h3 {
-	text-transform: uppercase;
-	font-size: 1.4em;
-	display: inline-block
+.artiste:after {
+	position: absolute;
+	content: "";
+	background-color: black;
+	opacity: 0.2;
+	width: 100%;
+	height: 100%;
+	z-index: 9;
 }
 
 .artiste:hover {
@@ -1729,7 +1752,7 @@ a.blogthumb.w-inline-block {
   .lastnav {
     display: none;
   }
-  .containartist {
+  .artiste {
     width: 45%;
     margin-bottom: 37px;
     -webkit-box-orient: horizontal;
@@ -1762,7 +1785,7 @@ a.blogthumb.w-inline-block {
     padding-right: 20px;
     padding-left: 20px;
   }
-  .containartist {
+  .artiste {
     width: 45%;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
@@ -2099,7 +2122,7 @@ a.blogthumb.w-inline-block {
   .icon-2 {
     color: #fa8d76;
   }
-  .containartist {
+  .artiste {
     width: 100%;
     margin-right: 0px;
   }

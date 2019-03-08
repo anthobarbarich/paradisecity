@@ -26,6 +26,8 @@ a {
   min-height: 1200px;
   background-color: #fffdf8;
   font-family: Montserrat, sans-serif;
+	overflow-x: hidden;
+	overflow-y: scroll;
 }
 
 .body.news.navlink-black.w-nav-link a[href="/news"] {
@@ -126,9 +128,20 @@ a {
 .container.split.artistes {
   margin-top: 96px;
   -webkit-box-pack: start;
-  -webkit-justify-content: flex-start;
+  -webkit-justify-content: space-evenly;
   -ms-flex-pack: start;
-  justify-content: flex-start;
+  justify-content: space-evenly;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.container.split.newz {
+  margin-top: 96px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: start;
+  justify-content: space-evenly;
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
@@ -818,7 +831,7 @@ padding: 00px;
 
 .section-partners {
   position: relative;
-  overflow: hidden;
+	overflow:visible;
   padding-top: 26px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(12, 75%, 71%, 0)), color-stop(48%, #fceac2));
   background-image: linear-gradient(180deg, hsla(12, 75%, 71%, 0), #fceac2 48%);
@@ -1259,57 +1272,81 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 .artiste {
   position: relative;
   z-index: 99;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   overflow: hidden;
-  width: 30%;
+  width: 100%;
   height: 250px;
   margin-right: 20px;
-  margin-bottom: 37px;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap-reverse;
-  -ms-flex-wrap: wrap-reverse;
-  flex-wrap: wrap-reverse;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 auto;
-  -ms-flex: 0 auto;
-  flex: 0 auto;
+  margin-bottom: 5px;
   border-radius: 5px;
   background-position: 0px 100%, 0px 0px, 50% 50%;
   background-size: 108px, auto, cover;
   background-repeat: no-repeat, repeat, repeat;
   box-shadow: 1px 1px 29px 0 rgba(0, 0, 0, .28);
-  -webkit-transition: -webkit-transform 200ms ease;
+
+}
+
+
+.newz {
+    position: relative;
+    z-index: 99;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    width: 30%;
+    height: 250px;
+    margin-right: 20px;
+    margin-bottom: 37px;
+    border-radius: 5px;
+    background-position: 0 100%,0 0,50% 50%;
+    background-size: 108px,auto,cover;
+    background-repeat: no-repeat,repeat,repeat;
+    box-shadow: 1px 1px 29px 0 rgba(0,0,0,.28);
+    -webkit-transition: -webkit-transform .2s ease;
+    transition: -webkit-transform .2s ease;
+    transition: transform .2s ease;
+    transition: transform .2s ease,-webkit-transform .2s ease;
+}
+
+
+.containartist {
+	width: 30%;
+	margin-top:0;
+	margin-bottom: 40px;
+	  -webkit-transition: -webkit-transform 200ms ease;
   transition: -webkit-transform 200ms ease;
   transition: transform 200ms ease;
   transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
 
-.artiste:after {
-	position: absolute;
-	content: "";
-	background-color: black;
-	opacity: 0.2;
-	width: 100%;
-	height: 100%;
-	z-index: 9;
+.containartist a {
+	float: right;
+	margin-top: 8px;
+	margin-left: 8px;
 }
 
-.artiste:hover {
+.containartist a svg:hover {
+    stroke: #fa8d76;
+}
+
+.containartist h3 {
+	text-transform: uppercase;
+	font-size: 1.5em;
+	display: inline-block;
+	font-family: Akrobat;
+	font-weight: 100;
+	margin-top: 8px;
+	color: #575757;
+
+}
+
+.containartist:hover {
+  -webkit-transform: scale(1.06);
+  -ms-transform: scale(1.06);
+  transform: scale(1.06);
+}
+.newz:hover {
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
   transform: scale(1.06);
@@ -1752,7 +1789,7 @@ a.blogthumb.w-inline-block {
   .lastnav {
     display: none;
   }
-  .artiste {
+  .containartist {
     width: 45%;
     margin-bottom: 37px;
     -webkit-box-orient: horizontal;
@@ -1781,11 +1818,14 @@ a.blogthumb.w-inline-block {
   .txtcta {
     font-size: 24px;
   }
+	.newz {
+		width: 50%;
+	}
   .headarticle {
     padding-right: 20px;
     padding-left: 20px;
   }
-  .artiste {
+  .containartist {
     width: 45%;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
@@ -1839,7 +1879,9 @@ a.blogthumb.w-inline-block {
     color: #555;
     text-align: center;
   }
-	
+	.newz {
+		width: 100%;
+	}
 	.heading-3 {
     font-size: 34px;
     text-align: center;
@@ -2122,7 +2164,7 @@ a.blogthumb.w-inline-block {
   .icon-2 {
     color: #fa8d76;
   }
-  .artiste {
+  .containartist {
     width: 100%;
     margin-right: 0px;
   }
