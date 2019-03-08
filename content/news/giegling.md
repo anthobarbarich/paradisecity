@@ -8,4 +8,12 @@ Giegling will celebrate its 10th anniversary and host a stage for 2 days at Para
 
 Finding their music can be tricky as they only release it on vinyl. But here are some links for you to discover their beautiful sound.
 
-https://www.youtube.com/watch?v=hpKlCKL9FsM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpKlCKL9FsM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-nnmBvf_yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509071428&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/539666574&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
