@@ -64,10 +64,11 @@ team:
     photo: /images/uploads/square-ma-–-1.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/mindagainst'
-  - linkartist: 'https://www.facebook.com/MotorCityDrumEnsemble/'
+  - day: Saturday
+    linkartist: 'https://www.facebook.com/MotorCityDrumEnsemble/'
     name: Motor City Drum Ensemble
     photo: /images/uploads/square-mcde-–-1.jpg
-    position: Play Label Records
+    position: Play Label
     soundcloud: 'https://soundcloud.com/mcde-recordings'
   - linkartist: 'https://www.facebook.com/NuGuinea/'
     name: Nu Guinea (Live Band)
