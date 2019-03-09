@@ -16,10 +16,11 @@ team:
     photo: /images/uploads/square-_blondish-–-1.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/blondish'
-  - linkartist: 'https://www.facebook.com/iamcarista/'
+  - day: Saturday
+    linkartist: 'https://www.facebook.com/iamcarista/'
     name: Carista
     photo: /images/uploads/square-carista-–-1.jpg
-    position: Play Label Records
+    position: Play Label
     soundcloud: 'https://soundcloud.com/iamcarista'
   - linkartist: 'https://www.facebook.com/dixoninnervisions/'
     name: Dixon
