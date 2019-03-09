@@ -10,7 +10,8 @@ team:
     photo: /images/uploads/square-_me-–-1-copie.jpg
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/andmeandyou'
-  - linkartist: 'https://www.facebook.com/Blondish/'
+  - day: Saturday
+    linkartist: 'https://www.facebook.com/Blondish/'
     name: 'Blond:ish'
     photo: /images/uploads/square-_blondish-–-1.jpg
     position: Love
