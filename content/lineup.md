@@ -7,7 +7,7 @@ team:
   - linkartist: 'https://www.facebook.com/andmekeinemusik/'
     name: '&ME'
     photo: /images/uploads/square-_me-–-1-copie.jpg
-    position: Nico Morano & Friends
+    position: Play Label
     soundcloud: 'https://soundcloud.com/andmeandyou'
   - linkartist: 'https://www.facebook.com/Blondish/'
     name: 'Blond:ish'
