@@ -40,7 +40,8 @@ team:
     photo: /images/uploads/square-erisdrew-–-1.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/eris-drew'
-  - linkartist: 'https://www.facebook.com/blomqvist.music/'
+  - day: Saturday
+    linkartist: 'https://www.facebook.com/blomqvist.music/'
     name: Jan Blomqvist & Band
     photo: /images/uploads/square-jb.jpg
     position: Paradise City Live
