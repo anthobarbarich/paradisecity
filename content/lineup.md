@@ -46,7 +46,8 @@ team:
     photo: /images/uploads/square-jb.jpg
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/janblomqvist'
-  - linkartist: 'https://www.facebook.com/JohnTalabot.JT/'
+  - day: Friday
+    linkartist: 'https://www.facebook.com/JohnTalabot.JT/'
     name: John Talabot
     photo: /images/uploads/square-jt-–-1.jpg
     position: Under My Garage
