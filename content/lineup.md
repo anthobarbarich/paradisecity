@@ -4,11 +4,11 @@ type: lineup
 title: Line-Up
 intro: Our iline up is amazing
 team:
-  - day: Saturday
+  - day: Sunday
     linkartist: 'https://www.facebook.com/andmekeinemusik/'
     name: '&ME'
     photo: /images/uploads/square-_me-–-1-copie.jpg
-    position: Play Label
+    position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/andmeandyou'
   - linkartist: 'https://www.facebook.com/Blondish/'
     name: 'Blond:ish'
