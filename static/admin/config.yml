@@ -132,7 +132,7 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
+              - {label: Position, name: position, widget: select, options: ["Love", "Contrair", "Paradise City", "Under My Garage", "Silo", "Abstrkt", "Play Label", "Nico Morano & Friends", "Giegling"]}
               - {label: Photo, name: photo, widget: image}
               - {label: Soundcloud, name: soundcloud, widget: string}
               - {label: Link, name: linkartist, widget: string}
