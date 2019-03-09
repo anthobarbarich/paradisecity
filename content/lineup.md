@@ -34,7 +34,8 @@ team:
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dj-koze-official'
-  - linkartist: 'https://www.facebook.com/ErisDrewPrairieState/'
+  - day: Friday
+    linkartist: 'https://www.facebook.com/ErisDrewPrairieState/'
     name: Eris Drew
     photo: /images/uploads/square-erisdrew-–-1.jpg
     position: Under My Garage
