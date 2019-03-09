@@ -58,7 +58,8 @@ team:
     photo: /images/uploads/square-mim.jpg
     position: Contrair
     soundcloud: 'https://soundcloud.com/mim-suleiman-1'
-  - linkartist: 'https://www.facebook.com/mindagainst/'
+  - day: Friday
+    linkartist: 'https://www.facebook.com/mindagainst/'
     name: Mind Against
     photo: /images/uploads/square-ma-–-1.jpg
     position: Love
