@@ -4,7 +4,8 @@ type: lineup
 title: Line-Up
 intro: Our iline up is amazing
 team:
-  - linkartist: 'https://www.facebook.com/andmekeinemusik/'
+  - day: Saturday
+    linkartist: 'https://www.facebook.com/andmekeinemusik/'
     name: '&ME'
     photo: /images/uploads/square-_me-–-1-copie.jpg
     position: Play Label
