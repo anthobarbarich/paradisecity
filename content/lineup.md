@@ -22,12 +22,14 @@ team:
     photo: /images/uploads/square-carista-–-1.jpg
     position: Play Label
     soundcloud: 'https://soundcloud.com/iamcarista'
-  - linkartist: 'https://www.facebook.com/dixoninnervisions/'
+  - day: Sunday
+    linkartist: 'https://www.facebook.com/dixoninnervisions/'
     name: Dixon
     photo: /images/uploads/square-_dixon-–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dixon'
-  - linkartist: 'https://www.facebook.com/djkoze/'
+  - day: Sunday
+    linkartist: 'https://www.facebook.com/djkoze/'
     name: DJ Koze
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
