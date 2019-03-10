@@ -126,7 +126,7 @@ a {
 }
 
 .container.split.artistes {
-  margin-top: 96px;
+  margin-top: 20px;
   -webkit-box-pack: start;
   -webkit-justify-content: space-evenly;
   -ms-flex-pack: start;
@@ -723,6 +723,9 @@ padding: 00px;
   text-align: center;
 }
 
+
+
+
 .section-cta {
   margin-top: 32px;
   margin-bottom: 25px;
@@ -769,10 +772,82 @@ padding: 00px;
   font-size: 15px;
 }
 
+.btnlineup {
+    padding: 15px 40px;
+  font-size: 15px;
+  text-transform: uppercase;
+	position: relative;
+	  border-radius: 5px;
+right: 40px;
+  z-index: 99;
+  margin-left: 12px;
+	margin-bottom: 30px;
+  background-color: #fa8d76;
+  box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, .12);
+  -webkit-transition: -webkit-transform 200ms ease;
+  transition: -webkit-transform 200ms ease;
+  transition: transform 200ms ease;
+  transition: transform 200ms ease, -webkit-transform 200ms ease;
+  font-family: Akrobat;
+  color: #fff;
+	cursor: pointer;
+}
+
+.btnlineup:focus{background-color:#ef5d42;}
+.btnlineup:hover {
+  -webkit-transform: scale(1.06);
+  -ms-transform: scale(1.06);
+	transform: scale(1.06);}
+
+.bloxbtn {
+	margin-top: 0px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	  align-items: center;
+	transform: scale(.7);
+	
+}
+
+svg:not(:root) {
+    overflow: visible;
+}
+
+.bloxbtn .btn {
+	width: 20%;
+	margin-bottom: 40px;
+	background-color: transparent;
+	text-align: center;
+	cursor: pointer;
+	
+}
+
+.bloxbtn .btn svg {
+		fill: #58465e;
+	
+}
+
+.bloxbtn .btn svg:hover {
+	fill: #fa8d76;
+}
+
+.bloxbtn .btn svg:focus {
+	fill: #fa8d76;
+}
+
 .btcta.reverse:hover {
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
   transform: scale(1.06);
+}
+
+#myBtnContainer {
+	text-align: center;
+	margin-top: 10px;
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+	align-content: center
 }
 
 .btcta.rev {
@@ -998,7 +1073,10 @@ padding: 00px;
   padding-top: 0px;
   padding-bottom: 60px;
 }
-
+.section-page.line-up
+{
+	margin-top: 45px;
+}
 .block-icons {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1286,6 +1364,7 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 }
 
 
+
 .newz {
     position: relative;
     z-index: 99;
@@ -1311,6 +1390,7 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 
 
 .containartist {
+	position: relative;
 	width: 30%;
 	margin-top:0;
 	margin-bottom: 40px;
@@ -1322,7 +1402,7 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 
 .containartist a {
 	float: right;
-	margin-top: 8px;
+	margin-top: 10px;
 	margin-left: 8px;
 }
 
@@ -1338,7 +1418,13 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 	font-weight: 100;
 	margin-top: 8px;
 	color: #575757;
+	margin-bottom: 0;
+	line-height: 30px;
+	margin-right: 4px;
 
+}
+.containartist hr {
+	opacity: 0.3;
 }
 
 .containartist:hover {
@@ -1352,6 +1438,20 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
   transform: scale(1.06);
 }
 
+h3.daytxt {
+	z-index: 99;
+	background-color: #fa8d76;
+	color: white;
+	font-size: 15px;
+	padding: 3px 6px ;
+	border-radius: 2px;
+	line-height: normal;
+	font-size: 16px;
+	transform: translateY(-2px);
+	position: absolute;
+    top: 5px;
+    left: 10px;
+}
 .nameartiste {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
@@ -1858,6 +1958,36 @@ a.blogthumb.w-inline-block {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
+	#myBtnContainer {
+	text-align: center;
+	margin-top:-30px;
+}
+	.bloxbtn {
+		display: none;
+	}
+	
+	.btnlineup {
+    padding: 16px 33px;
+    font-size: 15px;
+    text-transform: uppercase;
+    position: relative;
+    border-radius: 5px;
+
+		right: 0;    
+		z-index: 99;
+    margin-left: 12px;
+    margin-bottom: 16px;
+    background-color: #fa8d76;
+    box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, .12);
+    -webkit-transition: -webkit-transform 200ms ease;
+    transition: -webkit-transform 200ms ease;
+    transition: transform 200ms ease;
+    transition: transform 200ms ease, -webkit-transform 200ms ease;
+    font-family: Akrobat;
+    color: #fff;
+    cursor: pointer;
+		margin-bottom: 10px;
+}
   .container.split.margin-bottom {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2183,6 +2313,19 @@ a.blogthumb.w-inline-block {
     width: 118px;
     margin-top: 1px;
   }
+	.section-page.line-up
+{
+	margin-top: 80px;
+}
+}
+
+.filterDiv {
+  display: none; /* Hidden by default */
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
 }
 @font-face {
   font-family: 'Akrobat';

@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+<div class="section-page line-up">
+  <div class="container">
+	  <h1>{{ .Title }} lol</h1>    <div class="container split artistes"> 
+	  
+	  {{ range where .Site.Pages "Section" "lineup" }}
+	  
+	  		{{ range .Params.team  }}	
+ <div class="containartist">
+        <div class="artiste" style="background-image: url('{{ .photo }}'); background-size: cover; background-position: center;" href="{{.Permalink}}" class="w-inline-block">
+      </div>
+      <h3>{{ .name }}</h3>
+		  <a href="{{ .soundcloud }}" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+        <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+      </svg>
+		</a>
+		    <a href="{{ .linkartist }}" target="_blank">
+ <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 24 24" fill="none" stroke="#575757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>
+		</a>      
+		
+		</div>
+	  
+	  {{ end }} 
+       {{ end }} 
+</div></div>
+{{ partial "footer.html" . }}
