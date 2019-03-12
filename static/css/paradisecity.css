@@ -1161,7 +1161,7 @@ svg:not(:root) {
     flex: 0 auto;
 	background-image: url('../images/shapesblog-2.png'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
     border-radius: 10px;
-    background-color: #7fc567;
+    background-color: #5dceb4;
     background-position: 0px 100%;
     background-size: 108px;
     background-repeat: no-repeat;
