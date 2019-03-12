@@ -1,7 +1,10 @@
 ---
 imgvideo: /images/uploads/newlineuptease.jpg
 lineuptitle: 'LINE-UP : first names'
-lineuptxt: blablablabla
+lineuptxt: |2-
+   &ME - Blond:ish - Carista - Dixon - DJ Koze - Eris Drew <br> Jan Blomqvist & Band - John Talabot - Mim Suleiman & Esa<br> Mind Against - Motor City Drum Ensemble<br>
+
+  Nu Guinea (live band)
 ---
 2019 marks our 5th anniversary and our excitement is mounting
 to deliver the most special edition to date. The Paradise City
