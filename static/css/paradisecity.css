@@ -714,7 +714,7 @@ padding: 00px;
 
 .lineu {
   position: relative;
-  z-index: 1;
+  z-index: 99999;
   padding-top: 100px;
   padding-bottom: 125px;
   background-position: 50% 50%;
@@ -725,6 +725,13 @@ padding: 00px;
 
 
 
+.overlaydark {
+	position: absolute;
+	top: 0px;
+	background-color: #0000001a;
+	width: 100%;
+	height: 100%;
+}
 
 .section-cta {
   margin-top: 32px;
@@ -1631,6 +1638,10 @@ form.contactform textarea {
   background-color: #fff;
   box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
 }
+
+/*.smbuttons:hover {
+		width: 400px;
+}*/
 
 .smicone {
 	bottom: 10px;
