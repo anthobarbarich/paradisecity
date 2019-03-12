@@ -104,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
       <h3 class="section-cta">{{ .Params.lineuptitle }}</h3>
       <div class="line"></div>
-      <h3 class="section-cta">{{ .Params.lineuptxt }}</h3>
+      <h3 class="section-cta">{{ .Params.lineuptxt | markdownify }}</h3>
     </div>
   </div>
   <div class="section-green">
