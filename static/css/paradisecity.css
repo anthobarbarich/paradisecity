@@ -715,8 +715,8 @@ padding: 00px;
 .lineu {
   position: relative;
   z-index: 1;
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding-top: 100px;
+  padding-bottom: 125px;
   background-position: 50% 50%;
   background-size:cover;
   color: #fff;

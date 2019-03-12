@@ -152,6 +152,12 @@ collections:
           - label: Body
             name: body
             widget: markdown
+          - label: Line-up Title
+            name: lineuptitle
+            widget: string
+          - label: Line-up text
+            name: lineuptxt
+            widget: markdown
             
       - label: "Partners"
         name: "partners"
