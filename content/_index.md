@@ -2,7 +2,11 @@
 imgvideo: /images/uploads/newlineuptease.jpg
 lineuptitle: 'LINE-UP : first names'
 lineuptxt: |2-
-   &ME - Blond:ish - Carista - Dixon - DJ Koze - Eris Drew <br> Jan Blomqvist & Band - John Talabot - Mim Suleiman & Esa<br> Mind Against - Motor City Drum Ensemble<br>
+   &ME - Blond:ish - Carista - Dixon - DJ Koze - Eris Drew
+
+  Jan Blomqvist & Band - John Talabot - Mim Suleiman & Esa 
+
+  Mind Against - Motor City Drum Ensemble
 
   Nu Guinea (live band)
 ---
