@@ -151,9 +151,22 @@ team:
     photo: /images/uploads/square-toddterje-–-9.jpg
     position: Silo
     soundcloud: ''
-  - {}
-  - {}
-  - {}
+  - linkartist: ' https://www.facebook.com/mapache-152180478156038/'
+    name: Map.ache (live)
+    photo: /images/uploads/square-map.ache-–-17.jpg
+    position: Giegling
+    soundcloud: ' https://soundcloud.com/ache-map'
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/joseyrebelle'
+    name: Josey Rebelle
+    photo: /images/uploads/square-joseyrebelle-–-10.jpg
+    position: Silo
+    soundcloud: 'https://soundcloud.com/joseyrebelle'
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/ThEgyptianLover/'
+    name: Egyptian Lover
+    photo: /images/uploads/square-egyptianlover-–-14.jpg
+    position: Play Label
   - {}
 ---
 
