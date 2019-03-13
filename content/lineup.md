@@ -83,7 +83,7 @@ team:
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/deewee-2'
   - name: Edward
-    photo: /images/uploads/square-edward-–-18.png
+    photo: /images/uploads/square-edward_____18.jpg
     position: Giegling
     soundcloud: 'https://soundcloud.com/edward'
   - day: Friday
