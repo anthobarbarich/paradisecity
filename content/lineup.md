@@ -91,7 +91,13 @@ team:
     name: Skatebård
     photo: /images/uploads/square-skatebard-–-13.png
     position: Under My Garage
-  - {}
+    soundcloud: ' https://soundcloud.com/skatebard'
+  - day: Friday
+    linkartist: ' https://www.facebook.com/polopan.music/'
+    name: Polo & Pan
+    photo: /images/uploads/square-polo-pan-–-16.png
+    position: Love
+    soundcloud: ' https://soundcloud.com/polo-pan'
   - {}
   - {}
   - {}
