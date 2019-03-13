@@ -152,7 +152,7 @@ team:
     soundcloud: 'https://soundcloud.com/nu-guinea'
   - day: Friday
     linkartist: ' https://www.facebook.com/polopan.music/'
-    name: Polo & Pan
+    name: Polo & Pan (Dj set)
     photo: /images/uploads/square-polo-pan-–-16.png
     position: Love
     soundcloud: ' https://soundcloud.com/polo-pan'
