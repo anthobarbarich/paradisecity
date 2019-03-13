@@ -104,7 +104,12 @@ team:
     photo: /images/uploads/square-junglebynight-–-11.png
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/junglebynight'
-  - {}
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/vaalmusic/'
+    name: Vaal
+    photo: /images/uploads/square-vaal-–-19.png
+    position: Nico Morano & Friends
+    soundcloud: ' https://soundcloud.com/vaalofficial'
   - {}
   - {}
   - {}
