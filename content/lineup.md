@@ -101,7 +101,7 @@ team:
   - day: Sunday
     linkartist: ' https://www.facebook.com/junglebynight/'
     name: Jungle by Night (live band)
-    photo: /images/uploads/square-junglebynight-–-11.png
+    photo: /images/uploads/square-junglebynight_____11.jpg
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/junglebynight'
   - day: Sunday
