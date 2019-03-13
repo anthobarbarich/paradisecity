@@ -115,6 +115,38 @@ team:
     name: Dj Python
     photo: /images/uploads/square-djpython-–-16.png
     position: Paradise City Live
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/folamourmusic/'
+    name: Folamour
+    photo: /images/uploads/square-folamour-–-21.jpg
+    position: Play Label
+    soundcloud: 'https://soundcloud.com/folamour'
+  - day: Saturday
+    linkartist: 'https://www.facebook.com/boogieking'
+    name: Leroy Burges (live band)
+    photo: /images/uploads/square-leroyburgess_____7.jpg
+    position: Paradise City Live
+    soundcloud: ' https://soundcloud.com/trxtrx'
+  - day: Sunday
+    linkartist: 'https://www.facebook.com/Daphni-aka-Caribou-3518854'
+    name: Daphni
+    photo: /images/uploads/square-daphni_____12.jpg
+    position: Abstrkt
+    soundcloud: ' https://soundcloud.com/daphni'
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/adriatiqueofficial/'
+    name: Adriatique
+    photo: /images/uploads/square-adriatique-–-6.jpg
+    position: Love
+    soundcloud: ' https://soundcloud.com/adriatique'
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/beraadgeslagen/'
+    name: Beraadgeslagen
+    photo: /images/uploads/square-beraadgeslagen-–-5.jpg
+    position: Abstrkt
+    soundcloud: ' https://soundcloud.com/beraadgeslagen'
+  - name: Todd Terje
+  - {}
   - {}
   - {}
   - {}
