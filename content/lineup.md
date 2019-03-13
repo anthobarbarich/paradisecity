@@ -110,7 +110,11 @@ team:
     photo: /images/uploads/square-vaal-–-19.png
     position: Nico Morano & Friends
     soundcloud: ' https://soundcloud.com/vaalofficial'
-  - {}
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/djwey/'
+    name: Dj Python
+    photo: /images/uploads/square-djpython-–-16.png
+    position: Paradise City Live
   - {}
   - {}
   - {}
