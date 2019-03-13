@@ -76,5 +76,27 @@ team:
     photo: /images/uploads/square-ng–-1.jpg
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/nu-guinea'
+  - day: Sunday
+    linkartist: 'https://www.facebook.com/2manydjs/'
+    name: 2manydjs
+    photo: /images/uploads/square-2manydjs-–-11.png
+    position: Abstrkt
+    soundcloud: 'https://soundcloud.com/deewee-2'
+  - name: Edward
+    photo: /images/uploads/square-edward-–-18.png
+    position: Giegling
+    soundcloud: 'https://soundcloud.com/edward'
+  - day: Friday
+    linkartist: ' https://www.facebook.com/skatebard/'
+    name: Skatebård
+    photo: /images/uploads/square-skatebard-–-13.png
+    position: Under My Garage
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 ---
 
