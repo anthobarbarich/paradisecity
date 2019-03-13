@@ -98,7 +98,12 @@ team:
     photo: /images/uploads/square-polo-pan-–-16.png
     position: Love
     soundcloud: ' https://soundcloud.com/polo-pan'
-  - {}
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/junglebynight/'
+    name: Jungle by Night (live band)
+    photo: /images/uploads/square-junglebynight-–-11.png
+    position: Abstrkt
+    soundcloud: 'https://soundcloud.com/junglebynight'
   - {}
   - {}
   - {}
