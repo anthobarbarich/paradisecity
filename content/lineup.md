@@ -145,7 +145,12 @@ team:
     photo: /images/uploads/square-beraadgeslagen-–-5.jpg
     position: Abstrkt
     soundcloud: ' https://soundcloud.com/beraadgeslagen'
-  - name: Todd Terje
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/ToddTerje/'
+    name: Todd Terje (Dj set)
+    photo: /images/uploads/square-toddterje-–-9.jpg
+    position: Silo
+    soundcloud: ''
   - {}
   - {}
   - {}
