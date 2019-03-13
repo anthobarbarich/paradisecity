@@ -14,7 +14,7 @@ partner:
     photo: /images/uploads/ginette-knipoog-logo.png
     position: 'https://www.ginettebeer.com/'
   - name: DWNTWN
-    photo: /images/uploads/logo.png
+    photo: /images/uploads/logo-noir.png
     position: 'https://www.dwntwn.be/'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
