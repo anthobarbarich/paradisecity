@@ -167,6 +167,16 @@ team:
     name: Egyptian Lover
     photo: /images/uploads/square-egyptianlover-–-14.jpg
     position: Play Label
-  - {}
+  - day: Friday
+    linkartist: ' https://www.facebook.com/musictrikk/'
+    name: Trikk
+    photo: /images/uploads/square-trikk-–-8.jpg
+    position: Love
+    soundcloud: ' https://soundcloud.com/trikksound'
+  - day: Friday
+    linkartist: ' https://www.facebook.com/gerdjansongerd/'
+    name: Gerd Janson
+    photo: /images/uploads/square-gerdjanson_____20.jpg
+    position: Contrair
 ---
 
