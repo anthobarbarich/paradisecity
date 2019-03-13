@@ -116,7 +116,7 @@ team:
     soundcloud: 'https://soundcloud.com/junglebynight'
   - day: Saturday
     linkartist: 'https://www.facebook.com/boogieking'
-    name: Leroy Burges (live band)
+    name: Leroy Burges (full band)
     photo: /images/uploads/square-leroyburgess_____7.jpg
     position: Paradise City Live
     soundcloud: ' https://soundcloud.com/trxtrx'
