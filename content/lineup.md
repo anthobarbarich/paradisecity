@@ -10,6 +10,24 @@ team:
     photo: /images/uploads/square-_me-–-1-copie.jpg
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/andmeandyou'
+  - day: Sunday
+    linkartist: 'https://www.facebook.com/2manydjs/'
+    name: 2manydjs
+    photo: /images/uploads/square-2manydjs-–-11.png
+    position: Abstrkt
+    soundcloud: 'https://soundcloud.com/deewee-2'
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/adriatiqueofficial/'
+    name: Adriatique
+    photo: /images/uploads/square-adriatique-–-6.jpg
+    position: Love
+    soundcloud: ' https://soundcloud.com/adriatique'
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/beraadgeslagen/'
+    name: Beraadgeslagen
+    photo: /images/uploads/square-beraadgeslagen-–-5.jpg
+    position: Abstrkt
+    soundcloud: ' https://soundcloud.com/beraadgeslagen'
   - day: Saturday
     linkartist: 'https://www.facebook.com/Blondish/'
     name: 'Blond:ish'
@@ -23,6 +41,12 @@ team:
     position: Play Label
     soundcloud: 'https://soundcloud.com/iamcarista'
   - day: Sunday
+    linkartist: 'https://www.facebook.com/Daphni-aka-Caribou-3518854'
+    name: Daphni
+    photo: /images/uploads/square-daphni_____12.jpg
+    position: Abstrkt
+    soundcloud: ' https://soundcloud.com/daphni'
+  - day: Sunday
     linkartist: 'https://www.facebook.com/dixoninnervisions/'
     name: Dixon
     photo: /images/uploads/square-_dixon-–-1.jpg
@@ -34,12 +58,37 @@ team:
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dj-koze-official'
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/djwey/'
+    name: Dj Python
+    photo: /images/uploads/square-djpython-–-16.png
+    position: Paradise City Live
+  - name: Edward
+    photo: /images/uploads/square-edward_____18.jpg
+    position: Giegling
+    soundcloud: 'https://soundcloud.com/edward'
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/ThEgyptianLover/'
+    name: Egyptian Lover
+    photo: /images/uploads/square-egyptianlover-–-14.jpg
+    position: Play Label
   - day: Friday
     linkartist: 'https://www.facebook.com/ErisDrewPrairieState/'
     name: Eris Drew
     photo: /images/uploads/square-erisdrew-–-1.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/eris-drew'
+  - day: Saturday
+    linkartist: ' https://www.facebook.com/folamourmusic/'
+    name: Folamour
+    photo: /images/uploads/square-folamour-–-21.jpg
+    position: Play Label
+    soundcloud: 'https://soundcloud.com/folamour'
+  - day: Friday
+    linkartist: ' https://www.facebook.com/gerdjansongerd/'
+    name: Gerd Janson
+    photo: /images/uploads/square-gerdjanson_____20.jpg
+    position: Contrair
   - day: Saturday
     linkartist: 'https://www.facebook.com/blomqvist.music/'
     name: Jan Blomqvist & Band
@@ -52,6 +101,29 @@ team:
     photo: /images/uploads/square-jt-–-1.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/john-talabot'
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/joseyrebelle'
+    name: Josey Rebelle
+    photo: /images/uploads/square-joseyrebelle-–-10.jpg
+    position: Silo
+    soundcloud: 'https://soundcloud.com/joseyrebelle'
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/junglebynight/'
+    name: Jungle by Night (live band)
+    photo: /images/uploads/square-junglebynight_____11.jpg
+    position: Abstrkt
+    soundcloud: 'https://soundcloud.com/junglebynight'
+  - day: Saturday
+    linkartist: 'https://www.facebook.com/boogieking'
+    name: Leroy Burges (live band)
+    photo: /images/uploads/square-leroyburgess_____7.jpg
+    position: Paradise City Live
+    soundcloud: ' https://soundcloud.com/trxtrx'
+  - linkartist: ' https://www.facebook.com/mapache-152180478156038/'
+    name: Map.ache (live)
+    photo: /images/uploads/square-map.ache-–-17.jpg
+    position: Giegling
+    soundcloud: ' https://soundcloud.com/ache-map'
   - day: Friday
     linkartist: 'https://www.facebook.com/kasimamadede/'
     name: Mim Suleiman & Esa
@@ -76,107 +148,35 @@ team:
     photo: /images/uploads/square-ng–-1.jpg
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/nu-guinea'
-  - day: Sunday
-    linkartist: 'https://www.facebook.com/2manydjs/'
-    name: 2manydjs
-    photo: /images/uploads/square-2manydjs-–-11.png
-    position: Abstrkt
-    soundcloud: 'https://soundcloud.com/deewee-2'
-  - name: Edward
-    photo: /images/uploads/square-edward_____18.jpg
-    position: Giegling
-    soundcloud: 'https://soundcloud.com/edward'
-  - day: Friday
-    linkartist: ' https://www.facebook.com/skatebard/'
-    name: Skatebård
-    photo: /images/uploads/square-skatebard-–-13.png
-    position: Under My Garage
-    soundcloud: ' https://soundcloud.com/skatebard'
   - day: Friday
     linkartist: ' https://www.facebook.com/polopan.music/'
     name: Polo & Pan
     photo: /images/uploads/square-polo-pan-–-16.png
     position: Love
     soundcloud: ' https://soundcloud.com/polo-pan'
-  - day: Sunday
-    linkartist: ' https://www.facebook.com/junglebynight/'
-    name: Jungle by Night (live band)
-    photo: /images/uploads/square-junglebynight_____11.jpg
-    position: Abstrkt
-    soundcloud: 'https://soundcloud.com/junglebynight'
-  - day: Sunday
-    linkartist: ' https://www.facebook.com/vaalmusic/'
-    name: Vaal
-    photo: /images/uploads/square-vaal-–-19.png
-    position: Nico Morano & Friends
-    soundcloud: ' https://soundcloud.com/vaalofficial'
-  - day: Saturday
-    linkartist: ' https://www.facebook.com/djwey/'
-    name: Dj Python
-    photo: /images/uploads/square-djpython-–-16.png
-    position: Paradise City Live
-  - day: Saturday
-    linkartist: ' https://www.facebook.com/folamourmusic/'
-    name: Folamour
-    photo: /images/uploads/square-folamour-–-21.jpg
-    position: Play Label
-    soundcloud: 'https://soundcloud.com/folamour'
-  - day: Saturday
-    linkartist: 'https://www.facebook.com/boogieking'
-    name: Leroy Burges (live band)
-    photo: /images/uploads/square-leroyburgess_____7.jpg
-    position: Paradise City Live
-    soundcloud: ' https://soundcloud.com/trxtrx'
-  - day: Sunday
-    linkartist: 'https://www.facebook.com/Daphni-aka-Caribou-3518854'
-    name: Daphni
-    photo: /images/uploads/square-daphni_____12.jpg
-    position: Abstrkt
-    soundcloud: ' https://soundcloud.com/daphni'
-  - day: Saturday
-    linkartist: ' https://www.facebook.com/adriatiqueofficial/'
-    name: Adriatique
-    photo: /images/uploads/square-adriatique-–-6.jpg
-    position: Love
-    soundcloud: ' https://soundcloud.com/adriatique'
-  - day: Sunday
-    linkartist: ' https://www.facebook.com/beraadgeslagen/'
-    name: Beraadgeslagen
-    photo: /images/uploads/square-beraadgeslagen-–-5.jpg
-    position: Abstrkt
-    soundcloud: ' https://soundcloud.com/beraadgeslagen'
+  - day: Friday
+    linkartist: ' https://www.facebook.com/skatebard/'
+    name: Skatebård
+    photo: /images/uploads/square-skatebard-–-13.png
+    position: Under My Garage
+    soundcloud: ' https://soundcloud.com/skatebard'
   - day: Sunday
     linkartist: ' https://www.facebook.com/ToddTerje/'
     name: Todd Terje (Dj set)
     photo: /images/uploads/square-toddterje-–-9.jpg
     position: Silo
     soundcloud: ''
-  - linkartist: ' https://www.facebook.com/mapache-152180478156038/'
-    name: Map.ache (live)
-    photo: /images/uploads/square-map.ache-–-17.jpg
-    position: Giegling
-    soundcloud: ' https://soundcloud.com/ache-map'
-  - day: Sunday
-    linkartist: ' https://www.facebook.com/joseyrebelle'
-    name: Josey Rebelle
-    photo: /images/uploads/square-joseyrebelle-–-10.jpg
-    position: Silo
-    soundcloud: 'https://soundcloud.com/joseyrebelle'
-  - day: Saturday
-    linkartist: ' https://www.facebook.com/ThEgyptianLover/'
-    name: Egyptian Lover
-    photo: /images/uploads/square-egyptianlover-–-14.jpg
-    position: Play Label
   - day: Friday
     linkartist: ' https://www.facebook.com/musictrikk/'
     name: Trikk
     photo: /images/uploads/square-trikk-–-8.jpg
     position: Love
     soundcloud: ' https://soundcloud.com/trikksound'
-  - day: Friday
-    linkartist: ' https://www.facebook.com/gerdjansongerd/'
-    name: Gerd Janson
-    photo: /images/uploads/square-gerdjanson_____20.jpg
-    position: Contrair
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/vaalmusic/'
+    name: Vaal
+    photo: /images/uploads/square-vaal-–-19.png
+    position: Nico Morano & Friends
+    soundcloud: ' https://soundcloud.com/vaalofficial'
 ---
 
