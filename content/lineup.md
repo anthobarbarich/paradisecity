@@ -63,7 +63,8 @@ team:
     name: Dj Python
     photo: /images/uploads/square-djpython-–-16.png
     position: Paradise City Live
-  - name: Edward
+  - day: Saturday
+    name: Edward
     photo: /images/uploads/square-edward_____18.jpg
     position: Giegling
     soundcloud: 'https://soundcloud.com/edward'
@@ -119,7 +120,8 @@ team:
     photo: /images/uploads/square-leroyburgess_____7.jpg
     position: Paradise City Live
     soundcloud: ' https://soundcloud.com/trxtrx'
-  - linkartist: ' https://www.facebook.com/mapache-152180478156038/'
+  - day: Sunday
+    linkartist: ' https://www.facebook.com/mapache-152180478156038/'
     name: Map.ache (live)
     photo: /images/uploads/square-map.ache-–-17.jpg
     position: Giegling
