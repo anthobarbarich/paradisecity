@@ -1,14 +1,13 @@
 ---
 imgvideo: /images/uploads/newlineuptease.jpg
 lineuptitle: 'LINE-UP : first names'
-lineuptxt: |2-
-   &ME - Blond:ish - Carista - Dixon - DJ Koze - Eris Drew     
-
-  Jan Blomqvist & Band - John Talabot - Mim Suleiman & Esa      
-
-  Mind Against - Motor City Drum Ensemble       
-
-  Nu Guinea (live band)
+lineuptxt: >-
+  2manydjs - &ME - Adriatique - Beraadgeslagen - BLOND:ISH - Carista - Daphni -
+  Dixon - DJ Koze - Dj Python - Edward - Egyptian Lover - Eris Drew - Folamour -
+  Gerd Janson - Jan Blomqvist & Band - John Talabot - Josey Rebelle - Jungle By
+  Night - Leroy Burgess (Full Band) - map.ache live - Mim Suleiman & Esa - Mind
+  Against - Motor City Drum Ensemble - Nu Guinea (Live band) - Polo & Pan (Dj
+  set) - SKATEBÅRD - Todd Terje (Dj set) - Trikk - Vaal
 ---
 2019 marks our 5th anniversary and our excitement is mounting
 to deliver the most special edition to date. The Paradise City
