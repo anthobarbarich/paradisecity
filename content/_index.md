@@ -1,6 +1,6 @@
 ---
 imgvideo: /images/uploads/newlineuptease.jpg
-lineuptitle: 'LINE-UP : first names'
+lineuptitle: 'LINE-UP : Already announced'
 lineuptxt: >-
   2manydjs - &ME - Adriatique - Beraadgeslagen - BLOND:ISH - Carista - Daphni -
   Dixon - DJ Koze - Dj Python - Edward - Egyptian Lover - Eris Drew - Folamour -
