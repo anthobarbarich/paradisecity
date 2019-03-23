@@ -1,6 +1,6 @@
 ---
-title: "practical - More info soon !"
-type: "static"
+title: "Practical"
+type: "practical"
 url: "practical"
 uniqueid: "practical"
 description: "Coucou"

@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+<div class="section-page line-up">
+    <div class="container writing">
+		<h3 class="section-intro">{{.Title}}</h3>
+
+{{ .Content }}
+		
+		<ul>
+  {{ $gistJ := getJSON "http://gsx2json.com/api?id=1lIiJmYlw83n03HUUSzQyqmrODjA_YPXSpiiVHZe7Teo&columns=false" }}	
+  {{ range $gistJ.rows }}
+	<details>
+		<summary>		
+			<h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .questions }}</h2>
+		</summary>
+		{{ .answers | markdownify }}
+		</details>
+
+  {{ end }}
+</ul>
+	</div>
+</div>
+
+
+
+
+
+
+
+{{ partial "footer.html" . }}
