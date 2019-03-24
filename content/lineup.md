@@ -10,6 +10,7 @@ team:
     photo: /images/uploads/square-2manydjs-–-11.png
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/deewee-2'
+    time: '14:00'
   - day: Sunday
     linkartist: 'https://www.facebook.com/andmekeinemusik/'
     name: '&ME'
@@ -180,5 +181,6 @@ team:
     photo: /images/uploads/square-vaal-–-19.png
     position: Nico Morano & Friends
     soundcloud: ' https://soundcloud.com/vaalofficial'
+    time: '15:47'
 ---
 
