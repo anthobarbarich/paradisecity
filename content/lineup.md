@@ -5,6 +5,7 @@ title: Line-Up
 intro: Our iline up is amazing
 team:
   - day: Sunday
+    end: '16:30'
     linkartist: 'https://www.facebook.com/2manydjs/'
     name: 2manydjs
     photo: /images/uploads/square-2manydjs-–-11.png
