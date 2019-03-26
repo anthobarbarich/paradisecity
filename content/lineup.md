@@ -5,19 +5,21 @@ title: Line-Up
 intro: Our iline up is amazing
 team:
   - day: Sunday
-    end: '16:30'
+    end: '17:00'
     linkartist: 'https://www.facebook.com/2manydjs/'
     name: 2manydjs
     photo: /images/uploads/square-2manydjs-–-11.png
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/deewee-2'
-    time: '14:00'
+    time: '15:00'
   - day: Sunday
+    end: '21:00'
     linkartist: 'https://www.facebook.com/andmekeinemusik/'
     name: '&ME'
     photo: /images/uploads/square-_me-–-1-copie.jpg
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/andmeandyou'
+    time: '19:00'
   - day: Saturday
     linkartist: ' https://www.facebook.com/adriatiqueofficial/'
     name: Adriatique
