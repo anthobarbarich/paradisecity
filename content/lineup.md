@@ -21,35 +21,45 @@ team:
     soundcloud: 'https://soundcloud.com/andmeandyou'
     time: '19:00'
   - day: Saturday
+    end: '19:30'
     linkartist: ' https://www.facebook.com/adriatiqueofficial/'
     name: Adriatique
     photo: /images/uploads/square-adriatique-–-6.jpg
     position: Love
     soundcloud: ' https://soundcloud.com/adriatique'
+    time: '17:30'
   - day: Sunday
+    end: '14:50'
     linkartist: ' https://www.facebook.com/beraadgeslagen/'
     name: Beraadgeslagen
     photo: /images/uploads/square-beraadgeslagen-–-5.jpg
     position: Abstrkt
     soundcloud: ' https://soundcloud.com/beraadgeslagen'
+    time: '14:00'
   - day: Saturday
+    end: '09:30'
     linkartist: 'https://www.facebook.com/Blondish/'
     name: 'Blond:ish'
     photo: /images/uploads/square-_blondish-–-1.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/blondish'
+    time: '19:30'
   - day: Saturday
+    end: '23:30'
     linkartist: 'https://www.facebook.com/iamcarista/'
     name: Carista
     photo: /images/uploads/square-carista-–-1.jpg
     position: Play Label
     soundcloud: 'https://soundcloud.com/iamcarista'
+    time: '21:30'
   - day: Sunday
+    end: '23:00'
     linkartist: 'https://www.facebook.com/Daphni-aka-Caribou-3518854'
     name: Daphni
     photo: /images/uploads/square-daphni_____12.jpg
     position: Abstrkt
     soundcloud: ' https://soundcloud.com/daphni'
+    time: '21:00'
   - day: Sunday
     linkartist: 'https://www.facebook.com/dixoninnervisions/'
     name: Dixon
