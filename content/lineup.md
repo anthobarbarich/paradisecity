@@ -135,14 +135,6 @@ team:
     soundcloud: 'https://soundcloud.com/john-talabot'
     time: '20:30'
   - day: Sunday
-    end: '16:30'
-    linkartist: ' https://www.facebook.com/joseyrebelle'
-    name: Josey Rebelle
-    photo: /images/uploads/square-joseyrebelle-–-10.jpg
-    position: Silo
-    soundcloud: 'https://soundcloud.com/joseyrebelle'
-    time: '14:30'
-  - day: Sunday
     end: '18:10'
     linkartist: ' https://www.facebook.com/junglebynight/'
     name: Jungle by Night (live band)
