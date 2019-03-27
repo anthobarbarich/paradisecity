@@ -28,6 +28,55 @@ team:
     position: Love
     soundcloud: ' https://soundcloud.com/adriatique'
     time: '17:30'
+  - day: Friday
+    end: '22:00'
+    linkartist: 'https://www.facebook.com/djalocalhero/'
+    name: A Local Hero
+    photo: /images/uploads/square-a-local-hero-–-34.jpg
+    position: Contrair
+    soundcloud: 'https://soundcloud.com/alocalhero'
+    time: '21:00'
+  - day: Saturday
+    end: '17:30'
+    linkartist: 'https://www.facebook.com/AttariMusic/'
+    name: Attari
+    photo: /images/uploads/square-attari-–-19-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/attari'
+    time: '16:00'
+  - end: '10:45'
+    linkartist: 'https://www.facebook.com/ATEQ-555644307841253/'
+    name: Ateq
+    photo: /images/uploads/square-ateq-–-31-copie.jpg
+    position: Giegling
+    soundcloud: 'https://soundcloud.com/ateq'
+  - day: Friday
+    end: '23:00'
+    linkartist: 'https://www.facebook.com/auntieflo/'
+    name: Auntie Flo
+    photo: /images/uploads/square-auntieflo-–-18-copie.jpg
+    position: Contrair
+    soundcloud: 'https://soundcloud.com/auntie-flo'
+    time: '22:00'
+  - day: Friday
+    end: '19:30'
+    linkartist: 'https://www.facebook.com/belbenmusic/'
+    name: Belben
+    photo: /images/uploads/square-belben-–-16-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/belben'
+    time: '18:30'
+  - day: Friday
+    end: '18:30'
+    linkartist: 'https://www.facebook.com/Bjeor/'
+    name: Bjeor
+    photo: /images/uploads/square-bjeor-–-26-copie.jpg
+    position: Contrair
+    soundcloud: 'https://soundcloud.com/bjeor'
+    time: '17:00'
+  - end: '10:45'
+    name: Bendrik
+    photo: /images/uploads/square-bendrik-–-4-copie.jpg
   - day: Sunday
     end: '14:50'
     linkartist: ' https://www.facebook.com/beraadgeslagen/'
@@ -44,6 +93,22 @@ team:
     position: Love
     soundcloud: 'https://soundcloud.com/blondish'
     time: '19:30'
+  - day: Saturday
+    end: '16:00'
+    linkartist: 'https://www.facebook.com/BlossomCultureMusic/'
+    name: Blossom Culture
+    photo: /images/uploads/square-blossom-culture-–-27-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/blossomculture'
+    time: '14:30'
+  - day: Friday
+    end: '15:30'
+    linkartist: 'https://www.facebook.com/cabasound/'
+    name: Cabasa
+    photo: /images/uploads/square-cabasa-–-25-copie.jpg
+    position: Under My Garage
+    soundcloud: 'https://soundcloud.com/cab_asa'
+    time: '14:00'
   - day: Saturday
     end: '23:30'
     linkartist: 'https://www.facebook.com/iamcarista/'
@@ -68,6 +133,9 @@ team:
     position: Silo
     soundcloud: 'https://soundcloud.com/dixon'
     time: '20:00'
+  - end: '10:45'
+    name: Dustin
+    photo: /images/uploads/square-dustin-–-15-copie.jpg
   - day: Sunday
     end: '20:00'
     linkartist: 'https://www.facebook.com/djkoze/'
@@ -83,6 +151,19 @@ team:
     photo: /images/uploads/square-djpython-–-16.png
     position: Paradise City Live
     time: '15:40'
+  - day: Friday
+    end: '20:00'
+    linkartist: 'https://www.facebook.com/dtmfootjuice/'
+    name: DTM Funk
+    photo: /images/uploads/square-dtm-funk-–-24-copie.jpg
+    position: Contrair
+    soundcloud: 'https://soundcloud.com/dtmfunk'
+    time: '18:30'
+  - end: '10:45'
+    linkartist: 'https://www.facebook.com/DWIG-312136605522586/'
+    name: Dwig
+    photo: /images/uploads/square-dwig-–-28-copie.jpg
+    soundcloud: 'https://soundcloud.com/dwig'
   - day: Saturday
     name: Edward
     photo: /images/uploads/square-edward_____18.jpg
@@ -95,6 +176,11 @@ team:
     photo: /images/uploads/square-egyptianlover-–-14.jpg
     position: Play Label
     time: '23:30'
+  - end: '10:45'
+    linkartist: 'https://www.facebook.com/eli-verveine-386344770109/'
+    name: Eli Verveine
+    photo: /images/uploads/square-eli-verveine-–-42-copie.jpg
+    soundcloud: 'https://soundcloud.com/eli-verveine'
   - day: Friday
     end: '20:30'
     linkartist: 'https://www.facebook.com/ErisDrewPrairieState/'
@@ -103,6 +189,21 @@ team:
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/eris-drew'
     time: '18:30'
+  - day: Saturday
+    end: '13:00'
+    linkartist: 'https://www.facebook.com/exonbacon4/'
+    name: Exon
+    photo: /images/uploads/square-exon-–-22.jpg
+    position: Play Label
+    soundcloud: >-
+      https://soundcloud.com/exon-bacon?fbclid=IwAR1CroDTvO14uwaCPhQ5z6gwjSHgy2DS_O_ePqR2N6BI23cvRNvU_5_XR-U
+    time: '12:00'
+  - day: Sunday
+    end: '14:30'
+    name: Far Out Radio Systems
+    photo: /images/uploads/square-far-out-radiosystems-–-38-copie.jpg
+    position: Silo
+    time: '12:30'
   - day: Saturday
     end: '18:00'
     linkartist: ' https://www.facebook.com/folamourmusic/'
@@ -142,6 +243,35 @@ team:
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/junglebynight'
     time: '17:00'
+  - day: Sunday
+    end: '15:30'
+    linkartist: 'https://www.facebook.com/itskalipo/?ref=br_rs'
+    name: Kalipo (Live)
+    photo: /images/uploads/square-kalipo-–-17-copie.jpg
+    position: Nico Morano & Friends
+    soundcloud: 'https://soundcloud.com/kalipo-1'
+    time: '14:00'
+  - day: Saturday
+    end: '01:00'
+    linkartist: 'https://www.facebook.com/KonstantinSiboldMusic/'
+    name: Konstantin Sibold
+    photo: /images/uploads/square-konstantin-sibold-–-12-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/konstantinsibold'
+    time: '23:00'
+  - end: '10:45'
+    linkartist: 'https://www.facebook.com/Giegling-199483106732919/'
+    name: Leafar Legov
+    photo: /images/uploads/square-leafar-legov-–-36-copie.jpg
+    soundcloud: 'https://soundcloud.com/leafarlegov'
+  - day: Saturday
+    end: '21:30'
+    linkartist: 'https://www.facebook.com/Je.Suis.Imperatrice/'
+    name: L'imperatrice
+    photo: /images/uploads/square-nico-morano-–-14-copie.jpg
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/l-imperatrice'
+    time: '20:10'
   - day: Saturday
     end: '19:30'
     linkartist: 'https://www.facebook.com/boogieking'
@@ -150,6 +280,22 @@ team:
     position: Paradise City Live
     soundcloud: ' https://soundcloud.com/trxtrx'
     time: '18:30'
+  - day: Saturday
+    end: '23:00'
+    linkartist: 'https://www.facebook.com/lockedgroove/'
+    name: Locked Groove
+    photo: /images/uploads/square-locked-groove-–-21-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/lockedgrooves'
+    time: '09:30'
+  - day: Saturday
+    end: '21:30'
+    linkartist: 'https://www.facebook.com/lolaharomusic/'
+    name: Lola Haro
+    photo: /images/uploads/square-lola-haro-–-20-copie.jpg
+    position: Play Label
+    soundcloud: 'https://soundcloud.com/lola-haro'
+    time: '19:30'
   - day: Sunday
     linkartist: ' https://www.facebook.com/mapache-152180478156038/'
     name: Map.ache (live)
@@ -181,6 +327,35 @@ team:
     soundcloud: 'https://soundcloud.com/mcde-recordings'
     time: '13:00'
   - day: Saturday
+    end: '14:30'
+    linkartist: 'https://www.facebook.com/matebrothersbrussels/'
+    name: Maté Brothers
+    photo: /images/uploads/square-maté-family-–-35-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/mate-family'
+    time: '13:00'
+  - day: Saturday
+    end: '20:00'
+    linkartist: 'https://www.facebook.com/maxtelaer/'
+    name: Max Telaer
+    photo: /images/uploads/square-max-telaer-–-32-copie.jpg
+    position: Play Label
+    soundcloud: 'https://soundcloud.com/maxtelaer'
+    time: '18:00'
+  - end: '10:45'
+    linkartist: 'https://www.facebook.com/molly.emeline/'
+    name: Molly
+    photo: /images/uploads/square-molly-–-33-copie.jpg
+    soundcloud: 'https://soundcloud.com/molly_music'
+  - day: Sunday
+    end: '23:00'
+    linkartist: 'https://www.facebook.com/nicomorano.official/'
+    name: Nico Morano
+    photo: /images/uploads/square-nico-morano-–-14-copie.jpg
+    position: Nico Morano & Friends
+    soundcloud: 'https://soundcloud.com/nicomorano'
+    time: '21:00'
+  - day: Saturday
     end: '18:00'
     linkartist: 'https://www.facebook.com/NuGuinea/'
     name: Nu Guinea (Live Band)
@@ -188,6 +363,13 @@ team:
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/nu-guinea'
     time: '16:40'
+  - day: Friday
+    end: '06:30'
+    linkartist: 'https://www.facebook.com/Nosedrip/'
+    name: Nosedrip
+    photo: /images/uploads/square-nosedrip-–-23-copie.jpg
+    position: Under My Garage
+    time: '17:00'
   - day: Friday
     end: '21:00'
     linkartist: ' https://www.facebook.com/polopan.music/'
@@ -197,6 +379,35 @@ team:
     soundcloud: ' https://soundcloud.com/polo-pan'
     time: '19:30'
   - day: Friday
+    end: '05:00'
+    name: Rey Collino
+    photo: /images/uploads/square-rey-collino-–-10-copie.jpg
+    position: Under My Garage
+    time: '15:30'
+  - day: Friday
+    end: '17:00'
+    linkartist: 'https://www.facebook.com/sedeffadasi/'
+    name: Sedef Adasi
+    photo: /images/uploads/square-sedef-adasi-–-9-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/sedefadasi'
+    time: '15:00'
+  - day: Saturday
+    end: '14:30'
+    linkartist: 'https://www.facebook.com/deejaysheherazade/'
+    name: Shéhérazade
+    photo: /images/uploads/square-sheherazade-–-41-copie.jpg
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/sheherazadevannuijs'
+    time: '13:00'
+  - day: Saturday
+    end: '10:45'
+    linkartist: 'https://www.facebook.com/sheridandj/'
+    name: Sheridan
+    photo: /images/uploads/square-sheridan-–-41-copie.jpg
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/sheridan'
+  - day: Friday
     end: '01:00'
     linkartist: ' https://www.facebook.com/skatebard/'
     name: Skatebård
@@ -204,6 +415,53 @@ team:
     position: Under My Garage
     soundcloud: ' https://soundcloud.com/skatebard'
     time: '23:30'
+  - day: Sunday
+    end: '20:00'
+    linkartist: 'https://www.facebook.com/stavrozmusic/'
+    name: Stavroz (Live)
+    photo: /images/uploads/square-stavroz-–-11-copie.jpg
+    position: Abstrkt
+    soundcloud: 'https://soundcloud.com/search?q=stavroz'
+    time: '18:30'
+  - day: Sunday
+    end: '17:00'
+    linkartist: 'https://www.facebook.com/stereoclip/'
+    name: Stereoclip
+    photo: /images/uploads/square-stereoclip-–-13-copie.jpg
+    position: Nico Morano & Friends
+    soundcloud: 'https://soundcloud.com/stereoclip'
+    time: '15:30'
+  - day: Friday
+    end: '18:30'
+    linkartist: 'https://www.facebook.com/supreemsmusic/'
+    name: Supreems
+    photo: /images/uploads/square-supreems-–-6-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/supreems'
+    time: '17:00'
+  - day: Saturday
+    end: '15:10'
+    linkartist: 'https://www.facebook.com/tessa.dixson'
+    name: Tessa Dixon
+    photo: /images/uploads/square-tessa-dixon-–-8-copie.jpg
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/tessadixson'
+    time: '14:30'
+  - day: Sunday
+    end: '21:00'
+    linkartist: 'https://www.facebook.com/thang9000/'
+    name: Thang
+    photo: /images/uploads/square-thang-–-39-copie.jpg
+    position: Abstrkt
+    time: '20:10'
+  - day: Saturday
+    end: '01:00'
+    linkartist: 'https://www.facebook.com/timmermantoon/'
+    name: Timmerman
+    photo: /images/uploads/square-timmerman-–-7-copie.jpg
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/timmermantoon'
+    time: '23:40'
   - day: Sunday
     end: '18:00'
     linkartist: ' https://www.facebook.com/ToddTerje/'
