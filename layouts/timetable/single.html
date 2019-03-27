@@ -3,7 +3,7 @@
   <div class="container">
 	          <h3 class="section-intro writing">{{ .Title }}</h3>
 	          <h3 class="section-intro writing">Friday</h3>
-    <div class="container split artistes" id="artsts"> 
+    <div class="container" id="artsts"> 
 {{ range where .Site.Data.artists.team  "day" "Friday"}}
 		{{.name}}
 {{end}}
@@ -11,10 +11,11 @@
 
 		{{ range where .Site.Data.artists.team  "day" "Saturday"}}
 		{{.name}}
-{{end}}	          <h3 class="section-intro writing">Saturday</h3>
+{{end}}	          <h3 class="section-intro writing">sunday</h3>
 <div class="cd-schedule loading">
 	<div class="timeline">
 		<ul>
+			<li><span>12:30</span></li>
 			<li><span>13:00</span></li>
 			<li><span>13:30</span></li>
 			<li><span>14:00</span></li>
@@ -40,20 +41,64 @@
 			<li><span>00:00</span></li>
 			<li><span>00:30</span></li>
 			<li><span>01:00</span></li>
-			<li><span>01:30</span></li>
-			<li><span>02:00</span></li>
+
 		</ul>
 	</div> <!-- .timeline -->
 
 
 	<div class="events">
 		
-		<ul>
+		<ul style="list-style-type:none;">
 			<li class="events-group">
 				<div class="top-info"><span>Abstrkt</span></div>
 
 				<ul>
 					{{ range first 3 (where (where .Site.Data.artists.team  "position" "Abstrkt") "day" "=" "Sunday")  }}
+
+
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+						<a href="#0">
+							<em class="event-name">	{{.name}}</em>
+						</a>
+					</li>
+{{end}}
+				</ul>
+			</li>			
+			<li class="events-group">
+				<div class="top-info"><span>Silo</span></div>
+
+				<ul>
+					{{ range first 3 (where (where .Site.Data.artists.team  "position" "Silo") "day" "=" "Sunday")  }}
+
+
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+						<a href="#0">
+							<em class="event-name">	{{.name}}</em>
+						</a>
+					</li>
+{{end}}
+				</ul>
+			</li>			
+			<li class="events-group">
+				<div class="top-info"><span>Nico Morano & Friends</span></div>
+
+				<ul>
+					{{ range first 3 (where (where .Site.Data.artists.team  "position" "Nico Morano & Friends") "day" "=" "Sunday")  }}
+
+
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+						<a href="#0">
+							<em class="event-name">	{{.name}}</em>
+						</a>
+					</li>
+{{end}}
+				</ul>
+			</li>			
+			<li class="events-group">
+				<div class="top-info"><span>Giegling</span></div>
+
+				<ul>
+					{{ range first 3 (where (where .Site.Data.artists.team  "position" "Giegling") "day" "=" "Sunday")  }}
 
 
 					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">

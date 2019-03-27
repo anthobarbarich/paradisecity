@@ -2377,12 +2377,17 @@ Main Components
 .cd-schedule {
   position: relative;
   margin: 2em 0;
+	font-family: Akrobat;
+	text-transform: uppercase;
 }
 
 .cd-schedule::before {
   /* never visible - this is used in js to check the current MQ */
   content: 'mobile';
   display: none;
+}
+.cd-schedule ul {
+	list-style-type: none;
 }
 
 @media only screen and (min-width: 800px) {
@@ -2622,15 +2627,21 @@ Main Components
   font-weight: bold;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+	font-style:normal;
+	
 }
 
 .cd-schedule .event-name {
   font-size: 2.4rem;
+		font-style:normal;
+
 }
 
 @media only screen and (min-width: 800px) {
   .cd-schedule .event-name {
     font-size: 2rem;
+	  	font-style:normal;
+
   }
 }
 
@@ -2891,6 +2902,8 @@ Main Components
     height: 16px;
   }
 }
+
+
 
 @media only screen and (min-width: 1000px) {
   .cd-schedule .event-modal .header .content {
