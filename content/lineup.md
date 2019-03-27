@@ -7,7 +7,7 @@ team:
   - day: Sunday
     end: '17:00'
     linkartist: 'https://www.facebook.com/2manydjs/'
-    name: 2manydjs
+    name: 2manydjs (dj set)
     photo: /images/uploads/square-2manydjs-–-11.png
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/deewee-2'
@@ -53,7 +53,7 @@ team:
   - day: Friday
     end: '23:00'
     linkartist: 'https://www.facebook.com/auntieflo/'
-    name: Auntie Flo
+    name: Auntie Flo (live band)
     photo: /images/uploads/square-auntieflo-–-18-copie.jpg
     position: Contrair
     soundcloud: 'https://soundcloud.com/auntie-flo'
@@ -77,6 +77,7 @@ team:
   - end: '10:45'
     name: Bendrik
     photo: /images/uploads/square-bendrik-–-4-copie.jpg
+    position: Play Label
   - day: Sunday
     end: '14:50'
     linkartist: ' https://www.facebook.com/beraadgeslagen/'
@@ -134,8 +135,9 @@ team:
     soundcloud: 'https://soundcloud.com/dixon'
     time: '20:00'
   - end: '10:45'
-    name: Dustin
+    name: dj Dustin
     photo: /images/uploads/square-dustin-–-15-copie.jpg
+    position: Giegling
   - day: Sunday
     end: '20:00'
     linkartist: 'https://www.facebook.com/djkoze/'
@@ -161,8 +163,9 @@ team:
     time: '18:30'
   - end: '10:45'
     linkartist: 'https://www.facebook.com/DWIG-312136605522586/'
-    name: Dwig
+    name: Dwig (live)
     photo: /images/uploads/square-dwig-–-28-copie.jpg
+    position: Giegling
     soundcloud: 'https://soundcloud.com/dwig'
   - day: Saturday
     name: Edward
@@ -180,6 +183,7 @@ team:
     linkartist: 'https://www.facebook.com/eli-verveine-386344770109/'
     name: Eli Verveine
     photo: /images/uploads/square-eli-verveine-–-42-copie.jpg
+    position: Giegling
     soundcloud: 'https://soundcloud.com/eli-verveine'
   - day: Friday
     end: '20:30'
@@ -261,8 +265,9 @@ team:
     time: '23:00'
   - end: '10:45'
     linkartist: 'https://www.facebook.com/Giegling-199483106732919/'
-    name: Leafar Legov
+    name: Leafar Legov (live)
     photo: /images/uploads/square-leafar-legov-–-36-copie.jpg
+    position: Giegling
     soundcloud: 'https://soundcloud.com/leafarlegov'
   - day: Saturday
     end: '19:30'
@@ -338,6 +343,7 @@ team:
     linkartist: 'https://www.facebook.com/molly.emeline/'
     name: Molly
     photo: /images/uploads/square-molly-–-33-copie.jpg
+    position: Giegling
     soundcloud: 'https://soundcloud.com/molly_music'
   - day: Sunday
     end: '23:00'
@@ -372,7 +378,7 @@ team:
     time: '19:30'
   - day: Friday
     end: '05:00'
-    name: Rey Collino
+    name: Rey Colino
     photo: /images/uploads/square-rey-collino-–-10-copie.jpg
     position: Under My Garage
     time: '15:30'
@@ -418,7 +424,7 @@ team:
   - day: Sunday
     end: '17:00'
     linkartist: 'https://www.facebook.com/stereoclip/'
-    name: Stereoclip
+    name: Stereoclip (live)
     photo: /images/uploads/square-stereoclip-–-13-copie.jpg
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/stereoclip'
