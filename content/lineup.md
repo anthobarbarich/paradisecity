@@ -265,14 +265,6 @@ team:
     photo: /images/uploads/square-leafar-legov-–-36-copie.jpg
     soundcloud: 'https://soundcloud.com/leafarlegov'
   - day: Saturday
-    end: '21:30'
-    linkartist: 'https://www.facebook.com/Je.Suis.Imperatrice/'
-    name: L'imperatrice
-    photo: /images/uploads/square-nico-morano-–-14-copie.jpg
-    position: Paradise City Live
-    soundcloud: 'https://soundcloud.com/l-imperatrice'
-    time: '20:10'
-  - day: Saturday
     end: '19:30'
     linkartist: 'https://www.facebook.com/boogieking'
     name: Leroy Burgess (full band)
