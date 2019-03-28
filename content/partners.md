@@ -41,5 +41,8 @@ partner:
   - name: CO2 Neutral
     photo: /images/uploads/co2neutral_logo.png
     position: 'https://www.co2logic.com/nl/het-co2-neutral%C2%AE-label'
+  - name: 'Payconiq '
+    photo: /images/uploads/logopayconiq.png
+    position: 'https://www.payconiq.be/en'
 ---
 
