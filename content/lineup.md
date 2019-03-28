@@ -484,7 +484,6 @@ team:
     position: Nico Morano & Friends
     soundcloud: ' https://soundcloud.com/vaalofficial'
     time: '17:00'
-  - end: '16:25'
   - day: Sunday
     end: '14:00'
     linkartist: 'https://www.facebook.com/axelhaube1/'
