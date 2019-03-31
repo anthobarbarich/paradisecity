@@ -65,7 +65,7 @@ collections:
             default: green
           - label: Title
             name: title
-            widget: string
+            wid	get: string
           - label: Body
             name: body
             widget: markdown
@@ -100,6 +100,25 @@ collections:
             name: body
             widget: markdown
             
+      - label: "Tickets"
+        name: "tickets"
+        file: "content/tickets.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: static
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: tickets
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
+            
       - label: "Line Up"
         name: "lineup"
         file: "content/lineup.md"
@@ -113,8 +132,13 @@ collections:
             widget: list
             fields:
               - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
+              - {label: Position, name: position, widget: select, options: ["Love", "Contrair", "Paradise City Live", "Under My Garage", "Silo", "Abstrkt", "Play Label", "Nico Morano & Friends", "Giegling"]}
+              - {label: Day, name: day, widget: select, options: ["Friday", "Saturday", "Sunday"]}
+              - {label: Time, name: time, widget: datetime, dateFormat: true, timeFormat: false, format: "HH:mm"}
+              - {label: End, name: end, widget: datetime, dateFormat: true, timeFormat: false, format: "HH:mm"}
               - {label: Photo, name: photo, widget: image}
+              - {label: Soundcloud, name: soundcloud, widget: string}
+              - {label: Link, name: linkartist, widget: string}
             
       - label: "Homepage"
         name: "index"
@@ -129,6 +153,12 @@ collections:
             widget: image
           - label: Body
             name: body
+            widget: markdown
+          - label: Line-up Title
+            name: lineuptitle
+            widget: string
+          - label: Line-up text
+            name: lineuptxt
             widget: markdown
             
       - label: "Partners"

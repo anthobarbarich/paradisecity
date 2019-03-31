@@ -26,6 +26,8 @@ a {
   min-height: 1200px;
   background-color: #fffdf8;
   font-family: Montserrat, sans-serif;
+	overflow-x: hidden;
+	overflow-y: scroll;
 }
 
 .body.news.navlink-black.w-nav-link a[href="/news"] {
@@ -124,6 +126,17 @@ a {
 }
 
 .container.split.artistes {
+  margin-top: 20px;
+  -webkit-box-pack: start;
+  -webkit-justify-content: space-evenly;
+  -ms-flex-pack: start;
+  justify-content: space-evenly;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.container.split.newzz {
   margin-top: 96px;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
@@ -701,13 +714,23 @@ padding: 00px;
 
 .lineu {
   position: relative;
-  z-index: 1;
-  padding-top: 200px;
-  padding-bottom: 200px;
+  z-index: 99999;
+  padding-top: 100px;
+  padding-bottom: 125px;
   background-position: 50% 50%;
   background-size:cover;
   color: #fff;
   text-align: center;
+}
+
+
+
+.overlaydark {
+	position: absolute;
+	top: 0px;
+	background-color: #0000001a;
+	width: 100%;
+	height: 100%;
 }
 
 .section-cta {
@@ -715,7 +738,7 @@ padding: 00px;
   margin-bottom: 25px;
   font-family: Akrobat;
   font-size: 42px;
-  line-height: 23px;
+  line-height: 53px;
   text-transform: uppercase;
 }
 
@@ -756,10 +779,82 @@ padding: 00px;
   font-size: 15px;
 }
 
+.btnlineup {
+    padding: 15px 40px;
+  font-size: 15px;
+  text-transform: uppercase;
+	position: relative;
+	  border-radius: 5px;
+right: 40px;
+  z-index: 99;
+  margin-left: 12px;
+	margin-bottom: 30px;
+  background-color: #fa8d76;
+  box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, .12);
+  -webkit-transition: -webkit-transform 200ms ease;
+  transition: -webkit-transform 200ms ease;
+  transition: transform 200ms ease;
+  transition: transform 200ms ease, -webkit-transform 200ms ease;
+  font-family: Akrobat;
+  color: #fff;
+	cursor: pointer;
+}
+
+.btnlineup:focus{background-color:#ef5d42;}
+.btnlineup:hover {
+  -webkit-transform: scale(1.06);
+  -ms-transform: scale(1.06);
+	transform: scale(1.06);}
+
+.bloxbtn {
+	margin-top: 0px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	  align-items: center;
+	transform: scale(.7);
+	
+}
+
+svg:not(:root) {
+    overflow: visible;
+}
+
+.bloxbtn .btn {
+	width: 20%;
+	margin-bottom: 40px;
+	background-color: transparent;
+	text-align: center;
+	cursor: pointer;
+	
+}
+
+.bloxbtn .btn svg {
+		fill: #58465e;
+	
+}
+
+.bloxbtn .btn svg:hover {
+	fill: #fa8d76;
+}
+
+.bloxbtn .btn svg:focus {
+	fill: #fa8d76;
+}
+
 .btcta.reverse:hover {
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
   transform: scale(1.06);
+}
+
+#myBtnContainer {
+	text-align: center;
+	margin-top: 10px;
+	display: flex;
+    flex-wrap: wrap;
+	justify-content: center;
+	align-content: center
 }
 
 .btcta.rev {
@@ -818,7 +913,7 @@ padding: 00px;
 
 .section-partners {
   position: relative;
-  overflow: hidden;
+	overflow:visible;
   padding-top: 26px;
   background-image: -webkit-gradient(linear, left top, left bottom, from(hsla(12, 75%, 71%, 0)), color-stop(48%, #fceac2));
   background-image: linear-gradient(180deg, hsla(12, 75%, 71%, 0), #fceac2 48%);
@@ -985,7 +1080,10 @@ padding: 00px;
   padding-top: 0px;
   padding-bottom: 60px;
 }
-
+.section-page.line-up
+{
+	margin-top: 45px;
+}
 .block-icons {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1021,6 +1119,67 @@ padding: 00px;
   display: block;
   margin-right: auto;
   margin-left: auto;
+}
+
+.col4.greencard {
+	
+	-webkit-justify-content: space-evenly;
+    justify-content: space-evenly;
+}
+
+.ticketschoice {
+    position: relative;
+    z-index: 99;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    width: 37%;
+    height: 268px;
+    margin-right: 20px;
+    margin-bottom: 37px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 auto;
+    -ms-flex: 0 auto;
+    flex: 0 auto;
+	background-image: url('../images/shapesblog-2.png'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+    border-radius: 10px;
+    background-color: #5dceb4;
+    background-position: 0px 100%;
+    background-size: 108px;
+    background-repeat: no-repeat;
+    box-shadow: 1px 1px 29px 0 rgba(0, 0, 0, .28);
+    -webkit-transition: -webkit-transform 200ms ease;
+    transition: -webkit-transform 200ms ease;
+    transition: transform 200ms ease;
+    transition: transform 200ms ease, -webkit-transform 200ms ease;
+    font-size: 16px;
+    text-align: center;
+}
+
+.ticketschoice.early {
+    background-color: #fa8d76;
+    background-image: url('../images/shapesblog-2.png'), -webkit-gradient(linear, left top, left bottom, from(transparent), to(transparent));
+    background-position: 0px 100%, 0px 0px;
+    background-size: 108px, auto;
+    background-repeat: no-repeat, repeat;
 }
 
 .ctaticket {
@@ -1198,54 +1357,108 @@ body.artists a.navlink-black.w-nav-link[href="/lineup"]
 .artiste {
   position: relative;
   z-index: 99;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   overflow: hidden;
-  width: 30%;
+  width: 100%;
   height: 250px;
   margin-right: 20px;
-  margin-bottom: 37px;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap-reverse;
-  -ms-flex-wrap: wrap-reverse;
-  flex-wrap: wrap-reverse;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-box-flex: 0;
-  -webkit-flex: 0 auto;
-  -ms-flex: 0 auto;
-  flex: 0 auto;
+  margin-bottom: 5px;
   border-radius: 5px;
-  background-image: url('../images/shapesblog-2.png'), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .21)), to(rgba(0, 0, 0, .21))), url('../images/thumbvideo.jpg');
-  background-image: url('../images/shapesblog-2.png'), linear-gradient(180deg, rgba(0, 0, 0, .21), rgba(0, 0, 0, .21)), url('../images/thumbvideo.jpg');
   background-position: 0px 100%, 0px 0px, 50% 50%;
   background-size: 108px, auto, cover;
   background-repeat: no-repeat, repeat, repeat;
   box-shadow: 1px 1px 29px 0 rgba(0, 0, 0, .28);
-  -webkit-transition: -webkit-transform 200ms ease;
+
+}
+
+
+
+.newz {
+    position: relative;
+    z-index: 99;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    width: 30%;
+    height: 250px;
+    margin-right: 20px;
+    margin-bottom: 37px;
+    border-radius: 5px;
+    background-position: 0 100%,0 0,50% 50%;
+    background-size: 108px,auto,cover;
+    background-repeat: no-repeat,repeat,repeat;
+    box-shadow: 1px 1px 29px 0 rgba(0,0,0,.28);
+    -webkit-transition: -webkit-transform .2s ease;
+    transition: -webkit-transform .2s ease;
+    transition: transform .2s ease;
+    transition: transform .2s ease,-webkit-transform .2s ease;
+}
+
+
+.containartist {
+	position: relative;
+	width: 30%;
+	margin-top:0;
+	margin-bottom: 40px;
+	  -webkit-transition: -webkit-transform 200ms ease;
   transition: -webkit-transform 200ms ease;
   transition: transform 200ms ease;
   transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
 
-.artiste:hover {
+.containartist a {
+	float: right;
+	margin-top: 10px;
+	margin-left: 8px;
+}
+
+.containartist a svg:hover {
+    stroke: #fa8d76;
+}
+
+.containartist h3 {
+	text-transform: uppercase;
+	font-size: 1.5em;
+	display: inline-block;
+	font-family: Akrobat;
+	font-weight: 100;
+	margin-top: 8px;
+	color: #575757;
+	margin-bottom: 0;
+	line-height: 30px;
+	margin-right: 4px;
+
+}
+.containartist hr {
+	opacity: 0.3;
+}
+
+.containartist:hover {
+  -webkit-transform: scale(1.06);
+  -ms-transform: scale(1.06);
+  transform: scale(1.06);
+}
+.newz:hover {
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
   transform: scale(1.06);
 }
 
+h3.daytxt {
+	z-index: 99;
+	background-color: #fa8d76;
+	color: white;
+	font-size: 15px;
+	padding: 3px 6px ;
+	border-radius: 2px;
+	line-height: normal;
+	font-size: 16px;
+	transform: translateY(-2px);
+	position: absolute;
+    top: 5px;
+    left: 10px;
+}
 .nameartiste {
   -webkit-align-self: center;
   -ms-flex-item-align: center;
@@ -1426,6 +1639,10 @@ form.contactform textarea {
   box-shadow: 1px 1px 50px 0 rgba(0, 0, 0, .22);
 }
 
+/*.smbuttons:hover {
+		width: 400px;
+}*/
+
 .smicone {
 	bottom: 10px;
 	opacity: 0.8;
@@ -1472,6 +1689,14 @@ p.joinustxt {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
+  }
+	
+  .container.split.newzz {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
   }
   .container.split.paddingtop {
     padding-right: 30px;
@@ -1683,7 +1908,7 @@ a.blogthumb.w-inline-block {
   .lastnav {
     display: none;
   }
-  .artiste {
+  .containartist {
     width: 45%;
     margin-bottom: 37px;
     -webkit-box-orient: horizontal;
@@ -1712,11 +1937,14 @@ a.blogthumb.w-inline-block {
   .txtcta {
     font-size: 24px;
   }
+	.newz {
+		width: 45%;
+	}
   .headarticle {
     padding-right: 20px;
     padding-left: 20px;
   }
-  .artiste {
+  .containartist {
     width: 45%;
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
@@ -1741,6 +1969,36 @@ a.blogthumb.w-inline-block {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
   }
+	#myBtnContainer {
+	text-align: center;
+	margin-top:-30px;
+}
+	.bloxbtn {
+		display: none;
+	}
+	
+	.btnlineup {
+    padding: 16px 33px;
+    font-size: 15px;
+    text-transform: uppercase;
+    position: relative;
+    border-radius: 5px;
+
+		right: 0;    
+		z-index: 99;
+    margin-left: 12px;
+    margin-bottom: 16px;
+    background-color: #fa8d76;
+    box-shadow: 1px 1px 24px 0 rgba(0, 0, 0, .12);
+    -webkit-transition: -webkit-transform 200ms ease;
+    transition: -webkit-transform 200ms ease;
+    transition: transform 200ms ease;
+    transition: transform 200ms ease, -webkit-transform 200ms ease;
+    font-family: Akrobat;
+    color: #fff;
+    cursor: pointer;
+		margin-bottom: 10px;
+}
   .container.split.margin-bottom {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -1762,12 +2020,17 @@ a.blogthumb.w-inline-block {
   .container.nav {
     text-align: center;
   }
+  .ticketschoice {
+	    width: 100%;
+	}	
   .nav-link {
     margin-left: 0px;
     color: #555;
     text-align: center;
   }
-	
+	.newz {
+		width: 100%;
+	}
 	.heading-3 {
     font-size: 34px;
     text-align: center;
@@ -2050,7 +2313,7 @@ a.blogthumb.w-inline-block {
   .icon-2 {
     color: #fa8d76;
   }
-  .artiste {
+  .containartist {
     width: 100%;
     margin-right: 0px;
   }
@@ -2061,6 +2324,19 @@ a.blogthumb.w-inline-block {
     width: 118px;
     margin-top: 1px;
   }
+	.section-page.line-up
+{
+	margin-top: 80px;
+}
+}
+
+.filterDiv {
+  display: none; /* Hidden by default */
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
 }
 @font-face {
   font-family: 'Akrobat';
@@ -2068,3 +2344,623 @@ a.blogthumb.w-inline-block {
   font-weight: 900;
   font-style: normal;
 }
+
+/* -------------------------------- 
+
+TIMETABLE
+-------------------------------- */
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #222222;
+  background-color: white;
+}
+
+a {
+  color: #A2B9B2;
+  text-decoration: none;
+}
+
+/* -------------------------------- 
+
+Main Components 
+
+-------------------------------- */
+.cd-schedule {
+  position: relative;
+  margin: 2em 0;
+	font-family: Akrobat;
+	text-transform: uppercase;
+}
+
+.cd-schedule::before {
+  /* never visible - this is used in js to check the current MQ */
+  content: 'mobile';
+  display: none;
+}
+.cd-schedule ul {
+	list-style-type: none;
+}
+
+@media only screen and (min-width: 800px) {
+  .cd-schedule {
+    width: 90%;
+    max-width: 1400px;
+    margin: 2em auto;
+  }
+  .cd-schedule::after {
+    clear: both;
+    content: "";
+    display: block;
+  }
+  .cd-schedule::before {
+    content: 'desktop';
+  }
+}
+
+.cd-schedule .timeline {
+  display: none;
+}
+
+@media only screen and (min-width: 800px) {
+  .cd-schedule .timeline {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    padding-top: 50px;
+  }
+  .cd-schedule .timeline li {
+    position: relative;
+    height: 50px;
+  }
+  .cd-schedule .timeline li::after {
+    /* this is used to create the table horizontal lines */
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background: #EAEAEA;
+  }
+  .cd-schedule .timeline li:last-of-type::after {
+    display: none;
+  }
+  .cd-schedule .timeline li span {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .cd-schedule .timeline li::after {
+    width: calc(100% - 60px);
+    left: 60px;
+  }
+  .cd-schedule .timeline li span {
+    display: inline-block;
+    -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+  .cd-schedule .timeline li:nth-of-type(2n) span {
+    display: none;
+  }
+}
+
+.cd-schedule .events {
+  position: relative;
+  z-index: 1;
+}
+
+.cd-schedule .events .events-group {
+  margin-bottom: 30px;
+}
+
+.cd-schedule .events .top-info {
+  width: 100%;
+  padding: 0 5%;
+}
+
+.cd-schedule .events .top-info > span {
+  display: inline-block;
+  line-height: 1.2;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.cd-schedule .events .events-group > ul {
+  position: relative;
+  padding: 0 5%;
+  /* force its children to stay on one line */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cd-schedule .events .events-group > ul::after {
+  /* never visible - used to add a right padding to .events-group > ul */
+  display: inline-block;
+  content: '-';
+  width: 1px;
+  height: 100%;
+  opacity: 0;
+  color: transparent;
+}
+
+.cd-schedule .events .single-event {
+  /* force them to stay on one line */
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  float: left;
+  height: 150px;
+  width: 70%;
+  max-width: 300px;
+  box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.2);
+  margin-right: 20px;
+  -webkit-transition: opacity .2s, background .2s;
+  transition: opacity .2s, background .2s;
+}
+
+.cd-schedule .events .single-event:last-of-type {
+  margin-right: 5%;
+}
+
+.cd-schedule .events .single-event a {
+  display: block;
+  height: 100%;
+  padding: .8em;
+}
+
+@media only screen and (min-width: 550px) {
+  .cd-schedule .events .single-event {
+    width: 40%;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .cd-schedule .events {
+    float: left;
+    width: 100%;
+  }
+  .cd-schedule .events .events-group {
+    width: 25%;
+    float: left;
+    border: 1px solid #EAEAEA;
+    /* reset style */
+    margin-bottom: 0;
+  }
+  .cd-schedule .events .events-group:not(:first-of-type) {
+    border-left-width: 0;
+  }
+  .cd-schedule .events .top-info {
+    /* vertically center its content */
+    display: table;
+    height: 50px;
+    border-bottom: 1px solid #EAEAEA;
+    /* reset style */
+    padding: 0;
+  }
+  .cd-schedule .events .top-info > span {
+    /* vertically center inside its parent */
+    display: table-cell;
+    vertical-align: middle;
+    padding: 0 .5em;
+    text-align: center;
+    /* reset style */
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+  .cd-schedule .events .events-group > ul {
+    height: 950px;
+    /* reset style */
+    display: block;
+    overflow: visible;
+    padding: 0;
+  }
+  .cd-schedule .events .events-group > ul::after {
+    clear: both;
+    content: "";
+    display: block;
+  }
+  .cd-schedule .events .events-group > ul::after {
+    /* reset style */
+    display: none;
+  }
+  .cd-schedule .events .single-event {
+    position: absolute;
+    z-index: 3;
+    /* top position and height will be set using js */
+    width: calc(100% + 2px);
+    left: -1px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), inset 0 -3px 0 rgba(0, 0, 0, 0.2);
+    /* reset style */
+    -ms-flex-negative: 1;
+        flex-shrink: 1;
+    height: auto;
+    max-width: none;
+    margin-right: 0;
+  }
+  .cd-schedule .events .single-event a {
+    padding: 1.2em;
+  }
+  .cd-schedule .events .single-event:last-of-type {
+    /* reset style */
+    margin-right: 0;
+  }
+  .cd-schedule .events .single-event.selected-event {
+    /* the .selected-event class is added when an user select the event */
+    visibility: hidden;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .cd-schedule .events {
+    /* 60px is the .timeline element width */
+    width: calc(100% - 60px);
+    margin-left: 60px;
+  }
+}
+
+.cd-schedule.loading .events .single-event {
+  /* the class .loading is added by default to the .cd-schedule element
+	   it is removed as soon as the single events are placed in the schedule plan (using javascript) */
+  opacity: 0;
+}
+
+.cd-schedule .event-name,
+.cd-schedule .event-date {
+  display: block;
+  color: white;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+	font-style:normal;
+	
+}
+
+.cd-schedule .event-name {
+  font-size: 2.4rem;
+		font-style:normal;
+
+}
+
+@media only screen and (min-width: 800px) {
+  .cd-schedule .event-name {
+    font-size: 2rem;
+	  	font-style:normal;
+
+  }
+}
+
+.cd-schedule .event-date {
+  /* they are not included in the the HTML but added using JavScript */
+  font-size: 1.4rem;
+  opacity: .7;
+  line-height: 1.2;
+  margin-bottom: .2em;
+}
+
+.cd-schedule .single-event[data-event="event-1"],
+.cd-schedule [data-event="event-1"] .header-bg {
+  /* this is used to set a background color for the event and the modal window */
+  background: #577F92;
+}
+
+.cd-schedule .single-event[data-event="event-1"]:hover {
+  background: #618da1;
+}
+
+.cd-schedule .single-event[data-event="event-2"],
+.cd-schedule [data-event="event-2"] .header-bg {
+  background: #443453;
+}
+
+.cd-schedule .single-event[data-event="event-2"]:hover {
+  background: #513e63;
+}
+
+.cd-schedule .single-event[data-event="event-3"],
+.cd-schedule [data-event="event-3"] .header-bg {
+  background: #A2B9B2;
+}
+
+.cd-schedule .single-event[data-event="event-3"]:hover {
+  background: #b1c4be;
+}
+
+.cd-schedule .single-event[data-event="event-4"],
+.cd-schedule [data-event="event-4"] .header-bg {
+  background: #f6b067;
+}
+
+.cd-schedule .single-event[data-event="event-4"]:hover {
+  background: #f7bd7f;
+}
+
+.cd-schedule .event-modal {
+  position: fixed;
+  z-index: 3;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  visibility: hidden;
+  /* Force Hardware acceleration */
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  -webkit-transform: translateX(100%);
+      -ms-transform: translateX(100%);
+          transform: translateX(100%);
+  -webkit-transition: visibility .4s, -webkit-transform .4s;
+  transition: visibility .4s, -webkit-transform .4s;
+  transition: transform .4s, visibility .4s;
+  transition: transform .4s, visibility .4s, -webkit-transform .4s;
+  -webkit-transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+          transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+}
+
+.cd-schedule .event-modal .header {
+  position: relative;
+  height: 70px;
+  /* vertically center its content */
+  display: table;
+  width: 100%;
+}
+
+.cd-schedule .event-modal .header .content {
+  position: relative;
+  z-index: 3;
+  /* vertically center inside its parent */
+  display: table-cell;
+  vertical-align: middle;
+  padding: .6em 5%;
+}
+
+.cd-schedule .event-modal .body {
+  position: relative;
+  width: 100%;
+  /* 70px is the .header height */
+  height: calc(100% - 70px);
+}
+
+.cd-schedule .event-modal .event-info {
+  position: relative;
+  z-index: 2;
+  line-height: 1.4;
+  height: 100%;
+  overflow: hidden;
+}
+
+.cd-schedule .event-modal .event-info > div {
+  overflow: auto;
+  height: 100%;
+  padding: 1.4em 5%;
+}
+
+.cd-schedule .event-modal .header-bg, .cd-schedule .event-modal .body-bg {
+  /* these are the morphing backgrounds - visible on desktop only */
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.cd-schedule .event-modal .body-bg {
+  z-index: 1;
+  background: white;
+  -webkit-transform-origin: top left;
+      -ms-transform-origin: top left;
+          transform-origin: top left;
+}
+
+.cd-schedule .event-modal .header-bg {
+  z-index: 2;
+  -webkit-transform-origin: top center;
+      -ms-transform-origin: top center;
+          transform-origin: top center;
+}
+
+.cd-schedule .event-modal .close {
+  /* this is the 'X' icon */
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 3;
+  background: rgba(0, 0, 0, 0.1);
+  /* replace text with icon */
+  color: transparent;
+  white-space: nowrap;
+  text-indent: 100%;
+  height: 70px;
+  width: 70px;
+}
+
+.cd-schedule .event-modal .close::before, .cd-schedule .event-modal .close::after {
+  /* these are the two lines of the 'X' icon */
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 2px;
+  height: 22px;
+  background: white;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.cd-schedule .event-modal .close::before {
+  -webkit-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+      -ms-transform: translateX(-50%) translateY(-50%) rotate(45deg);
+          transform: translateX(-50%) translateY(-50%) rotate(45deg);
+}
+
+.cd-schedule .event-modal .close::after {
+  -webkit-transform: translateX(-50%) translateY(-50%) rotate(-45deg);
+      -ms-transform: translateX(-50%) translateY(-50%) rotate(-45deg);
+          transform: translateX(-50%) translateY(-50%) rotate(-45deg);
+}
+
+.cd-schedule .event-modal .event-date {
+  display: none;
+}
+
+.cd-schedule .event-modal.no-transition {
+  -webkit-transition: none;
+  transition: none;
+}
+
+.cd-schedule .event-modal.no-transition .header-bg, .cd-schedule .event-modal.no-transition .body-bg {
+  -webkit-transition: none;
+  transition: none;
+}
+
+@media only screen and (min-width: 800px) {
+  .cd-schedule .event-modal {
+    /* reset style */
+    right: auto;
+    width: auto;
+    height: auto;
+    -webkit-transform: translateX(0);
+        -ms-transform: translateX(0);
+            transform: translateX(0);
+    will-change: transform, width, height;
+    -webkit-transition: height .4s, width .4s, visibility .4s, -webkit-transform .4s;
+    transition: height .4s, width .4s, visibility .4s, -webkit-transform .4s;
+    transition: height .4s, width .4s, transform .4s, visibility .4s;
+    transition: height .4s, width .4s, transform .4s, visibility .4s, -webkit-transform .4s;
+    -webkit-transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+            transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+  }
+  .cd-schedule .event-modal .header {
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }
+  .cd-schedule .event-modal .header .content {
+    /* reset style */
+    display: block;
+    padding: .8em;
+  }
+  .cd-schedule .event-modal .event-info > div {
+    padding: 2em 3em 2em 2em;
+  }
+  .cd-schedule .event-modal .body {
+    height: 100%;
+    width: auto;
+  }
+  .cd-schedule .event-modal .header-bg, .cd-schedule .event-modal .body-bg {
+    /* Force Hardware acceleration */
+    -webkit-transform: translateZ(0);
+            transform: translateZ(0);
+    will-change: transform;
+    -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+  }
+  .cd-schedule .event-modal .header-bg {
+    -webkit-transition: -webkit-transform .4s;
+    transition: -webkit-transform .4s;
+    transition: transform .4s;
+    transition: transform .4s, -webkit-transform .4s;
+    -webkit-transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+            transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+  }
+  .cd-schedule .event-modal .body-bg {
+    opacity: 0;
+    -webkit-transform: none;
+        -ms-transform: none;
+            transform: none;
+  }
+  .cd-schedule .event-modal .event-date {
+    display: block;
+  }
+  .cd-schedule .event-modal .close, .cd-schedule .event-modal .event-info {
+    opacity: 0;
+  }
+  .cd-schedule .event-modal .close {
+    width: 40px;
+    height: 40px;
+    background: transparent;
+  }
+  .cd-schedule .event-modal .close::after, .cd-schedule .event-modal .close::before {
+    background: #222222;
+    height: 16px;
+  }
+}
+
+
+
+@media only screen and (min-width: 1000px) {
+  .cd-schedule .event-modal .header .content {
+    padding: 1.2em;
+  }
+}
+
+.cd-schedule.modal-is-open .event-modal {
+  /* .modal-is-open class is added as soon as an event is selected */
+  -webkit-transform: translateX(0);
+      -ms-transform: translateX(0);
+          transform: translateX(0);
+  visibility: visible;
+}
+
+.cd-schedule.modal-is-open .event-modal .event-info > div {
+  /* smooth scroll on iOS touch devices */
+  -webkit-overflow-scrolling: touch;
+}
+
+@media only screen and (min-width: 800px) {
+  .cd-schedule.animation-completed .event-modal .close,
+  .cd-schedule.content-loaded.animation-completed .event-modal .event-info {
+    /* 	the .animation-completed class is added when the modal animation is completed
+			the .content-loaded class is added when the modal content has been loaded (using ajax) */
+    opacity: 1;
+    -webkit-transition: opacity .2s;
+    transition: opacity .2s;
+  }
+  .cd-schedule.modal-is-open .body-bg {
+    opacity: 1;
+    -webkit-transition: -webkit-transform .4s;
+    transition: -webkit-transform .4s;
+    transition: transform .4s;
+    transition: transform .4s, -webkit-transform .4s;
+    -webkit-transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+            transition-timing-function: cubic-bezier(0.5, 0, 0.1, 1);
+  }
+}
+
+.cd-schedule .cover-layer {
+  /* layer between the content and the modal window */
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: opacity .4s, visibility .4s;
+  transition: opacity .4s, visibility .4s;
+}
+
+.cd-schedule.modal-is-open .cover-layer {
+  opacity: 1;
+  visibility: visible;
+}
+

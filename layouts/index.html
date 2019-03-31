@@ -140,9 +140,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </a>
     </div>
 	 <div class="section-partners">
-    <div class="container partners"> {{ range where .Site.Pages "Params.uniqueid" "partners" }}	
+    <div class="container partners" style="z-index: 99999"> {{ range where .Site.Pages "Params.uniqueid" "partners" }}	
 		{{ range .Params.partner }}	
-		<img data-src="{{.photo}}" alt="{{.name}}" class="partnerimg lozad" width="132">
+		<a href="{{.position}}">
+		<img data-src="{{.photo}}" alt="{{.name}}" class="partnerimg lozad" width="132"></a>
 		{{ end }}		{{ .Content }}
 		{{ end }}
 	
