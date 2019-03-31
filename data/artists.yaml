@@ -87,7 +87,7 @@ team:
     soundcloud: ' https://soundcloud.com/beraadgeslagen'
     time: '14:00'
   - day: Saturday
-    end: '09:30'
+    end: '21:30'
     linkartist: 'https://www.facebook.com/Blondish/'
     name: 'Blond:ish'
     photo: /images/uploads/square-_blondish-–-1.jpg
@@ -284,7 +284,7 @@ team:
     photo: /images/uploads/square-locked-groove-–-21-copie.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/lockedgrooves'
-    time: '09:30'
+    time: '21:30'
   - day: Saturday
     end: '21:30'
     linkartist: 'https://www.facebook.com/lolaharomusic/'
@@ -362,7 +362,7 @@ team:
     soundcloud: 'https://soundcloud.com/nu-guinea'
     time: '16:40'
   - day: Friday
-    end: '06:30'
+    end: '18:30'
     linkartist: 'https://www.facebook.com/Nosedrip/'
     name: Nosedrip
     photo: /images/uploads/square-nosedrip-–-23-copie.jpg
@@ -377,7 +377,7 @@ team:
     soundcloud: ' https://soundcloud.com/polo-pan'
     time: '19:30'
   - day: Friday
-    end: '05:00'
+    end: '17:00'
     name: Rey Colino
     photo: /images/uploads/square-rey-collino-–-10-copie.jpg
     position: Under My Garage

@@ -1,0 +1,105 @@
+<h3 class="section-intro writing">{{ .Get 0 }}</h3>
+<div class="cd-schedule loading">
+	<div class="timeline">
+		<ul>
+			<li><span>12:00</span></li>
+			<li><span>12:30</span></li>
+			<li><span>13:00</span></li>
+			<li><span>13:30</span></li>
+			<li><span>14:00</span></li>
+			<li><span>14:30</span></li>
+			<li><span>15:00</span></li>
+			<li><span>15:30</span></li>
+			<li><span>16:00</span></li>
+			<li><span>16:30</span></li>
+			<li><span>17:00</span></li>
+			<li><span>17:30</span></li>
+			<li><span>18:00</span></li>		
+			<li><span>18:30</span></li>
+			<li><span>19:00</span></li>
+			<li><span>19:30</span></li>
+			<li><span>20:00</span></li>
+			<li><span>20:30</span></li>
+			<li><span>21:00</span></li>
+			<li><span>21:30</span></li>
+			<li><span>22:00</span></li>
+			<li><span>22:30</span></li>
+			<li><span>23:00</span></li>
+			<li><span>00:00</span></li>
+			<li><span>00:30</span></li>
+			<li><span>01:00</span></li>	
+
+
+		</ul>
+	</div> <!-- .timeline -->
+
+
+	<div class="events">
+		
+		<ul style="list-style-type:none;">
+			<li class="events-group">
+				<div class="top-info"><span>{{ .Get 1 }}</span></div>
+
+				<ul>{{ $daytime := (.Get 0) }}
+					{{ $stage1 := (.Get 1) }}
+					{{ range (where (where .Site.Data.artists.team  "position" $stage1) "day" "=" $daytime)  }}
+
+
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+						<a>
+							<em class="event-name">	{{.name}}</em>
+						</a>
+					</li>
+{{end}}
+				</ul>
+			</li>			
+			<li class="events-group">
+				<div class="top-info"><span>{{ .Get 2 }}</span></div>
+
+				<ul>{{ $stage2 := (.Get 2) }}
+					{{ range (where (where .Site.Data.artists.team  "position" $stage2) "day" "=" $daytime)  }}
+
+
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+						<a>
+							<em class="event-name">	{{.name}}</em>
+						</a>
+					</li>
+{{end}}
+				</ul>
+			</li>			
+			<li class="events-group">
+				<div class="top-info"><span>{{ .Get 3 }}</span></div>
+
+				<ul>{{ $stage3 := (.Get 3) }}
+					{{ range (where (where .Site.Data.artists.team  "position" $stage3) "day" "=" $daytime)  }}
+
+
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+						<a>
+							<em class="event-name">	{{.name}}</em>
+						</a>
+					</li>
+{{end}}
+				</ul>
+			</li>			
+			<li class="events-group">
+				<div class="top-info"><span>{{ .Get 4 }}</span></div>
+
+				<ul>{{ $stage4 := (.Get 4) }}
+					{{ range (where (where .Site.Data.artists.team  "position" $stage4) "day" "=" $daytime)  }}
+
+
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+						<a>
+							<em class="event-name">	{{.name}}</em>
+						</a>
+					</li>
+{{end}}
+				</ul>
+			</li>
+
+			
+		</ul>
+	</div>
+</div>
