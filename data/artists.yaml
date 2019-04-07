@@ -332,7 +332,7 @@ team:
     soundcloud: 'https://soundcloud.com/mate-family'
     time: '13:00'
   - day: Saturday
-    end: '20:00'
+    end: '19:30'
     linkartist: 'https://www.facebook.com/maxtelaer/'
     name: Max Telaer
     photo: /images/uploads/square-max-telaer-–-32-copie.jpg
@@ -399,7 +399,7 @@ team:
     soundcloud: 'https://soundcloud.com/sheherazadevannuijs'
     time: '13:00'
   - day: Saturday
-    end: '10:45'
+    end: '22:45'
     linkartist: 'https://www.facebook.com/sheridandj/'
     name: Sheridan
     photo: /images/uploads/square-sheridan-–-41-copie.jpg

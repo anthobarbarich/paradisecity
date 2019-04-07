@@ -728,7 +728,8 @@ padding: 00px;
 .overlaydark {
 	position: absolute;
 	top: 0px;
-	background-color: #0000001a;
+	left: 0px;
+	background-color: rgba(0,0,0,0.30);
 	width: 100%;
 	height: 100%;
 }
@@ -2540,7 +2541,7 @@ Main Components
     float: left;
     border: 1px solid #EAEAEA;
     /* reset style */
-    margin-bottom: 0;
+    margin-bottom: 340px;
   }
   .cd-schedule .events .events-group:not(:first-of-type) {
     border-left-width: 0;
@@ -2564,7 +2565,7 @@ Main Components
     margin-bottom: 0;
   }
   .cd-schedule .events .events-group > ul {
-    height: 950px;
+    min-height: 950px;
     /* reset style */
     display: block;
     overflow: visible;
@@ -2624,10 +2625,13 @@ Main Components
 .cd-schedule .event-date {
   display: block;
   color: white;
+	position: relative;
+	z-index: 2;
   font-weight: bold;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 	font-style:normal;
+
 	
 }
 
@@ -2645,13 +2649,31 @@ Main Components
   }
 }
 
-.cd-schedule .event-date {
+.single-event .event-date {
   /* they are not included in the the HTML but added using JavScript */
   font-size: 1.4rem;
-  opacity: .7;
   line-height: 1.2;
   margin-bottom: .2em;
+		position: relative;
+	z-index: 2;
+    display: inline-block;
+    padding: 2px 4px;
+    border-radius: 2px;
+		background-color: #5cceb4;
+
 }
+
+.cd-schedule .single-event[data-event="event-2"] .event-date {
+		background-color: #ff7e9a;
+}
+.cd-schedule .single-event[data-event="event-3"] .event-date {
+		background-color: #f08771;
+}
+
+.cd-schedule .single-event[data-event="event-4"] .event-date {
+		background-color: #84d1e1;
+}
+
 
 .cd-schedule .single-event[data-event="event-1"],
 .cd-schedule [data-event="event-1"] .header-bg {
@@ -2963,4 +2985,8 @@ Main Components
   opacity: 1;
   visibility: visible;
 }
-
+.events-group svg {
+	margin-right: 5px;
+	position: relative;
+	top: 4px;
+}
