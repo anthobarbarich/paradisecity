@@ -2656,21 +2656,35 @@ Main Components
   margin-bottom: .2em;
 		position: relative;
 	z-index: 2;
-    display: inline-block;
+    display: none;
     padding: 2px 4px;
     border-radius: 2px;
 		background-color: #5cceb4;
 
 }
+.single-event .event-date1 {
+  /* they are not included in the the HTML but added using JavScript */
+  font-size: 1.4rem;
+  line-height: 1.2;
+  margin-bottom: .2em;
+		position: relative;
+	z-index: 2;
+    display: inline-block;
+    padding: 2px 4px;
+    border-radius: 2px;
+	background-color: #5cceb4;
+	color: white;
 
-.cd-schedule .single-event[data-event="event-2"] .event-date {
+}
+
+.cd-schedule .single-event[data-event="event-2"] .event-date1 {
 		background-color: #ff7e9a;
 }
-.cd-schedule .single-event[data-event="event-3"] .event-date {
+.cd-schedule .single-event[data-event="event-3"] .event-date1 {
 		background-color: #f08771;
 }
 
-.cd-schedule .single-event[data-event="event-4"] .event-date {
+.cd-schedule .single-event[data-event="event-4"] .event-date1 {
 		background-color: #84d1e1;
 }
 

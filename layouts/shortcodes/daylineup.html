@@ -3,8 +3,9 @@
 	<div class="timeline">
 		
 		{{ $daytime := (.Get 0) }}
-			<ul> 
+			
 		{{ if eq $daytime "Friday" }}
+		<ul style="min-height:1090px;"> 
 			<li><span>14:00</span></li>
 			<li><span>14:30</span></li>
 			<li><span>15:00</span></li>
@@ -27,9 +28,10 @@
 			<li><span>00:00</span></li>
 			<li><span>00:30</span></li>
 			<li><span>01:00</span></li>	
-		{{ else }}
-		<li>
-			<span>12:00</span></li>
+		</ul>
+		{{ else if eq $daytime "Saturday" }}
+		<ul>
+			<li><span>12:00</span></li>
 			<li><span>12:30</span></li>
 			<li><span>13:00</span></li>
 			<li><span>13:30</span></li>
@@ -55,6 +57,33 @@
 			<li><span>00:00</span></li>
 			<li><span>00:30</span></li>
 			<li><span>01:00</span></li>	
+		</ul>
+				{{ else if eq $daytime "Sunday" }}
+		<ul>
+			<li><span>12:00</span></li>
+			<li><span>12:30</span></li>
+			<li><span>13:00</span></li>
+			<li><span>13:30</span></li>
+			<li><span>14:00</span></li>
+			<li><span>14:30</span></li>
+			<li><span>15:00</span></li>
+			<li><span>15:30</span></li>
+			<li><span>16:00</span></li>
+			<li><span>16:30</span></li>
+			<li><span>17:00</span></li>
+			<li><span>17:30</span></li>
+			<li><span>18:00</span></li>		
+			<li><span>18:30</span></li>
+			<li><span>19:00</span></li>
+			<li><span>19:30</span></li>
+			<li><span>20:00</span></li>
+			<li><span>20:30</span></li>
+			<li><span>21:00</span></li>
+			<li><span>21:30</span></li>
+			<li><span>22:00</span></li>
+			<li><span>22:30</span></li>
+			<li><span>23:00</span></li>
+
 				</ul>
 		{{ end }}
 
@@ -76,9 +105,9 @@
 					25:00
 					{{ else }}
 					{{ .end }}
-				
 					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #5dceb4;">
 						<a><div class="overlaydark"></div>
+							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
 					</li>
@@ -93,8 +122,13 @@
 					{{ range (where (where .Site.Data.artists.team  "position" $stage2) "day" "=" $daytime)  }}
 
 
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-2" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #ff7e9a">
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					25:00
+					{{ else }}
+					{{ .end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #ff7e9a">
 						<a><div class="overlaydark"></div>
+							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
 					</li>
@@ -108,8 +142,13 @@
 					{{ range (where (where .Site.Data.artists.team  "position" $stage3) "day" "=" $daytime)  }}
 
 
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-3" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #fa8d76;">
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					25:00
+					{{ else }}
+					{{ .end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #fa8d76;">
 						<a><div class="overlaydark"></div>
+							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
 					</li>
@@ -123,8 +162,13 @@
 					{{ range (where (where .Site.Data.artists.team  "position" $stage4) "day" "=" $daytime)  }}
 
 
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ .end }}" data-content="event-abs-circuit" data-event="event-4" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
+					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					25:00
+					{{ else }}
+					{{ .end }}
+					{{end}}" data-content="event-abs-circuit" data-event="event-4" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
 						<a><div class="overlaydark"></div>
+							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
 					</li>
