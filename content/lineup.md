@@ -22,11 +22,11 @@ team:
     time: '19:00'
   - day: Saturday
     end: '19:30'
-    linkartist: ' https://www.facebook.com/adriatiqueofficial/'
+    linkartist: 'https://www.facebook.com/adriatiqueofficial/'
     name: Adriatique
     photo: /images/uploads/square-adriatique-–-6.jpg
     position: Love
-    soundcloud: ' https://soundcloud.com/adriatique'
+    soundcloud: 'https://soundcloud.com/adriatique'
     time: '17:30'
   - day: Friday
     end: '22:00'
