@@ -410,7 +410,7 @@ team:
     photo: /images/uploads/square-sheherazade-–-41-copie.jpg
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/sheherazadevannuijs'
-    time: '13:00'
+    time: '13:30'
   - day: Saturday
     end: '10:45'
     linkartist: 'https://www.facebook.com/sheridandj/'
