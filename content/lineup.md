@@ -497,5 +497,10 @@ team:
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/vaalofficial'
     time: '17:00'
+  - day: Saturday
+    end: '21:30'
+    name: TBA
+    position: Paradise City Live
+    time: '20:10'
 ---
 
