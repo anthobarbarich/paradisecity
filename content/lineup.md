@@ -312,6 +312,22 @@ team:
     photo: /images/uploads/square-map.ache-–-17.jpg
     position: Giegling
     soundcloud: 'https://soundcloud.com/ache-map'
+  - day: Saturday
+    end: '14:30'
+    linkartist: 'https://www.facebook.com/matebrothersbrussels/'
+    name: Maté Brothers
+    photo: /images/uploads/square-maté-family-–-35-copie.jpg
+    position: Love
+    soundcloud: 'https://soundcloud.com/mate-family'
+    time: '13:00'
+  - day: Saturday
+    end: '20:00'
+    linkartist: 'https://www.facebook.com/maxtelaer/'
+    name: Max Telaer
+    photo: /images/uploads/square-max-telaer-–-32-copie.jpg
+    position: Play Label
+    soundcloud: 'https://soundcloud.com/maxtelaer'
+    time: '18:00'
   - day: Friday
     end: '21:00'
     linkartist: 'https://www.facebook.com/kasimamadede/'
@@ -336,22 +352,6 @@ team:
     position: Play Label
     soundcloud: 'https://soundcloud.com/mcde-recordings'
     time: '13:00'
-  - day: Saturday
-    end: '14:30'
-    linkartist: 'https://www.facebook.com/matebrothersbrussels/'
-    name: Maté Brothers
-    photo: /images/uploads/square-maté-family-–-35-copie.jpg
-    position: Love
-    soundcloud: 'https://soundcloud.com/mate-family'
-    time: '13:00'
-  - day: Saturday
-    end: '20:00'
-    linkartist: 'https://www.facebook.com/maxtelaer/'
-    name: Max Telaer
-    photo: /images/uploads/square-max-telaer-–-32-copie.jpg
-    position: Play Label
-    soundcloud: 'https://soundcloud.com/maxtelaer'
-    time: '18:00'
   - end: '10:45'
     linkartist: 'https://www.facebook.com/molly.emeline/'
     name: Molly
