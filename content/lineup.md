@@ -186,7 +186,7 @@ team:
     soundcloud: 'https://soundcloud.com/edward'
   - day: Saturday
     end: '01:00'
-    linkartist: ' https://www.facebook.com/ThEgyptianLover/'
+    linkartist: 'https://www.facebook.com/ThEgyptianLover/'
     name: Egyptian Lover
     photo: /images/uploads/square-egyptianlover-–-14.jpg
     position: Play Label
@@ -217,9 +217,11 @@ team:
     time: '12:00'
   - day: Sunday
     end: '14:30'
+    linkartist: 'https://soundcloud.com/faroutradiosystems'
     name: Far Out Radio Systems
     photo: /images/uploads/square-far-out-radiosystems-–-38-copie.jpg
     position: Silo
+    soundcloud: 'https://soundcloud.com/faroutradiosystems'
     time: '12:30'
   - day: Saturday
     end: '18:00'
@@ -235,6 +237,7 @@ team:
     name: Gerd Janson
     photo: /images/uploads/square-gerdjanson_____20.jpg
     position: Contrair
+    soundcloud: 'https://soundcloud.com/runningback'
     time: '23:00'
   - day: Saturday
     end: '23:40'
