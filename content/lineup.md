@@ -507,5 +507,13 @@ team:
     name: TBA
     position: Paradise City Live
     time: '20:10'
+  - day: Sunday
+    end: '16:30'
+    linkartist: 'https://soundcloud.com/abstraxion'
+    name: Lion's Drum
+    photo: /images/uploads/square-lion’s-drum-copie.jpg
+    position: Silo
+    soundcloud: 'https://www.facebook.com/lionsdrumsmusic/'
+    time: '14:30'
 ---
 
