@@ -475,7 +475,7 @@ team:
     time: '23:40'
   - day: Sunday
     end: '18:00'
-    linkartist: ' https://www.facebook.com/ToddTerje/'
+    linkartist: 'https://www.facebook.com/ToddTerje/'
     name: Todd Terje (Dj set)
     photo: /images/uploads/square-toddterje-–-9.jpg
     position: Silo
