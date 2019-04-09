@@ -478,11 +478,11 @@ team:
     time: '21:00'
   - day: Sunday
     end: '19:00'
-    linkartist: ' https://www.facebook.com/vaalmusic/'
+    linkartist: 'https://www.facebook.com/vaalmusic/'
     name: Vaal
     photo: /images/uploads/square-vaal-–-19.png
     position: Nico Morano & Friends
-    soundcloud: ' https://soundcloud.com/vaalofficial'
+    soundcloud: 'https://soundcloud.com/vaalofficial'
     time: '17:00'
   - day: Sunday
     end: '14:00'
