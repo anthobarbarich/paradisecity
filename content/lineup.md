@@ -83,16 +83,18 @@ team:
     soundcloud: 'https://soundcloud.com/bjeor'
     time: '17:00'
   - end: '10:45'
+    linkartist: 'https://www.facebook.com/bendrique/'
     name: Bendrik
     photo: /images/uploads/square-bendrik-–-4-copie.jpg
     position: Play Label
+    soundcloud: 'https://soundcloud.com/redoutben'
   - day: Sunday
     end: '14:50'
-    linkartist: ' https://www.facebook.com/beraadgeslagen/'
+    linkartist: 'https://www.facebook.com/beraadgeslagen/'
     name: Beraadgeslagen
     photo: /images/uploads/square-beraadgeslagen-–-5.jpg
     position: Abstrkt
-    soundcloud: ' https://soundcloud.com/beraadgeslagen'
+    soundcloud: 'https://soundcloud.com/beraadgeslagen'
     time: '14:00'
   - day: Saturday
     end: '09:30'
@@ -132,7 +134,7 @@ team:
     name: Daphni
     photo: /images/uploads/square-daphni_____12.jpg
     position: Abstrkt
-    soundcloud: ' https://soundcloud.com/daphni'
+    soundcloud: 'https://soundcloud.com/daphni'
     time: '21:00'
   - day: Sunday
     end: '23:00'
@@ -146,6 +148,7 @@ team:
     name: dj Dustin
     photo: /images/uploads/square-dustin-–-15-copie.jpg
     position: Giegling
+    soundcloud: 'https://soundcloud.com/gieglingdustin'
   - day: Sunday
     end: '20:00'
     linkartist: 'https://www.facebook.com/djkoze/'
@@ -176,6 +179,7 @@ team:
     position: Giegling
     soundcloud: 'https://soundcloud.com/dwig'
   - day: Saturday
+    linkartist: 'https://www.facebook.com/edward.info/'
     name: Edward
     photo: /images/uploads/square-edward_____18.jpg
     position: Giegling
@@ -186,6 +190,7 @@ team:
     name: Egyptian Lover
     photo: /images/uploads/square-egyptianlover-–-14.jpg
     position: Play Label
+    soundcloud: 'https://soundcloud.com/egyptian-lover-1'
     time: '23:30'
   - end: '10:45'
     linkartist: 'https://www.facebook.com/eli-verveine-386344770109/'
@@ -218,7 +223,7 @@ team:
     time: '12:30'
   - day: Saturday
     end: '18:00'
-    linkartist: ' https://www.facebook.com/folamourmusic/'
+    linkartist: 'https://www.facebook.com/folamourmusic/'
     name: Folamour
     photo: /images/uploads/square-folamour-–-21.jpg
     position: Play Label
@@ -249,7 +254,7 @@ team:
     time: '20:30'
   - day: Sunday
     end: '18:10'
-    linkartist: ' https://www.facebook.com/junglebynight/'
+    linkartist: 'https://www.facebook.com/junglebynight/'
     name: Jungle by Night (live band)
     photo: /images/uploads/square-junglebynight_____11.jpg
     position: Abstrkt
@@ -283,7 +288,7 @@ team:
     name: Leroy Burgess (full band)
     photo: /images/uploads/square-leroyburgess_____7.jpg
     position: Paradise City Live
-    soundcloud: ' https://soundcloud.com/trxtrx'
+    soundcloud: 'https://soundcloud.com/trxtrx'
     time: '18:30'
   - day: Saturday
     end: '23:00'
@@ -302,11 +307,11 @@ team:
     soundcloud: 'https://soundcloud.com/lola-haro'
     time: '19:30'
   - day: Sunday
-    linkartist: ' https://www.facebook.com/mapache-152180478156038/'
+    linkartist: 'https://www.facebook.com/mapache-152180478156038/'
     name: Map.ache (live)
     photo: /images/uploads/square-map.ache-–-17.jpg
     position: Giegling
-    soundcloud: ' https://soundcloud.com/ache-map'
+    soundcloud: 'https://soundcloud.com/ache-map'
   - day: Friday
     end: '21:00'
     linkartist: 'https://www.facebook.com/kasimamadede/'
@@ -378,11 +383,11 @@ team:
     time: '17:00'
   - day: Friday
     end: '21:00'
-    linkartist: ' https://www.facebook.com/polopan.music/'
+    linkartist: 'https://www.facebook.com/polopan.music/'
     name: Polo & Pan (Dj set)
     photo: /images/uploads/square-polo-pan-–-16.png
     position: Love
-    soundcloud: ' https://soundcloud.com/polo-pan'
+    soundcloud: 'https://soundcloud.com/polo-pan'
     time: '19:30'
   - day: Friday
     end: '05:00'
@@ -415,11 +420,11 @@ team:
     soundcloud: 'https://soundcloud.com/sheridan'
   - day: Friday
     end: '01:00'
-    linkartist: ' https://www.facebook.com/skatebard/'
+    linkartist: 'https://www.facebook.com/skatebard/'
     name: Skatebård
     photo: /images/uploads/square-skatebard-–-13.png
     position: Under My Garage
-    soundcloud: ' https://soundcloud.com/skatebard'
+    soundcloud: 'https://soundcloud.com/skatebard'
     time: '23:30'
   - day: Sunday
     end: '20:00'
@@ -474,15 +479,15 @@ team:
     name: Todd Terje (Dj set)
     photo: /images/uploads/square-toddterje-–-9.jpg
     position: Silo
-    soundcloud: ''
+    soundcloud: 'https://soundcloud.com/toddterje'
     time: '16:30'
   - day: Friday
     end: '23:00'
-    linkartist: ' https://www.facebook.com/musictrikk/'
+    linkartist: 'https://www.facebook.com/musictrikk/'
     name: Trikk
     photo: /images/uploads/square-trikk-–-8.jpg
     position: Love
-    soundcloud: ' https://soundcloud.com/trikksound'
+    soundcloud: 'https://soundcloud.com/trikksound'
     time: '21:00'
   - day: Sunday
     end: '19:00'
