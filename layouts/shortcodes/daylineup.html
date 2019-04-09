@@ -97,7 +97,7 @@
 			<li class="events-group 01">
 				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#5dceb4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 1 }}</span></div>
 
-				<ul>{{ $daytime := (.Get 0) }}
+				<ul class="list">{{ $daytime := (.Get 0) }}
 					{{ $stage1 := (.Get 1) }}
 					{{ range (where (where .Site.Data.artists.team  "position" $stage1) "day" "=" $daytime)  }}
 
@@ -122,7 +122,7 @@
 					{{ range (where (where .Site.Data.artists.team  "position" $stage2) "day" "=" $daytime)  }}
 
 
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
 					25:00
 					{{ else }}
 					{{ .end }}
@@ -142,7 +142,7 @@
 					{{ range (where (where .Site.Data.artists.team  "position" $stage3) "day" "=" $daytime)  }}
 
 
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
 					25:00
 					{{ else }}
 					{{ .end }}
@@ -162,7 +162,7 @@
 					{{ range (where (where .Site.Data.artists.team  "position" $stage4) "day" "=" $daytime)  }}
 
 
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
+					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
 					25:00
 					{{ else }}
 					{{ .end }}
