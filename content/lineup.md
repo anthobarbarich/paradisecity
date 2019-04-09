@@ -58,6 +58,14 @@ team:
     position: Contrair
     soundcloud: 'https://soundcloud.com/auntie-flo'
     time: '22:00'
+  - day: Sunday
+    end: '14:00'
+    linkartist: 'https://www.facebook.com/axelhaube1/'
+    name: Axel Haube
+    photo: /images/uploads/square-dixon-–-5.jpg
+    position: Nico Morano & Friends
+    soundcloud: soundcloud.com/axelhaube
+    time: '00:00'
   - day: Friday
     end: '19:30'
     linkartist: 'https://www.facebook.com/belbenmusic/'
@@ -484,13 +492,5 @@ team:
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/vaalofficial'
     time: '17:00'
-  - day: Sunday
-    end: '14:00'
-    linkartist: 'https://www.facebook.com/axelhaube1/'
-    name: Axel Haube
-    photo: /images/uploads/square-dixon-–-5.jpg
-    position: Nico Morano & Friends
-    soundcloud: soundcloud.com/axelhaube
-    time: '00:00'
 ---
 
