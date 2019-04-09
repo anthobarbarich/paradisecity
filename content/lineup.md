@@ -306,7 +306,7 @@ team:
     position: Play Label
     soundcloud: 'https://soundcloud.com/lola-haro'
     time: '19:30'
-  - day: Sunday
+  - day: ''
     linkartist: 'https://www.facebook.com/mapache-152180478156038/'
     name: Map.ache (live)
     photo: /images/uploads/square-map.ache-–-17.jpg
