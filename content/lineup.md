@@ -178,7 +178,7 @@ team:
     photo: /images/uploads/square-dwig-–-28-copie.jpg
     position: Giegling
     soundcloud: 'https://soundcloud.com/dwig'
-  - day: Saturday
+  - day: ''
     linkartist: 'https://www.facebook.com/edward.info/'
     name: Edward
     photo: /images/uploads/square-edward_____18.jpg
