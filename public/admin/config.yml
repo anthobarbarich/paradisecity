@@ -176,4 +176,15 @@ collections:
               - {label: Name, name: name, widget: string}
               - {label: Link, name: position, widget: string}
               - {label: Photo, name: photo, widget: image}
-              
+                          
+      - label: "Practical"
+        name: "practical"
+        file: "content/practical.md"
+        fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: practical
+          - label: Body
+            name: body
+            widget: markdown

@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/news/giegling/</loc>
+    <lastmod>2019-03-08T19:10:56+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/news/become-an-ambassador/</loc>
     <lastmod>2019-02-04T11:40:42+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -39,13 +46,19 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-04T11:40:42+01:00</lastmod>
+    <lastmod>2019-03-08T19:10:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/partners/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/practical/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -69,6 +82,18 @@
   </url>
   
   <url>
+    <loc>/lineup2/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/lineup2/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/green/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -76,6 +101,12 @@
   
   <url>
     <loc>/green/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/lineup2/saturday/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -88,7 +119,7 @@
   
   <url>
     <loc>/news/</loc>
-    <lastmod>2019-02-04T11:40:42+01:00</lastmod>
+    <lastmod>2019-03-08T19:10:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -100,13 +131,37 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/timetable/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/practical/</loc>
+    <loc>/timetable/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/timetable/friday/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/timetable/saturday/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/timetable/sunday/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

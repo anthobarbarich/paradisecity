@@ -1,4 +1,4 @@
-<div class="cd-schedule loading">
+<div class="cd-schedule">
 	<div class="timeline">
 		
 		{{ $daytime := (.Get 0) }}
@@ -99,7 +99,6 @@
 				<ul class="list">{{ $daytime := (.Get 0) }}
 					{{ $stage1 := (.Get 1) }}
 					{{ range (where (where .Site.Data.artists.team  "position" $stage1) "day" "=" $daytime)  }}
-
 					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
 					25:00
 					{{ else }}

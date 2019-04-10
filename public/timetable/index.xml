@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timetable on Paradise City Festival 2018</title>
+    <link>/timetable/</link>
+    <description>Recent content in Timetable on Paradise City Festival 2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/timetable/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Timetable</title>
+      <link>/timetable/friday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/timetable/friday/</guid>
+      <description>14:00 14:30 15:00 15:30 16:00 16:30 17:00 17:30 18:00	18:30 19:00 19:30 20:00 20:30 21:00 21:30 22:00 22:30 23:00 00:00 00:30 01:00	  Love  18:30 - 19:30 Belben    23:00 - 01:00 Mind Against    19:30 - 21:00 Polo &amp;amp; Pan (Dj set)    15:00 - 17:00 Sedef Adasi    17:00 - 18:30 Supreems    21:00 - 23:00 Trikk    	Contrair   21:00 - 22:00 A Local Hero    22:00 - 23:00 Auntie Flo (live band)    17:00 - 18:30 Bjeor    18:30 - 20:00 DTM Funk    23:00 - 01:00 Gerd Janson    20:00 - 21:00 Mim Suleiman &amp;amp; Esa    	Under My Garage   14:00 - 15:30 Cabasa    18:30 - 20:30 Eris Drew    20:30 - 23:30 John Talabot    17:00 - 18:30 Nosedrip    15:30 - 17:00 Rey Colino    23:30 - 01:00 Skatebård    	   </description>
+    </item>
+    
+    <item>
+      <title>Timetable</title>
+      <link>/timetable/saturday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/timetable/saturday/</guid>
+      <description> 12:00 12:30 13:00 13:30 14:00 14:30 15:00 15:30 16:00 16:30 17:00 17:30 18:00	18:30 19:00 19:30 20:00 20:30 21:00 21:30 22:00 22:30 23:00 00:00 00:30 01:00	  Love  17:30 - 19:30 Adriatique    16:00 - 17:30 Attari    19:30 - 21:30 Blond:ish    14:30 - 16:00 Blossom Culture    23:00 - 01:00 Konstantin Sibold    21:30 - 23:00 Locked Groove    13:00 - 14:30 Maté Brothers    	Paradise City Live   15:40 - 16:40 Dj Python    22:10 - 23:40 Jan Blomqvist &amp;amp; Band    18:30 - 19:30 Leroy Burgess (full band)    16:40 - 18:00 Nu Guinea (Live Band)    13:30 - 14:30 Shéhérazade    - MASTER OF CEREMONY - Sheridan    14:30 - 15:10 Tessa Dixon    23:40 - 01:00 Timmerman    20:10 - 21:30 TBA    	Play Label   21:30 - 23:30 Carista    23:30 - 01:00 Egyptian Lover    12:00 - 13:00 Exon    16:00 - 18:00 Folamour    20:00 - 21:30 Lola Haro    18:00 - 20:00 Max Telaer    13:00 - 16:00 Motor City Drum Ensemble    	Giegling   12:00 - 01:00 Giegling DJ&amp;#39;s        </description>
+    </item>
+    
+    <item>
+      <title>Timetable</title>
+      <link>/timetable/sunday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/timetable/sunday/</guid>
+      <description> 12:00 12:30 13:00 13:30 14:00 14:30 15:00 15:30 16:00 16:30 17:00 17:30 18:00	18:30 19:00 19:30 20:00 20:30 21:00 21:30 22:00 22:30 23:00   Abstrkt  15:00 - 17:00 2manydjs (dj set)    14:00 - 14:50 Beraadgeslagen    21:00 - 23:00 Daphni    17:00 - 18:10 Jungle by Night (live band)    18:30 - 20:00 Stavroz (Live)    20:10 - 21:00 Thang    	Silo   20:00 - 23:00 Dixon    18:00 - 20:00 DJ Koze    12:30 - 14:30 Far Out Radio Systems    14:30 - 16:30 Lion&amp;#39;s Drum    16:30 - 18:00 Todd Terje (Dj set)    	Nico Morano &amp;amp; Friends   19:00 - 21:00 &amp;amp;ME    12:00 - 14:00 Axel Haube    14:00 - 15:30 Kalipo (Live)    21:00 - 23:00 Nico Morano    15:30 - 17:00 Stereoclip (live)    17:00 - 19:00 Vaal    	Giegling   12:00 - 23:00 Giegling DJ&amp;#39;s        </description>
+    </item>
+    
+  </channel>
+</rss>
