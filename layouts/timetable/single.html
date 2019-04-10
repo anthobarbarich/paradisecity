@@ -1,15 +1,16 @@
 {{ partial "header.html" . }}
-
-
 <div class="section-page line-up">
-  <div class="container">
-	          <h3 class="section-intro writing">{{ .Title }}</h3>
-	  {{ .Content }}
-<script src="/js/modernizr.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-<script>
+<div class="container">
+  <h3 class="section-intro writing">{{ .Title }}</h3>	
+    <a class="link-table" href="/timetable/friday">Friday</a>
+    <a class="link-table" href="/timetable/saturday">Saturday</a>
+    <a class="link-table" href="/timetable/sunday">Sunday</a>
+  {{ .Content }} 
+  <script src="/js/modernizr.js"></script> 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script> 
+  <script>
 	if( !window.jQuery ) document.write('<script src="js/jquery-3.0.0.min.js"><\/script>');
-</script>
-<script src="/js/main.js"></script> <!-- Resource jQuery -->
+</script> 
+  <script src="/js/main.js"></script>
 </div>
 {{ partial "footer.html" . }}

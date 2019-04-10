@@ -1,3 +1,4 @@
+<h3 class="section-intro writing">{{ .Get 0 }}</h3>
 <div class="cd-schedule loading">
 	<div class="timeline">
 		
@@ -89,7 +90,7 @@
 		
 	</div> <!-- .timeline -->
 
-{{ if eq $daytime "Friday" }}
+
 	<div class="events">
 		
 		<ul style="list-style-type:none;">
@@ -104,8 +105,8 @@
 					25:00
 					{{ else }}
 					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="border-left: 3px solid #5dceb4;">
-						<a>
+					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #5dceb4;">
+						<a><div class="overlaydark"></div>
 							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
@@ -125,8 +126,8 @@
 					25:00
 					{{ else }}
 					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="border-left: 3px solid #ff7e9a">
-						<a>
+					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #ff7e9a">
+						<a><div class="overlaydark"></div>
 							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
@@ -145,77 +146,8 @@
 					25:00
 					{{ else }}
 					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="border-left: 3px solid #fa8d76;">
-						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
-						</a>
-					</li>
-{{end}}
-				</ul>
-			</li>			
-
-			
-		</ul>
-	</div>
-	{{ else }}
-		<div class="events">
-		
-		<ul style="list-style-type:none;">
-			<li class="events-group 01">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#5dceb4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 1 }}</span></div>
-
-				<ul class="list">{{ $daytime := (.Get 0) }}
-					{{ $stage1 := (.Get 1) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage1) "day" "=" $daytime)  }}
-
-					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
-					25:00
-					{{ else }}
-					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-1" style="border-left: 3px solid #5dceb4;">
-						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
-						</a>
-					</li>
-{{end}}
-				</ul>
-			</li>			
-			<li class="events-group">
-				<div class="top-info">
-<span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 2 }}</span></div>
-
-				<ul>{{ $stage2 := (.Get 2) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage2) "day" "=" $daytime)  }}
-
-
-					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
-					25:00
-					{{ else }}
-					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-2" style="border-left: 3px solid #ff7e9a">
-						<a>
-							<span class="event-date1">{{ .time }} - {{ .end }}</span>
-							<em class="event-name">	{{.name}}</em>
-						</a>
-					</li>
-{{end}}
-				</ul>
-			</li>			
-			<li class="events-group">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 3 }}</span></div>
-
-				<ul>{{ $stage3 := (.Get 3) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage3) "day" "=" $daytime)  }}
-
-
-					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
-					25:00
-					{{ else }}
-					{{ .end }}
-					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="border-left: 3px solid #fa8d76;">
-						<a>
+					{{end}}" data-content="event-abs-circuit" data-event="event-3" style="background-image:url({{.photo}}); background-size:cover; background-position: center; border-left: 3px solid #fa8d76;">
+						<a><div class="overlaydark"></div>
 							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
@@ -235,7 +167,7 @@
 					{{ else }}
 					{{ .end }}
 					{{end}}" data-content="event-abs-circuit" data-event="event-4" style="background-image:url({{.photo}}); background-size:cover; background-position: center;">
-						<a>
+						<a><div class="overlaydark"></div>
 							<span class="event-date1">{{ .time }} - {{ .end }}</span>
 							<em class="event-name">	{{.name}}</em>
 						</a>
@@ -247,5 +179,4 @@
 			
 		</ul>
 	</div>
-	{{ end }}
 </div>
