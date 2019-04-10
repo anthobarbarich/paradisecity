@@ -6,8 +6,17 @@
     <option value="/timetable/friday">Friday</option>
     <option value="/timetable/saturday">Saturday</option>
     <option value="/timetable/sunday">Sunday</option>
-  </select>
+	</select>
+	{{ $v1 := where .Site.Data.artists.team "position" "Love" }}
+	{{ $v2 := where .Site.Data.artists.team "day" "Friday" }}
+	
+	{{ range sort $v1 "time" "asc"}}
+
+	{{ .name }}
+	
+	{{end}}
   {{ .Content }} 
+
   <script src="/js/modernizr.js"></script> 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script> 
   <script>
