@@ -44,5 +44,8 @@ partner:
   - name: 'Payconiq '
     photo: /images/uploads/logopayconiq.png
     position: 'https://www.payconiq.be/en'
+  - name: Vlam
+    photo: /images/uploads/image004.png
+    position: 'http://vlam.be/'
 ---
 
