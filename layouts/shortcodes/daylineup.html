@@ -1,4 +1,4 @@
-<div class="cd-schedule loading">
+<div class="cd-schedule">
 	<div class="timeline">
 		
 		{{ $daytime := (.Get 0) }}
@@ -98,8 +98,9 @@
 
 				<ul class="list">{{ $daytime := (.Get 0) }}
 					{{ $stage1 := (.Get 1) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage1) "day" "=" $daytime)  }}
-
+					{{ $v1 := where .Site.Data.artists.team "position" $stage1 }}
+					{{ $v2 := where $v1 "day" "=" $daytime }}
+					{{ range sort $v2 "time" "asc" }}
 					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
 					25:00
 					{{ else }}
@@ -118,7 +119,9 @@
 <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 2 }}</span></div>
 
 				<ul>{{ $stage2 := (.Get 2) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage2) "day" "=" $daytime)  }}
+					{{ $v1 := where .Site.Data.artists.team "position" $stage2 }}
+					{{ $v2 := where $v1 "day" "=" $daytime }}
+					{{ range sort $v2 "time" "asc" }}
 
 
 					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
@@ -138,7 +141,9 @@
 				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 3 }}</span></div>
 
 				<ul>{{ $stage3 := (.Get 3) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage3) "day" "=" $daytime)  }}
+					{{ $v1 := where .Site.Data.artists.team "position" $stage3 }}
+					{{ $v2 := where $v1 "day" "=" $daytime }}
+					{{ range sort $v2 "time" "asc" }}
 
 
 					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
@@ -167,7 +172,9 @@
 
 				<ul class="list">{{ $daytime := (.Get 0) }}
 					{{ $stage1 := (.Get 1) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage1) "day" "=" $daytime)  }}
+					{{ $v1 := where .Site.Data.artists.team "position" $stage1 }}
+					{{ $v2 := where $v1 "day" "=" $daytime }}
+					{{ range sort $v2 "time" "asc" }}
 
 					<li class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
 					25:00
@@ -187,7 +194,9 @@
 <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#ff7e9a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 2 }}</span></div>
 
 				<ul>{{ $stage2 := (.Get 2) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage2) "day" "=" $daytime)  }}
+					{{ $v1 := where .Site.Data.artists.team "position" $stage2 }}
+					{{ $v2 := where $v1 "day" "=" $daytime }}
+					{{ range sort $v2 "time" "asc" }}
 
 
 					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
@@ -207,7 +216,9 @@
 				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ .Get 3 }}</span></div>
 
 				<ul>{{ $stage3 := (.Get 3) }}
-					{{ range (where (where .Site.Data.artists.team  "position" $stage3) "day" "=" $daytime)  }}
+					{{ $v1 := where .Site.Data.artists.team "position" $stage3 }}
+					{{ $v2 := where $v1 "day" "=" $daytime }}
+					{{ range sort $v2 "time" "asc" }}
 
 
 					<li id="{{.name}}" class="single-event" data-start="{{ .time }}" data-end="{{ if eq .end "01:00" }}
