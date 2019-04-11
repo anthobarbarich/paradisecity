@@ -56,6 +56,7 @@ l
 </head>
 
 <body class="body home" data-ix="boyload">
+    <div style="overflow-x:hidden">
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CP3V8" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
@@ -231,6 +232,7 @@ l
       data-srcset="/images/bgfoot2-p-500.jpeg 500w, /images/bgfoot2-p-1080.jpeg 1080w, /images/bgfoot2.jpg 1200w"
       sizes="100vw" alt="" class="image-2 lozad">
     {{ partial "scripts.html" . }}
+    </div>
     <script>
       const observer = lozad(); // lazy loads elements with default selector as '.lozad'
       observer.observe();
@@ -238,3 +240,4 @@ l
 </body>
 
 </html>
+
