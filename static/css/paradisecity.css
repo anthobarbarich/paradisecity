@@ -1064,7 +1064,7 @@ svg:not(:root) {
 .uppagebody {
   position: absolute;
   top: -90px;
-  right: -100px;
+  right: 0;
 }
 
 .bradn2:hover {
