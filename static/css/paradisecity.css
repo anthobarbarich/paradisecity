@@ -1065,6 +1065,7 @@ svg:not(:root) {
   position: absolute;
   top: -90px;
   right: 0;
+  width:280px;
 }
 
 .bradn2:hover {
