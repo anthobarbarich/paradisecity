@@ -38,6 +38,28 @@ jQuery(document).ready(function($){
 		this.initEvents();
 	};
 
+	SchedulePlan.prototype.scheduleReset = function() {
+		var mq = this.mq();
+		if( mq == 'desktop' && !this.element.hasClass('js-full') ) {
+			//in this case you are on a desktop version (first load or resize from mobile)
+			this.eventSlotHeight = this.eventsGroup.eq(0).children('.top-info').outerHeight();
+			this.element.addClass('js-full');
+			this.placeEvents();
+			this.element.hasClass('modal-is-open') && this.checkEventModal();
+		} else if(  mq == 'mobile' && this.element.hasClass('js-full') ) {
+			//in this case you are on a mobile version (first load or resize from desktop)
+			this.element.removeClass('js-full loading');
+			this.eventsGroup.children('ul').add(this.singleEvents).removeAttr('style');
+			this.eventsWrapper.children('.grid-line').remove();
+			this.element.hasClass('modal-is-open') && this.checkEventModal();
+		} else if( mq == 'desktop' && this.element.hasClass('modal-is-open')){
+			//on a mobile version with modal open - need to resize/move modal window
+			this.checkEventModal('desktop');
+			this.element.removeClass('loading');
+		} else {
+			this.element.removeClass('loading');
+		}
+	};
 
 	SchedulePlan.prototype.initEvents = function() {
 		var self = this;
