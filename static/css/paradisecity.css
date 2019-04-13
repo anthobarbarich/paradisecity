@@ -1723,6 +1723,7 @@ button.joinustxt {
   background-color: #fff;
   padding:0.5em 1em;
   color:#cecece;
+  width:90%;
   -webkit-transition:opacity 50ms ease-out, -webkit-transform 250ms ease-out, -webkit-box-shadow 200ms ease-out;
   transition:opacity 50ms ease-out, -webkit-transform 250ms ease-out, -webkit-box-shadow 200ms ease-out;
   -o-transition:opacity 50ms ease-out, transform 250ms ease-out, box-shadow 200ms ease-out;
@@ -1750,6 +1751,7 @@ button.joinustxt {
   padding: 1em 2em;
   outline:0;
   color:#fff;
+  width:auto;
   background-color:#fa8d76;
   -webkit-box-shadow: 2px 3px 2px 2px rgba(0, 0, 0, 0.1);
           box-shadow: 2px 3px 2px 2px rgba(0, 0, 0, 0.1);
