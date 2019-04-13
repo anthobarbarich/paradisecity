@@ -1,6 +1,7 @@
+l
 <!DOCTYPE html>
 <html data-wf-page="5c4b1835008881d3feae796a" data-wf-site="5c34c1d2a3cd45693156a337">
-<!-- newsletter -->
+
 <head>
   <!-- Google Tag Manager -->
   <script>(function (w, d, s, l, i) {
@@ -36,7 +37,7 @@
   <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
   <script type="text/javascript"
     defer>!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
-  <link href="https://www.paradisecity.be/images/favico.png" rel="shortcut icon" type="image/x-icon">
+  <link href="images/favico.png" rel="shortcut icon" type="image/x-icon">
   <script type="text/javascript">
     !function (t, e) { "object" == typeof exports && "undefined" != typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define(e) : t.lozad = e() }(this, function () {
       "use strict"; var g = Object.assign || function (t) { for (var e = 1; e < arguments.length; e++) { var r = arguments[e]; for (var o in r) Object.prototype.hasOwnProperty.call(r, o) && (t[o] = r[o]) } return t }, n = "undefined" != typeof document && document.documentMode, l = { rootMargin: "0px", threshold: 0, load: function (t) { if ("picture" === t.nodeName.toLowerCase()) { var e = document.createElement("img"); n && t.getAttribute("data-iesrc") && (e.src = t.getAttribute("data-iesrc")), t.getAttribute("data-alt") && (e.alt = t.getAttribute("data-alt")), t.appendChild(e) } if ("video" === t.nodeName.toLowerCase() && !t.getAttribute("data-src") && t.children) { for (var r = t.children, o = void 0, a = 0; a <= r.length - 1; a++)(o = r[a].getAttribute("data-src")) && (r[a].src = o); t.load() } t.getAttribute("data-src") && (t.src = t.getAttribute("data-src")), t.getAttribute("data-srcset") && t.setAttribute("srcset", t.getAttribute("data-srcset")), t.getAttribute("data-background-image") && (t.style.backgroundImage = "url('" + t.getAttribute("data-background-image") + "')"), t.getAttribute("data-toggle-class") && t.classList.toggle(t.getAttribute("data-toggle-class")) }, loaded: function () { } };
@@ -49,7 +50,7 @@
 </head>
 
 <body class="body home" data-ix="boyload">
-    <div style="overflow-x:hidden;overflow-y:hidden;">
+    <div style="overflow-x:hidden">
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CP3V8" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
@@ -221,7 +222,7 @@
 
     </div>
 
-    <img style="min-height:100px" data-src="/images/bgfoot2.jpg"
+    <img data-src="/images/bgfoot2.jpg"
       data-srcset="/images/bgfoot2-p-500.jpeg 500w, /images/bgfoot2-p-1080.jpeg 1080w, /images/bgfoot2.jpg 1200w"
       sizes="100vw" alt="" class="image-2 lozad">
     {{ partial "scripts.html" . }}
@@ -230,6 +231,7 @@
       const observer = lozad(); // lazy loads elements with default selector as '.lozad'
       observer.observe();
     </script>
+    <script>console.log("newsletter")</script>
 </body>
 
 </html>
