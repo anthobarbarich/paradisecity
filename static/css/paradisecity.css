@@ -1743,7 +1743,7 @@ button.joinustxt {
   outline:0;
 }
 
-input#newsletter-submit {
+#social-buttons input.newsletter-submit {
   text-transform: uppercase;
   line-height:1;
   font-size: 13px;
@@ -1763,15 +1763,15 @@ input#newsletter-submit {
   transition:transform 250ms 250ms ease-out, -webkit-transform 250ms 250ms ease-out; 
 }
 
-#social-buttons.opened input#newsletter-submit {
+#social-buttons.opened input.newsletter-submit {
   -webkit-transform:translateY(0) scale(1);
       -ms-transform:translateY(0) scale(1);
           transform:translateY(0) scale(1);
 }
 
-#social-buttons.opened input#newsletter-submit:hover,
-#social-buttons.opened input#newsletter-submit:active,
-#social-buttons.opened input#newsletter-submit:focus {
+#social-buttons.opened input.newsletter-submit:hover,
+#social-buttons.opened input.newsletter-submit:active,
+#social-buttons.opened input.newsletter-submit:focus {
   -webkit-transform: scale(1.06);
       -ms-transform: scale(1.06);
           transform: scale(1.06);
@@ -1782,7 +1782,7 @@ input#newsletter-submit {
   transition:transform 200ms ease-out, -webkit-transform 200ms ease-out; 
 }
 
-input#newsletter-submit:hover, input#newsletter-submit:active {
+input.newsletter-submit:hover, input.newsletter-submit:active {
   cursor:pointer;
 }
  
