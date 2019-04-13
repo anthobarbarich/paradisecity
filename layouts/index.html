@@ -1,4 +1,3 @@
-l
 <!DOCTYPE html>
 <html data-wf-page="5c4b1835008881d3feae796a" data-wf-site="5c34c1d2a3cd45693156a337">
 
@@ -187,8 +186,16 @@ l
       </div>
     </div>
   </div>
-  <div class="smbuttons">
-    <p class="joinustxt">#PARADISECITYFESTIVAL</p>
+  <div class="smbuttons" id="social-buttons">
+    <button class="joinustxt">Newsletter</button>
+    <div id="newsletter-form-wrapper">
+      <form>
+        <input class="newsletter-txt-input" type="text" name="firstname" placeholder="First Name">
+        <input class="newsletter-txt-input" type="text" name="lastname" placeholder="Last Name">
+        <span class="required"><input class="newsletter-txt-input" type="email" name="email" placeholder="Email" required></span>
+        <input id="newsletter-submit" type="submit" name="submit" value="submit">  
+      </form>  
+    </div>
     <div class="blocimgs">
       <a href="https://www.instagram.com/paradisecityofficial" class="smicone" target="_blank">
         <img src="/images/smallinsta.svg" class="iconez" width="40">

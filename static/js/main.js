@@ -378,4 +378,5 @@ jQuery(document).ready(function($){
 			'transform': value
 		});
 	}
+
 });
