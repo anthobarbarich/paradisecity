@@ -41,7 +41,7 @@ On Saturday, the American producer DJ Python will go from low-fi house melodies 
 
 In order to maintain the intimacy of the festival and to ensure that you have enough space to dance, a fourth stage will be built, on water, for the first time! We are very proud to host the German collective Giegling on this stage. For two days, Giegling artists, including Map.ache, Eli Verveine and Edward, will play on the water for festivalgoers. If you don't know the collective yet, listen to Molly's EP Waves released last January. Our favorite: "Si seulement".
 
-Of course this is just a small part of the 67 artists that will perform at Paradise City this year, keep discovering them before the festival through our [Spotify playlist](https://open.spotify.com/user/paradisecityfestival/playlist/0Bi3SbSebLcjScrqncVGhk?si=WzyclPt7QQ-mMBvzruq5CQ)!
+Of course this is just a small part of the 67 artists that will perform at Paradise City this year. Keep discovering them before the festival through our [Spotify playlist](https://open.spotify.com/user/paradisecityfestival/playlist/0Bi3SbSebLcjScrqncVGhk?si=WzyclPt7QQ-mMBvzruq5CQ) and check when your favorite artist is playing with our [timetable](https://paradisecity.be/timetable/friday)!
 
 If you haven’t got your tickets yet, time to do so! 
 Visit : [www.paradisecity.be/tickets](https://paradisecity.be/tickets)
