@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Discover (a part) of our 5th anniversary line-up '
+title: 'Discover our 5th anniversary line-up '
 date: '2019-04-16T13:36:35+02:00'
 thumbnail: /images/uploads/paradisecity2018-281.jpg
 ---
