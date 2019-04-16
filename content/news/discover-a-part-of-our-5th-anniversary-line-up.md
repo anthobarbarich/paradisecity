@@ -9,7 +9,7 @@ While reading, don't hesitate to put our Spotify playlist on.
 
 <iframe src="https://open.spotify.com/embed/user/paradisecityfestival/playlist/0Bi3SbSebLcjScrqncVGhk" width="600" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-
+  
 
 Paradise City’ purpose has always been to highlight the cozy side of electronic music. When you’re on the dance floor, something happens. A positive and particular energy emerges. Our job goes further than programming only headliners. At Paradise City, we really want to introduce new talents and this year, we still support the local scene with all its great Belgian artists. Furthermore, we bring in la crème de la crème of the international scene for the pleasure of your ears. Three, two, one, let’s go: chills guaranteed!
 
