@@ -44,4 +44,4 @@ In order to maintain the intimacy of the festival and to ensure that you have en
 Of course this is just a small part of the 67 artists that will perform at Paradise City this year, keep discovering them before the festival through our [Spotify playlist](https://open.spotify.com/user/paradisecityfestival/playlist/0Bi3SbSebLcjScrqncVGhk?si=WzyclPt7QQ-mMBvzruq5CQ)!
 
 If you haven’t got your tickets yet, time to do so! 
-Visit : [www.paradisecity.be/tickets](www.paradisecity.be/tickets)
+Visit : [www.paradisecity.be/tickets](https://paradisecity.be/tickets)
