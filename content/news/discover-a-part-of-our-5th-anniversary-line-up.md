@@ -7,7 +7,7 @@ thumbnail: /images/uploads/paradisecity2018-281.jpg
 Discover the complete line-up for our fifth anniversary!
 While reading, don't hesitate to put our Spotify playlist on.
 
-<iframe src="https://open.spotify.com/embed/user/paradisecityfestival/playlist/0Bi3SbSebLcjScrqncVGhk" width="600" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/user/paradisecityfestival/playlist/0Bi3SbSebLcjScrqncVGhk" width="800" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
   
 
