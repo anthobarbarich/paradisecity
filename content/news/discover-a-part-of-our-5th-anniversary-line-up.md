@@ -23,7 +23,7 @@ The performance of the British artist **Vaal** will follow. In the last four yea
 
 The last couple of highlights that come to mind will play on the _Silo_ stage. **DJ Koze** is pleased to be back for the second year in a row. He’s been dominating the electronic scene for a few years now and his latest album [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O?si=OoNzZ7XwQaO_PvLzJDoyKQ), released last year, once more confirmed his limitless talent. [When he played "Pick Up" at our previous edition](https://www.facebook.com/paradisecityfestival/videos/vl.597835734036088/2073334252931471/?type=1), minds were lost! 
 
-And who better to close this scene than **Dixon**? Closing set are always special moments… He will give it all, and more. Remember last year with Laurent Garnier... Since we’re expecting more people than ever, we will keep the other stages open and we are sure the energy will remain high on every stage. With Dixon, expect to be surprised. Each of his sets leaves crowds voiceless. More than enough to end the festival in a proper way!
+And who better to close this scene than **Dixon**? Closing sets are always special moments… He will give it all, and more. Remember last year with Laurent Garnier... Since we’re expecting more people than ever, we will keep the other stages open and we are sure the energy will remain high on every stage. With Dixon, expect to be surprised. Each of his sets leaves crowds voiceless. More than enough to end the festival in a proper way!
 
 ## This year’s discoveries
 
