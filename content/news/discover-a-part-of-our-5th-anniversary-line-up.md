@@ -27,7 +27,7 @@ And who better to close this scene than **Dixon**? Closing sets are always speci
 
 ## This year’s discoveries
 
-Does **Daphni** really need an introduction? Member and singer of the emblematic group Caribou, he is also an outstanding producer and selector. His album [Fabriclive 93](https://www.youtube.com/playlist?list=PLOkKqTdiv7GYvBXn9i1-Ex7VLI5SMCGNI), released in 2017, is a real nugget, with a personal crush on "[The Truth](https://www.youtube.com/watch?v=KziYeWuR06c)". We are eager to welcome him behind the decks to close the _ABSTRKT_ stage on Sunday evening.
+Does **Daphni** really need an introduction? Member and singer of the emblematic group Caribou, he's also an outstanding producer and selector. His album [Fabriclive 93](https://www.youtube.com/playlist?list=PLOkKqTdiv7GYvBXn9i1-Ex7VLI5SMCGNI), released in 2017, is a real nugget, with a personal crush on "[The Truth](https://www.youtube.com/watch?v=KziYeWuR06c)". We are eager to welcome him behind the decks to close the _ABSTRKT_ stage on Sunday evening.
 
 We also welcome **Nosedrip** this year, a young Belgian who is rapidly gaining notoriety thanks to the quality of his sets. He mixes and moves from one style to another: from new age, new wave, French psych to minimal synth and post-punk. We can only advise everyone to come and discover his selector talents on Friday on the _Under My Garage_ stage. The American **Eris Drew** will follow just after to remind us that "Music has been here since the beginning", be sure to check out her "[Art of DJing](https://www.residentadvisor.net/features/3352)" by _Resident Advisor._
 
