@@ -8,7 +8,7 @@ team:
     end: '17:00'
     linkartist: 'https://www.facebook.com/2manydjs/'
     name: 2manydjs (dj set)
-    photo: /images/uploads/square-2manydjs-–-11.png
+    photo: /images/uploads/square-2manydjs-copie.jpg
     position: Abstrkt
     soundcloud: 'https://soundcloud.com/deewee-2'
     time: '15:00'
@@ -431,6 +431,7 @@ team:
     photo: /images/uploads/square-sheridan-–-41-copie.jpg
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/sheridan'
+    time: '14:55'
   - day: Friday
     end: '01:00'
     linkartist: 'https://www.facebook.com/skatebard/'
