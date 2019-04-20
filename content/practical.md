@@ -1,6 +1,7 @@
 ---
 uniqueid: practical
 title: Practical
+type: practical
 tickets:
   - answer: >-
       Seriously guys? Is it not clear enough on the website? Anyways, here’s a

@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/news/discover-a-part-of-our-5th-anniversary-line-up/</loc>
+    <lastmod>2019-04-16T13:36:35+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/news/giegling/</loc>
     <lastmod>2019-03-08T19:10:56+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -46,19 +53,13 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-03-08T19:10:56+01:00</lastmod>
+    <lastmod>2019-04-16T13:36:35+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/partners/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/practical/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -94,6 +95,12 @@
   </url>
   
   <url>
+    <loc>/practical/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/green/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -119,7 +126,7 @@
   
   <url>
     <loc>/news/</loc>
-    <lastmod>2019-03-08T19:10:56+01:00</lastmod>
+    <lastmod>2019-04-16T13:36:35+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

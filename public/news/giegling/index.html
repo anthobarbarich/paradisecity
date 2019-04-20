@@ -38,19 +38,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </script>
   <link href="/images/favico.png" rel="shortcut icon" type="image/x-icon">
   <link href="https://daks2k3a4ib2z.cloudfront.net/img/webclip.png" rel="apple-touch-icon">
-	  <style>.body {overflow-x: hidden;overflow-y: scroll;}</style>
 </head>
 <body class="body ">
 	
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M4CP3V8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-<img src="/images/shapesrightintro.png" width="314" srcset="/images/shapesrightintro-p-500.png 500w, /images/shapesrightintro.png 711w" sizes="(max-width: 479px) 100vw, 314px" alt="" class="uppagebody">
+<img src="/images/shapesrightintro.png" width="314" alt="" class="uppagebody">
  <div data-collapse="medium" data-animation="default" data-duration="400" data-doc-height="1" class="navbarblack w-nav">
     <div class="container nav"><a href="/index.html" class="bradn2 w-nav-brand"><img src="/images/minilogoorange.svg" width="113" alt=""></a>
       <nav role="navigation" class="navmenu2 w-nav-menu">
 		  <a href="/news" class="navlink-black w-nav-link">news</a>
 		  <a href="/lineup" class="navlink-black w-nav-link">LINE-UP</a>
-		  <a href="/timetable/friday" class="navlink-black w-nav-link">TIMETABLE</a>
+		  <a href="/timetable" class="navlink-black w-nav-link">TIMETABLE</a>
 		  <a href="/green" class="navlink-black w-nav-link">GREEN</a>
 
 		  
@@ -74,14 +73,46 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 		<a href="/news" class="btnback w-button">back to news list</a></div>
   </div>
-<div class="smbuttons">
-	<p class="joinustxt">#PARADISECITYFESTIVAL</p>
+<div class="smbuttons" id="social-buttons">
+	<button class="joinustxt">Newsletter</button>
+	<div id="newsletter-form-wrapper">
+		
+		<div id="mc_embed_signup">
+			<form
+				action="https://paradisecity.us10.list-manage.com/subscribe/post?u=9385d387968c3b3102284a2c6&amp;id=24f9a4275b"
+				method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+				target="_blank" novalidate>
+				<div id="mc_embed_signup_scroll">
+					<div class="mc-field-group">
+						<input type="text" value="" name="FNAME" class="newsletter-txt-input" id="mce-FNAME"
+							placeholder="First Name">
+						<input type="text" value="" name="LNAME" class="newsletter-txt-input" id="mce-LNAME"
+							placeholder="Last Name">
+						<span class="required"><input type="email" value="" name="EMAIL"
+								class="required email newsletter-txt-input" id="mce-EMAIL" placeholder="Email"></span>
+					</div>
+
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div>
+					
+					<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+							name="b_9385d387968c3b3102284a2c6_24f9a4275b" tabindex="-1" value=""></div>
+					<div class="clear">
+						<input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"
+							class="newsletter-submit button"></div>
+				</div>
+			</form>
+		</div>
+		
+	</div>
 	<div class="blocimgs">
 		<a href="https://www.instagram.com/paradisecityofficial" class="smicone" target="_blank">
-	<img src="/images/smallinsta.svg" class="iconez" width="40">
+			<img src="/images/smallinsta.svg" class="iconez" width="40">
 		</a>
 		<a href="https://www.facebook.com/events/354178365144537/" class="smicone" target="_blank">
-	<img src="/images/smallfb.svg" class="iconez" width="40">
+			<img src="/images/smallfb.svg" class="iconez" width="40">
 		</a></div>
 </div>
 <div class="container">
@@ -151,6 +182,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<a href="https://www.payconiq.be/en" target="_blank">	
 		   <img src="/images/uploads/logopayconiq.png" alt="Payconiq " class="partnerimg" width="132" />
 		</a>
+			
+		<a href="http://vlam.be/" target="_blank">	
+		   <img src="/images/uploads/image004.png" alt="Vlam" class="partnerimg" width="132" />
+		</a>
 				
 		
 	
@@ -162,6 +197,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	  
 	  <img src="/images/bgfoot2.jpg" srcset="/images/bgfoot2-p-500.jpeg 500w, /images/bgfoot2-p-1080.jpeg 1080w, /images/bgfoot2.jpg 1200w" sizes="100vw" alt="" class="image-2" width="1200">
 
+	</div>
    <script src="https://d1tdp7z6w94jbb.cloudfront.net/js/jquery-3.3.1.min.js" type="text/javascript" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous" defer></script>
   <script src="/js/paradisecity.js" type="text/javascript" defer></script>
   
@@ -210,6 +246,11 @@ function w3RemoveClass(element, name) {
 }
 
 
+document.querySelector("button.joinustxt").addEventListener('click', function() {
+  document.querySelector("#social-buttons").classList.toggle("opened");
+});
+
+
 var btnContainer = document.getElementById("myBtnContainer");
 var btns = btnContainer.getElementsByClassName("btn");
 for (var i = 0; i < btns.length; i++) {
@@ -220,6 +261,16 @@ for (var i = 0; i < btns.length; i++) {
   });
 }
 </script>
+<script>
+	var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
+</script>
+
 
 </body>
 </html>

@@ -185,6 +185,22 @@ collections:
             name: uniqueid
             widget: hidden
             default: practical
+          - label: Title
+            name: title
+            widget: string
+            default: practical
           - label: Body
             name: body
             widget: markdown
+          - label: Tickets Info
+            name: tickets
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Transport Info
+            name: transport
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
