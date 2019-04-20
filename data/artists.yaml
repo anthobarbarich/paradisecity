@@ -112,14 +112,6 @@ team:
     position: Love
     soundcloud: 'https://soundcloud.com/blossomculture'
     time: '14:30'
-  - day: Friday
-    end: '15:30'
-    linkartist: 'https://www.facebook.com/cabasound/'
-    name: Cabasa
-    photo: /images/uploads/square-cabasa-–-25-copie.jpg
-    position: Under My Garage
-    soundcloud: 'https://soundcloud.com/cab_asa'
-    time: '14:00'
   - day: Saturday
     end: '23:30'
     linkartist: 'https://www.facebook.com/iamcarista/'
@@ -209,7 +201,7 @@ team:
   - day: Saturday
     end: '13:00'
     linkartist: 'https://www.facebook.com/exonbacon4/'
-    name: Exon
+    name: Exon B2B Bendrik
     photo: /images/uploads/square-exon-–-22.jpg
     position: Play Label
     soundcloud: >-
@@ -296,7 +288,7 @@ team:
   - day: Sunday
     end: '16:30'
     linkartist: 'https://soundcloud.com/abstraxion'
-    name: Lion's Drum
+    name: Lion's Drums
     photo: /images/uploads/square-lion’s-drum-copie.jpg
     position: Silo
     soundcloud: 'https://www.facebook.com/lionsdrumsmusic/'
@@ -334,7 +326,7 @@ team:
   - day: Saturday
     end: '20:00'
     linkartist: 'https://www.facebook.com/maxtelaer/'
-    name: Max Telaer
+    name: Max Telaer B2B Bendrik
     photo: /images/uploads/square-max-telaer-–-32-copie.jpg
     position: Play Label
     soundcloud: 'https://soundcloud.com/maxtelaer'
@@ -428,7 +420,7 @@ team:
     photo: /images/uploads/square-rey-collino-–-10-copie.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/giegling'
-    time: '15:30'
+    time: '14:00'
   - day: Friday
     end: '17:00'
     linkartist: 'https://www.facebook.com/sedeffadasi/'
