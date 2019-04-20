@@ -185,6 +185,10 @@ collections:
             name: uniqueid
             widget: hidden
             default: practical
+          - label: Title
+            name: title
+            widget: string
+            default: practical
           - label: Body
             name: body
             widget: markdown
