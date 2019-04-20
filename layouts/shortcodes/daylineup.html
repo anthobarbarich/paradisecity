@@ -214,7 +214,8 @@
 				</ul>
 			</li>			
 			<li class="events-group">
-				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>{{ $stage3 := (.Get 3) }}
+				<div class="top-info"><span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fa8d76" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle></svg>
+					{{ $stage3 := (.Get 3) }}
 					{{ if eq $stage3 "Play Label" }}
 					{{ .Get 3 }} Records
 					{{ else }}

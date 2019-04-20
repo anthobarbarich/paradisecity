@@ -45,7 +45,11 @@
 		  {{ end }}
 		  
 		  <br>
+		  {{ if eq .position "Play Label"}}
+		  {{ .position }} Records
+		  {{ else }}
 		  {{ .position }}
+		  {{ end }}
 		</div>
     {{ end }} </div>
 </div>
