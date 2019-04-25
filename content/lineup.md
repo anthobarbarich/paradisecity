@@ -144,7 +144,8 @@ team:
     position: Silo
     soundcloud: 'https://soundcloud.com/dixon'
     time: '20:00'
-  - end: '10:45'
+  - day: Sunday
+    end: '10:45'
     name: dj Dustin
     photo: /images/uploads/square-dustin-–-15-copie.jpg
     position: Giegling
@@ -172,13 +173,14 @@ team:
     position: Contrair
     soundcloud: 'https://soundcloud.com/dtmfunk'
     time: '18:30'
-  - end: '10:45'
+  - day: Saturday
+    end: '10:45'
     linkartist: 'https://www.facebook.com/DWIG-312136605522586/'
     name: Dwig (live)
     photo: /images/uploads/square-dwig-–-28-copie.jpg
     position: Giegling
     soundcloud: 'https://soundcloud.com/dwig'
-  - day: ''
+  - day: Saturday
     linkartist: 'https://www.facebook.com/edward.info/'
     name: Edward
     photo: /images/uploads/square-edward_____18.jpg
@@ -192,7 +194,8 @@ team:
     position: Play Label
     soundcloud: 'https://soundcloud.com/egyptian-lover-1'
     time: '23:30'
-  - end: '10:45'
+  - day: Sunday
+    end: '10:45'
     linkartist: 'https://www.facebook.com/eli-verveine-386344770109/'
     name: Eli Verveine
     photo: /images/uploads/square-eli-verveine-–-42-copie.jpg
@@ -279,7 +282,8 @@ team:
     position: Love
     soundcloud: 'https://soundcloud.com/konstantinsibold'
     time: '23:00'
-  - end: '10:45'
+  - day: Sunday
+    end: '10:45'
     linkartist: 'https://www.facebook.com/Giegling-199483106732919/'
     name: Leafar Legov (live)
     photo: /images/uploads/square-leafar-legov-–-36-copie.jpg
@@ -317,7 +321,7 @@ team:
     position: Play Label
     soundcloud: 'https://soundcloud.com/lola-haro'
     time: '19:30'
-  - day: ''
+  - day: Sunday
     linkartist: 'https://www.facebook.com/mapache-152180478156038/'
     name: Map.ache (live)
     photo: /images/uploads/square-map.ache-–-17.jpg
@@ -363,7 +367,8 @@ team:
     position: Play Label
     soundcloud: 'https://soundcloud.com/mcde-recordings'
     time: '13:00'
-  - end: '10:45'
+  - day: Saturday
+    end: '10:45'
     linkartist: 'https://www.facebook.com/molly.emeline/'
     name: Molly
     photo: /images/uploads/square-molly-–-33-copie.jpg
