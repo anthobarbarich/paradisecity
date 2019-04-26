@@ -1,9 +1,6 @@
 ---
 uniqueid: partners
 partner:
-  - name: Jupiler
-    photo: /images/uploads/image-12.png
-    position: 'https://jupiler.be/fr'
   - name: Metro_B
     photo: /images/uploads/metro-logonlrvb.jpg
     position: 'http://www.metrotime.be/'
