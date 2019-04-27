@@ -98,9 +98,9 @@ Follow the signs to Paradise City
 
 Uber, the mobile app that connects riders with drivers in more than 450 cities worldwide, is setting up a unique carpooling solution for Paradise City Festival. You get a 25 euro discount on your rides between Brussels and Perk if you share it through the Uber app with another friend.
 
-How do you share a ride?
+**How do you share a ride?**
 
-Request an Uber;
+**Request an Uber;**
 
 Click on the driver’s info and select “Split Fare” icon at the bottom left of the screen;
 
@@ -124,30 +124,34 @@ For Uber and Paradise City, the aim of this partnership is to further reduce CO2
 
 Conditions The code PARADISE18 must be applied to enjoy a ride to/from Paradise City. This offer is only available from 29/6 until 02/07 (01am). You can only share a ride through the Uber app. People who share a ride need to have an Uber account. Discount is 25euro. If the trip fair exceeds 25euro, the remaining amount will be charged and splitted between all users’ credit cards.
 
-Carpooling BY ZIPCAR
+
+
+**Carpooling BY ZIPCAR**
 
 If you come from Brussels use a shared car from Zipcar. Hundreds of cars are readily available in the streets of Brussels. You can simply open them in the Zipcar Brussels App, drive to Paradise City and leave the car in the dedicated Zipcar parking area. If you decide to also drive back in a Zipcar at night, just don’t drink and drive.
 
-And what’s best… Zipcar offers all Paradise City visitors 100 minutes of free driving credit. That means you can get to the festival and/or drive back to Brussels… for free! Just use the promotional code ‘PARADISE’ when registering on www.zipcar.be or in the App.
+And what’s best… Zipcar offers all Paradise City visitors 100 minutes of free driving credit. That means you can get to the festival and/or drive back to Brussels… for free! Just use the promotional code ‘**PARADISE**’ when registering on www.zipcar.be or in the App.
 
-BY BUS
+
+
+## BY BUS
 
 We have three lines: 
 
-1: Hasselt – Leuven/Louvain – Perk
+1. Hasselt – Leuven/Louvain – Perk
+2. Antwerpen/Anvers – Mechelen/Malines – Perk
+3. Gent/Gand – Perk
 
-2: Antwerpen/Anvers – Mechelen/Malines – Perk
-
-3: Gent/Gand – Perk
-
-You need to buy a ticket for these busses: https://shop.paylogic.com/122150/17501/add-ons
+You need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>
 
 There are also busses from Vilvoorde station on Friday and Saturday: n°280.
 
 Shuttle busses from Vilvoorde will be available as well (more info soon). 
 
-KISS & RIDE: Drop off point is in the Kerkdreef in Perk.
+**KISS & RIDE: **
 
-BY TAXI: Visitors coming by taxi are advised to apply the same regulations as the Kiss & ride. Taxis will be waiting outside the festival area to bring you safely home.
+Drop off point is in the Kerkdreef in Perk.
 
-Click here for your route
+**BY TAXI: **
+
+Visitors coming by taxi are advised to apply the same regulations as the Kiss & ride. Taxis will be waiting outside the festival area to bring you safely home.
