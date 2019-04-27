@@ -2,31 +2,25 @@
 uniqueid: transport
 title: How to get to Paradise City?
 ---
-How do I get to Paradise City? It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
-
-
+It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
 
 Go to http://fietsnet.be and follow the junctions to our festival, from your location. Our festival is located in Perk, right next to junction 56. Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
 
-
-
 Address: Kasteelhoekstraat 1, Perk, Belgium
 
+# Where can I park?
 
-
-
-
-Where can I park? Several parking areas will be available.
+Several parking areas will be available.
 
 Before entering the centre of Perk you will be able to access a protected parking area on your right hand side. Follow the parking signs. The entrance of the parking is situated on the split of the Tervuursesteenweg and Perksesteenweg in Perk. 
 
 
 
+## BY CAR
 
 
-BY CAR
 
-Coming from Antwerp:
+**Coming from Antwerp:**
 
 Take the E19 towards Brussels
 
@@ -36,7 +30,7 @@ Follow the signs to Paradise City
 
 
 
-Coming from Brussels:
+**Coming from Brussels:**
 
 Leave R0 and take the E19 towards Antwerp.
 
@@ -46,7 +40,7 @@ Follow the signs to Paradise City
 
 
 
-Coming from E/W-Flanders:
+**Coming from E/W-Flanders:**
 
 Take the E40 towards Brussels take the RO towards Zaventem.
 
@@ -58,7 +52,7 @@ Follow the signs to Paradise City
 
 
 
-Coming from Charleroi:
+**Coming from Charleroi:**
 
 Take the E420 towards Bruxelles/Zaventem
 
@@ -70,7 +64,7 @@ Follow the signs to Paradise City
 
 
 
-Coming from Genk/Maastricht/Hasselt:
+**Coming from Genk/Maastricht/Hasselt:**
 
 Take the E314 towards Brussels/Leuven/Antwerp/Genk
 
@@ -86,7 +80,7 @@ Follow the signs to Paradise City
 
 
 
-Coming from Liège:
+**Coming from Liège:**
 
 Take the E40 towards Brussels
 
@@ -100,7 +94,7 @@ Follow the signs to Paradise City
 
 
 
-Carpooling BY UBER
+## Carpooling BY UBER
 
 Uber, the mobile app that connects riders with drivers in more than 450 cities worldwide, is setting up a unique carpooling solution for Paradise City Festival. You get a 25 euro discount on your rides between Brussels and Perk if you share it through the Uber app with another friend.
 
@@ -130,8 +124,6 @@ For Uber and Paradise City, the aim of this partnership is to further reduce CO2
 
 Conditions The code PARADISE18 must be applied to enjoy a ride to/from Paradise City. This offer is only available from 29/6 until 02/07 (01am). You can only share a ride through the Uber app. People who share a ride need to have an Uber account. Discount is 25euro. If the trip fair exceeds 25euro, the remaining amount will be charged and splitted between all users’ credit cards.
 
-
-
 Carpooling BY ZIPCAR
 
 If you come from Brussels use a shared car from Zipcar. Hundreds of cars are readily available in the streets of Brussels. You can simply open them in the Zipcar Brussels App, drive to Paradise City and leave the car in the dedicated Zipcar parking area. If you decide to also drive back in a Zipcar at night, just don’t drink and drive.
@@ -148,19 +140,13 @@ We have three lines:
 
 3: Gent/Gand – Perk
 
-
-
 You need to buy a ticket for these busses: https://shop.paylogic.com/122150/17501/add-ons
 
 There are also busses from Vilvoorde station on Friday and Saturday: n°280.
 
 Shuttle busses from Vilvoorde will be available as well (more info soon). 
 
-
-
 KISS & RIDE: Drop off point is in the Kerkdreef in Perk.
-
-
 
 BY TAXI: Visitors coming by taxi are advised to apply the same regulations as the Kiss & ride. Taxis will be waiting outside the festival area to bring you safely home.
 
