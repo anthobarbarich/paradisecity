@@ -3,8 +3,8 @@
   <div class="container default">
     <h3 class="section-intro">{{.Title}}</h3>
 	  <div class="textblock">
-    {{ .Content }}</div>
-  </div>
+    {{ .Content }}
+  
   <div class="container default">
     <h3 class="section-intro">Tickets</h3>
     <ul>
@@ -13,7 +13,7 @@
         <summary>
           <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
         </summary>
-        {{ .answer | markdownify }} </details>
+        <p>{{ .answer | markdownify }}</p> </details>
       {{ end }}
     </ul>
   </div>  
@@ -28,6 +28,6 @@
         {{ .answer | markdownify }} </details>
       {{ end }}
     </ul>
-  </div>
+  </div></div></div>
 </div>
 {{ partial "footer.html" . }}

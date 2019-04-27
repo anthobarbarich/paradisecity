@@ -2,7 +2,7 @@
 <div class="section-page line-up">
   <div class="container default">
     <h1 class="section-intro">{{.Title}}</h1>
-    <div class="textblock"> {{ .Content }} </div>
+    <div class="textblock"> {{ .Content | markdownify}} </div>
   </div>
 </div>
 {{ partial "footer.html" . }}
