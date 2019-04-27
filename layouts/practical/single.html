@@ -1,10 +1,11 @@
 {{ partial "header.html" . }}
 <div class="section-page line-up">
-  <div class="container writing">
+  <div class="container default">
     <h3 class="section-intro">{{.Title}}</h3>
-    {{ .Content }}
+	  <div class="textblock">
+    {{ .Content }}</div>
   </div>
-  <div class="container writing">
+  <div class="container default">
     <h3 class="section-intro">Tickets</h3>
     <ul>
       {{ range .Params.tickets }}
@@ -16,7 +17,7 @@
       {{ end }}
     </ul>
   </div>  
-	<div class="container writing">
+	<div class="container default">
     <h3 class="section-intro">TRANSPORT</h3>
     <ul>
       {{ range .Params.transport }}

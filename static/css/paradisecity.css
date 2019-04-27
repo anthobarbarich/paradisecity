@@ -150,6 +150,11 @@ a {
   padding-top: 43px;
 }
 
+.container.default {
+  padding-top: 43px;
+	max-width: 940px;
+}
+
 .container.partners {
   display: -webkit-box;
   display: -webkit-flex;

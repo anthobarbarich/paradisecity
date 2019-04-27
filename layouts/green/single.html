@@ -1,8 +1,8 @@
 {{ partial "header.html" . }}
 
 <div class="section-page line-up">
-    <div class="container writing">
-		<h3 class="section-intro">{{.Title}}</h3>
+    <div class="container default">
+		<h1 class="section-intro">{{.Title}}</h1>
 		{{ .Content }}
 		  {{ range .Params.steps }} 
 	<div class="container split margin-bottom">
