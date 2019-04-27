@@ -79,7 +79,35 @@ collections:
                 fields:
                   - {label: Title, name: title, widget: string, required: false}
                   - {label: Description, name: description, widget: markdown, required: false}
-                  - {label: Image, name: img, widget: image, required: false}
+                  - {label: Image, name: img, widget: image, required: false}                  
+      - label: "Practical Test"
+        name: "practicaltest"
+        file: "content/practicaltest.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: practical
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: practical
+          - label: Title
+            name: title
+            wid	get: string
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Category
+            name: category
+            widget: list
+            fields:
+              - label: Category
+                name: category
+                widget: list
+                fields:
+                  - {label: Question, name: question, widget: string, required: false}
+                  - {label: Answer, name: answer, widget: markdown, required: false}
   
       - label: "Contact"
         name: "contact"
