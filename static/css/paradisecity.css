@@ -1325,7 +1325,12 @@ display:block;
 .textblock h2 {
 	margin-bottom: 0.7em;
 }
-
+.textblock ul {
+	margin-bottom: 2em;
+}
+.textblock li {
+	line-height: 2em;
+}
 .lastnav {
   margin-right: 0px;
   margin-left: 30px;
