@@ -1,5 +1,6 @@
 ---
 uniqueid: transport
+type: transport
 title: How to get to Paradise City?
 ---
 It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
