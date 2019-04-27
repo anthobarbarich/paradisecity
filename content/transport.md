@@ -8,9 +8,9 @@ Go to http://fietsnet.be and follow the junctions to our festival, from your l
 
 Address: Kasteelhoekstraat 1, Perk, Belgium
 
-# Where can I park?
+## Where can I park?
 
-Several parking areas will be available.
+## Several parking areas will be available.
 
 Before entering the centre of Perk you will be able to access a protected parking area on your right hand side. Follow the parking signs. The entrance of the parking is situated on the split of the Tervuursesteenweg and Perksesteenweg in Perk. 
 
