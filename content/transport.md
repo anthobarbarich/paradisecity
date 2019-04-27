@@ -2,6 +2,8 @@
 uniqueid: transport
 title: How to get to Paradise City?
 ---
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2514.6069916669944!2d4.499689916090928!3d50.93098667954452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3e75c201d7d11%3A0x268c1b87c5a0bc5d!2sParadise+City+Festival!5e0!3m2!1sen!2sbe!4v1554824539873!5m2!1sen!2sbe" width="940" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
 
 Go to http://fietsnet.be and follow the junctions to our festival, from your location. Our festival is located in Perk, right next to junction 56. Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
