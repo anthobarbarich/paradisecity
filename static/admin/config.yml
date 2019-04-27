@@ -79,7 +79,8 @@ collections:
                 fields:
                   - {label: Title, name: title, widget: string, required: false}
                   - {label: Description, name: description, widget: markdown, required: false}
-                  - {label: Image, name: img, widget: image, required: false}                  
+                  - {label: Image, name: img, widget: image, required: false}     
+				  
       - label: "Practical Test"
         name: "practicaltest"
         file: "content/practicaltest.md"
@@ -102,8 +103,8 @@ collections:
             name: category
             widget: list
             fields:
-              - label: Category
-                name: category
+              - label: Qa
+                name: qa
                 widget: list
                 fields:
                   - {label: Question, name: question, widget: string, required: false}
