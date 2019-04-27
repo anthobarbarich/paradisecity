@@ -160,6 +160,21 @@ collections:
           - label: Line-up text
             name: lineuptxt
             widget: markdown
+              
+      - label: "Transport"
+        name: "transport"
+        file: "content/transport.md"
+        fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: transport
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
             
       - label: "Partners"
         name: "partners"
