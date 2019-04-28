@@ -2,32 +2,96 @@
 <div class="section-page line-up">
   <div class="container default">
     <h3 class="section-intro">{{.Title}}</h3>
-	  <div class="textblock">
-    {{ .Content }}
-  
-  <div class="container default">
-    <h3 class="section-intro">Tickets</h3>
-    <ul>
-      {{ range .Params.tickets }}
-      <details>
-        <summary>
-          <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
-        </summary>
-        <p>{{ .answer | markdownify }}</p> </details>
-      {{ end }}
-    </ul>
-  </div>  
-	<div class="container default">
-    <h3 class="section-intro">TRANSPORT</h3>
-    <ul>
-      {{ range .Params.transport }}
-      <details>
-        <summary>
-          <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
-        </summary>
-        {{ .answer | markdownify }} </details>
-      {{ end }}
-    </ul>
-  </div></div></div>
+    <div class="textblock"> {{ .Content }}
+      <div class="container default">
+        <h3 class="section-intro">Festival Info</h3>
+        <ul>
+          {{ range .Params.festival }}
+          <details>
+            <summary>
+              <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
+            </summary>
+            {{ .answer | markdownify }} </details>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="container default">
+        <h3 class="section-intro">TRANSPORT</h3>
+        <ul>
+          {{ range .Params.transport }}
+          <details>
+            <summary>
+              <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
+            </summary>
+            {{ .answer | markdownify }} </details>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="container default">
+        <h3 class="section-intro">Tickets</h3>
+        <ul>
+          {{ range .Params.tickets }}
+          <details>
+            <summary>
+              <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
+            </summary>
+            <p>{{ .answer | markdownify }}</p>
+          </details>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="container default">
+        <h3 class="section-intro">Money, Cashless Festival</h3>
+        <ul>
+          {{ range .Params.money }}
+          <details>
+            <summary>
+              <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
+            </summary>
+            <p>{{ .answer | markdownify }}</p>
+          </details>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="container default">
+        <h3 class="section-intro">Safety, Medical Help</h3>
+        <ul>
+          {{ range .Params.safety }}
+          <details>
+            <summary>
+              <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
+            </summary>
+            <p>{{ .answer | markdownify }}</p>
+          </details>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="container default">
+        <h3 class="section-intro">Camping</h3>
+        <ul>
+          {{ range .Params.camping }}
+          <details>
+            <summary>
+              <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
+            </summary>
+            <p>{{ .answer | markdownify }}</p>
+          </details>
+          {{ end }}
+        </ul>
+      </div><div class="container default">
+        <h3 class="section-intro">Others</h3>
+        <ul>
+          {{ range .Params.others }}
+          <details>
+            <summary>
+              <h2 style="display:inline-block; cursor: pointer;font-size: 1.6em;">{{ .question }}</h2>
+            </summary>
+            <p>{{ .answer | markdownify }}</p>
+          </details>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 {{ partial "footer.html" . }}

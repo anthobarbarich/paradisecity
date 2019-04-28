@@ -1285,6 +1285,10 @@ body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w
     transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
 
+iframe {
+	width: 100%;
+}
+
 /* Dropdown Button */
 .dropbtn {
   cursor: pointer;
