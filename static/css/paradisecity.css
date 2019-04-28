@@ -1284,8 +1284,43 @@ body.news a.navlink-black.w-nav-link[href="/news"], body.green a.navlink-black.w
     transition: transform 200ms ease;
     transition: transform 200ms ease, -webkit-transform 200ms ease;
 }
+
+/* Dropdown Button */
+.dropbtn {
+  cursor: pointer;
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: none;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+      color: #575757;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
 .containartist a {
-    float: right;
     margin-top: 10px;
     margin-left: 8px;
 }
@@ -2268,6 +2303,9 @@ a.blogthumb.w-inline-block {
 .show {
     display: block;
 }
+
+.dropdown {display: none;}
+
 @font-face {
     font-family: 'Akrobat';
     src: url('../fonts/Akrobat-Black.otf') format('opentype');
@@ -2631,3 +2669,5 @@ Main Components
 body.fri .link-table[href="/timetable/friday"], body.sat .link-table[href="/timetable/saturday"], body.sun .link-table[href="/timetable/sunday"] {
     color: #fa8d76;
 }
+
+
