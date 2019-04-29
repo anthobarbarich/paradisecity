@@ -44,5 +44,8 @@ partner:
   - name: Vlam
     photo: /images/uploads/image004.png
     position: 'http://vlam.be/'
+  - name: Brussels Airport
+    photo: /images/uploads/brussels-airport_baseline_rgb-copie.png
+    position: 'https://www.brusselsairport.be'
 ---
 
