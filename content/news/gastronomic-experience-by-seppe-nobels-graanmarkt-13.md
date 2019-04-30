@@ -6,7 +6,7 @@ thumbnail: /images/uploads/p19small.jpg
 ---
 Come and enjoy a gastronomic experience curated by **Seppe Nobels** and **Graanmarkt 13** at our Comfort zone on the island. You can easily appreciate the sight of our main stage and on the Castle, while chilling on this exceptional environment. 
 
-![](/images/uploads/paradisecity2018-2small.jpg)
+![null](/images/uploads/paradisecity2018-2small.jpg)
 
 The Comfort zone provides an easy-going and friendly atmosphere where you can keep up with your pace. The gastronomic experience is included in the Comfort ticket.
 
@@ -37,4 +37,4 @@ All fish dishes can be served as vegetarian dishes.
 
 <a class="w-button btcta rev" href="https://shop.paylogic.com/124808/17501/tickets" target="_blank">Get your ticket for the Comfort experience </a>
 
-![](/images/uploads/food1small.jpg)
+![null](/images/uploads/food1small.jpg)
