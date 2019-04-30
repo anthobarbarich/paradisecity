@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: Seppe Nobels as new Culinary Curator at Paradise City 2019
+title: Culinary Curator at Paradise City 2019
 date: '2019-04-30T15:41:30+02:00'
 thumbnail: /images/uploads/capture-d’écran-2019-04-30-à-11.51.45-1-copie.jpg
 ---
-Fine cuisine has always been one of the main pillars of Paradise City Festival. From our first edition in 2015 where we had a no fast food policy to the 2016 edition where we decided to ban meat from the festival, we always had a gastronomic experience with a prestigious chef at our Comfort zone. 
+Fine cuisine has always been one of the main pillars of Paradise City Festival. From our first edition in 2015 where we had a no fast food policy to the 2016 edition where we decided to ban meat from the festival, we always had a gastronomic experience with a prestigious chef at our Comfort zone. Discover this year's curator in the following video...
 
 <iframe width="560" height="415" src="https://www.youtube.com/embed/NYScuTI_PoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
