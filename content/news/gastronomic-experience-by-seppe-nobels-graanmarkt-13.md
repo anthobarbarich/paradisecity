@@ -6,11 +6,13 @@ thumbnail: /images/uploads/paradisecity2018byjonverhoeft-241small.jpg
 ---
 Come and enjoy a gastronomic experience curated by **Seppe Nobels** and **Graanmarkt 13** at our Comfort zone on the island. You can easily appreciate the sight of our main stage and on the Castle, while chilling on this exceptional environment. 
 
-![null](/images/uploads/paradisecity2018-2small2.jpg)
+![](/images/uploads/image002-copiesmall.png)
 
 The Comfort zone provides an easy-going and friendly atmosphere where you can keep up with your pace. The gastronomic experience is included in the Comfort ticket.
 
 Take pleasure in the gastronomic experience, which is a 5-course meal with accompanying drinks. Savor it in one of our 5 open kitchens at the Comfort zone at any time during the day.
+
+![](/images/uploads/paradisecity2018-2small2.jpg)
 
 # Menu
 
