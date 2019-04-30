@@ -12,7 +12,7 @@ Discover this year's curator in the following video...
 
 ## Culinary Curator
 
-This year we are planning big things with our new culinary curator **Seppe Nobels**. For our citizens from Flanders, Seppe doesn’t need an introduction. For those who don't know him yet, Seppe is the chef of **Graanmarkt 13** in Antwerp. He is considered as one of the top 5 vegetable chefs in the world. This year, and together with his team from Graanmarkt 13, Seppe will cook a 5-course dinner with a drink at our Comfort zone. You can find more details about the gastronomic experience here and you can reserve your ticket for this [here](https://shop.paylogic.com/124808/17501/tickets). 
+This year we are planning big things with our new culinary curator **Seppe Nobels**. For our citizens from Flanders, Seppe doesn’t need an introduction. For those who don't know him yet, Seppe is the chef of **Graanmarkt 13** in Antwerp. He is considered as one of the top 5 vegetable chefs in the world. This year, and together with his team from Graanmarkt 13, Seppe will cook a 5-course dinner with a drink at our Comfort zone. You can find more details about the gastronomic experience [here](https://paradisecity.be/news/gastronomic-experience-by-seppe-nobels-graanmarkt-13/) and you can reserve your ticket for this [here](https://shop.paylogic.com/124808/17501/tickets). 
 
 But Seppe’s curatorship goes beyond the Comfort zone at Paradise City. He will have control over all the food offered at the festival and will respect some key principles: use of micro-local and seasonal vegetables, imperfectly shaped food that doesn’t get sold/would otherwise end up in the garbage, no sugar added, no meat and above all delicious food.  
 
