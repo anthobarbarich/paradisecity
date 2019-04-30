@@ -1174,6 +1174,11 @@ svg:not(:root) {
     font-size: 20px;
     line-height: 2em;
 }
+
+.headarticle h3 {
+	text-align: center;
+	line-height: 1.2em;
+}
 :focus {
     outline: 0;
 }
