@@ -37,6 +37,6 @@ Veggie option: Roasted pumpkin, summer purslane, lime zest, pistachios and pista
 
 All fish dishes can be served as vegetarian dishes.
 
-<a class="w-button btcta rev" href="https://shop.paylogic.com/124808/17501/tickets" target="_blank">Get your ticket for the Comfort experience </a>
+<a class="w-button btcta rev" href="https://shop.paylogic.com/124808/17501/tickets" target="_blank" style="position:relative">Get your ticket for the Comfort experience </a>
 
 ![null](/images/uploads/food1small.jpg)
