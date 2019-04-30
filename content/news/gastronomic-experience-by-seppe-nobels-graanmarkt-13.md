@@ -2,7 +2,7 @@
 layout: blog
 title: 'Gastronomic experience by Seppe Nobels (Graanmarkt 13) '
 date: '2019-04-30T15:17:11+02:00'
-thumbnail: /images/uploads/p19small.jpg
+thumbnail: /images/uploads/paradisecity2018byjonverhoeft-241small.jpg
 ---
 Come and enjoy a gastronomic experience curated by **Seppe Nobels** and **Graanmarkt 13** at our Comfort zone on the island. You can easily appreciate the sight of our main stage and on the Castle, while chilling on this exceptional environment. 
 
