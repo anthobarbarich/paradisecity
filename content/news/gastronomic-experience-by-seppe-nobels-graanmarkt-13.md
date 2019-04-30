@@ -39,4 +39,4 @@ All fish dishes can be served as vegetarian dishes.
 
 <a class="w-button btcta rev" href="https://shop.paylogic.com/124808/17501/tickets" target="_blank">Get your ticket for the Comfort experience </a>
 
-![null](/images/uploads/food1small2.jpg)
+![null](/images/uploads/food1small.jpg)
