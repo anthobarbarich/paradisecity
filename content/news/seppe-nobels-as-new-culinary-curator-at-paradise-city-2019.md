@@ -6,7 +6,7 @@ thumbnail: /images/uploads/capture-d’écran-2019-04-30-à-11.51.45-1-copie.jpg
 ---
 Fine cuisine has always been one of the main pillars of Paradise City Festival. From our first edition in 2015 where we had a no fast food policy to the 2016 edition where we decided to ban meat from the festival, we always had a gastronomic experience with a prestigious chef at our Comfort zone. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NYScuTI_PoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="415" src="https://www.youtube.com/embed/NYScuTI_PoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Culinary Curator
 
@@ -14,7 +14,7 @@ This year we are planning big things with our new culinary curator **Seppe Nobel
 
 But Seppe’s curatorship goes beyond the Comfort zone at Paradise City. He will have control over all the food offered at the festival and will respect some key principles: use of micro-local and seasonal vegetables, imperfectly shaped food that doesn’t get sold/would otherwise end up in the garbage, no sugar added, no meat and above all delicious food.  
 
-![](/images/uploads/foodsmall.jpg)
+![null](/images/uploads/foodsmall.jpg)
 
 There will be a new restaurant (without reservation) at the festival and several foodtrucks. Seppe will have a say in all dishes offered, but will also make sure we use the micro-local vegetables from our farmer Ole Deschout in Heist-op-den-Berg (http://www.onslogischvoedsel.be). 
 
