@@ -201,6 +201,19 @@ safety:
 
       The Security team is also available on and around the festival.
     question: HOW ABOUT SECURITY AND FIRST AID ON AND AROUND THE FESTIVAL PREMISES?
+  - answer: Yes and we distribute them for free. Take care of your ears!
+    question: ARE THERE EARPLUGS ON SITE?
+  - answer: 'Of course, if it’s legal medication.'
+    question: CAN I BRING MY MEDICATION?
+  - answer: >-
+      Nope! Paradise City Festival holds a zero-tolerance drug policy on site.
+      Same for your own alcohol: bars will be plentiful on site and at the
+      camping.
+    question: 'SO, NO OTHER MEDICATIONS?'
+  - answer: >-
+      No, drugs are not allowed on the festival ground. Police will do searches
+      at the entrance.
+    question: OK SO NO DRUGS ALLOWED?
 camping:
   - answer: >-
       We provide a campsite next to the festival grounds on the domain of
@@ -243,10 +256,46 @@ camping:
       Don’t forget to bring your ID! No ID = no entry! One ticket is valid for
       one entrance per person.
     question: WHERE TO STAY DURING THE FESTIVAL?
+  - answer: >-
+      Only on Holiday tickets. Not on Day and Weekend tickets. If you forgot to
+      order your camping ticket, a camping upgrade is available.
+    question: IS MY CAMPING TICKET INCLUDED IN MY FESTIVAL TICKET?
+  - answer: >-
+      On our camping you can take a hot shower and use toilets. You will also
+      find what you need to do your dishes and recycle your waste!
+
+
+      Hungry after a day of partying? Breakfast is available at the camping: on
+      Saturday and Sunday from 08.00h till 12.00h and on Monday from 08.00h
+      until 11.00h. 
+
+
+      Our camping crew will be at your disposal to answer all your questions and
+      needs (hospitality desk), and the security will also look after you.
+    question: ARE THERE CAMPING FACILITIES INCLUDED?
+  - answer: >-
+      Yes, here: https://paradisecity.be/book-hotel-festival/ and we have great
+      deals with shuttle included.
+    question: ARE THERE HOTEL OPTIONS?
+  - answer: >-
+      Check-in: Continuously from Friday June 29th, starting at 14.00h.
+      Check-out: Monday, July 2nd, before 11h00.
+    question: OPENING HOURS?
+  - answer: 'Only at the festival, sorry.'
+    question: ARE THERE LOCKERS ON THE CAMPSITES?
 others:
   - answer: >-
       The police of Steenokkerzeel will centralize everything. Contact the
       info-point. They will help you further.
     question: 'I''VE LOST MY BELONGINGS AT THE FESTIVAL, WHAT CAN I DO?'
+  - answer: >-
+      There is a small shop on site where you can buy cigarettes from a
+      selection of brands. You can smoke on site, and we will give away free
+      pocket ashtrays! So PLEASE, PLEASE, place your cigarette butts inside! 
+
+
+      One thing is forbidden: smoking in our tents!
+    question: CAN I BUY CIGARETTES? CAN I SMOKE ON SITE?
+  - {}
 ---
 #
