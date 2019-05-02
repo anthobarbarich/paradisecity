@@ -96,7 +96,7 @@ tickets:
     question: IS THERE A MINIMUM AGE?
 money:
   - answer: >-
-      "At the entrance of Paradise City, we will scan and link your ticket to
+      At the entrance of Paradise City, we will scan and link your ticket to
       your wristband. Once it is activated you can check in and check out at the
       festival during your stay by scanning your wristband with one of our Staff
       members.
@@ -114,13 +114,8 @@ money:
       and that they have a recoverable deposit.
 
 
-
-
       You can also buy your credits when purchasing your ticket at the ticket
       shop, with a discount (you can already buy them on the website).
-
-
-      "
     question: >-
       ELECTRONIC PAYMENTS WITH WRISTBAND? WHY ELECTRONIC PAYMENT? HOW DOES IT
       WORK?
