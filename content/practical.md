@@ -48,7 +48,18 @@ transport:
       <https://shop.paylogic.com/122150/17501/add-ons>
 
 
-      ![](/images/uploads/tableau.png)
+      ![null](/images/uploads/tableau.png)
+
+
+      **SHUTTLES**
+
+
+      This year we're working with our partner Brussels Airport who will provide
+      electric shuttle busses that will bring you from the **Brussels Airport
+      train station** to our doors. 
+
+
+      ![](/images/uploads/tableau-–-3.png)
     question: ARE THERE BUSES?
 tickets:
   - answer: >-
