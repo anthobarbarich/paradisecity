@@ -282,6 +282,14 @@ team:
     position: Love
     soundcloud: 'https://soundcloud.com/konstantinsibold'
     time: '23:00'
+  - day: Saturday
+    end: '21:30'
+    linkartist: 'https://www.facebook.com/Je.Suis.Imperatrice/'
+    name: L'Impératrice
+    photo: /images/uploads/square-l’imperatrice.jpg
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/l-imperatrice'
+    time: '20:10'
   - day: Sunday
     end: '10:45'
     linkartist: 'https://www.facebook.com/Giegling-199483106732919/'
@@ -516,13 +524,5 @@ team:
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/vaalofficial'
     time: '17:00'
-  - day: Saturday
-    end: '21:30'
-    linkartist: 'https://www.facebook.com/Je.Suis.Imperatrice/'
-    name: L'Impératrice
-    photo: /images/uploads/square-l’imperatrice.jpg
-    position: Paradise City Live
-    soundcloud: 'https://soundcloud.com/l-imperatrice'
-    time: '20:10'
 ---
 
