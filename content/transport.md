@@ -2,8 +2,6 @@
 uniqueid: transport
 title: How to get to Paradise City?
 ---
-
-
 It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
 
 Go to http://fietsnet.be and follow the junctions to our festival, from your location. Our festival is located in Perk, right next to junction 56. Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
@@ -91,11 +89,15 @@ And what’s best… Zipcar offers all Paradise City visitors 100 minutes of fre
 
 ## BY BUS
 
-We have three lines: 
+Dear citizen,
 
-1. Hasselt – Leuven/Louvain – Perk
-2. Antwerpen/Anvers – Mechelen/Malines – Perk
-3. Gent/Gand – Perk
+We’re happy to see you will make use of our bus services.
+
+Here are the schedules for the weekend. Please make sure you are present 15 minutes before departure.
+
+![](/images/uploads/capture-d’écran-2019-05-02-à-11.23.25.png)
+
+
 
 You need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>
 
