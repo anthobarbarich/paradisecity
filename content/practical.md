@@ -296,6 +296,55 @@ others:
 
       One thing is forbidden: smoking in our tents!
     question: CAN I BUY CIGARETTES? CAN I SMOKE ON SITE?
-  - {}
+  - answer: >-
+      Yes you can. But please enjoy the festival with your senses and not
+      through a lens or a phone display. 
+
+
+      Please know that by entering the festival, you automatically agree and
+      accept the terms of use of all video filming and photo image registrations
+      and agree on Paradise City and her media partners to use these images. You
+      will then find photos of the events on our Facebook page and our Instagram
+      account.
+    question: AND A CAMERA?
+  - answer: >-
+      If you are accompanied by a guide dog for your disability, you may bring
+      animals.
+    question: CAN I ACCESS THE SITE WITH ANIMALS?
+  - answer: >-
+      Bad temper. Seriously, Paradise City is about gathering happy and
+      optimistic people, so mutual respect and respect for the environment is
+      essential to be a good Citizen. We have zero tolerance on violence and
+      intimidating behaviour, discrimination and sexual intimidation. (And that
+      should not be a surprise to a real Citizen!)
+
+
+      Weapons, knife, glass, spray cans, cans, fireworks and umbrellas are not
+      permitted. We are in a magnificent park, please be responsible and throw
+      your garbage in the trash cans. And we expect each Citizen to treat it
+      with respect. Any behaviour that can damage the domain will not be
+      tolerated. 
+
+
+      Drugs. We also have a zero-tolerance policy on drugs. You’ll be
+      extensively searched when entering the festival.
+
+
+      Don’t get too wasted! Visitors, who are too drunk, will be removed of the
+      premises.
+
+
+      Stealing or destroying properties of Paradise City or of other parties is
+      strictly forbidden!
+
+
+      Visitors enter the festival ground at their own risk. The organisation is
+      not responsible for any kind of damage, both physically and mentally. 
+
+
+      Always follow the guidelines of the site stewards, security and emergency
+      services. In cases of discussion, the festival manager always has the last
+      word. Use your common sense and do not bring others in danger.
+    question: WHAT IS ABSOLUTELY FORBIDDEN AT THE FESTIVAL?
 ---
 #
