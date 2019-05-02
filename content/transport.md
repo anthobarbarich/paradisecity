@@ -26,8 +26,7 @@ This year we're working with our partner Brussels Airport who will provide elect
 
 ## BY BUS
 
-We’re happy to see you will make use of our bus services. 
-Here are the schedules for the weekend. Please make sure you are present at least 15 minutes before departure.
+There will be buses coming from different cities in Belgium, here are the schedules for the weekend. Please make sure you are present at least 15 minutes before departure.
 
 ![null](/images/uploads/tableau.png)
 
