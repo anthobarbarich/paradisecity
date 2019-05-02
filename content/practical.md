@@ -120,25 +120,18 @@ money:
       delicious food trucks, you just have to scan your wristband at one of our
       bars/food trucks, it’s as simple as that! Note that we use reusable cups
       and that they have a recoverable deposit.
-
-
-      You can also buy your credits when purchasing your ticket at the ticket
-      shop, with a discount (you can already buy them on the website).
     question: >-
       ELECTRONIC PAYMENTS WITH WRISTBAND? WHY ELECTRONIC PAYMENT? HOW DOES IT
       WORK?
 safety:
   - answer: >-
-      "There is a first aid station permanently present on site, clearly marked
+      There is a first aid station permanently present on site, clearly marked
       on the festival terrain and map. Please be aware that these people stand
       in for your safety and the safety of your loved ones, so it’s highly
       recommended to follow their instructions carefully. 
 
 
       The Security team is also available on and around the festival.
-
-
-      "
     question: HOW ABOUT SECURITY AND FIRST AID ON AND AROUND THE FESTIVAL PREMISES?
 camping:
   - answer: >-
