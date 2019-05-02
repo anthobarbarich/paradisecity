@@ -26,11 +26,13 @@ This year we're working with our partner Brussels Airport who will provide elect
 
 ## BY BUS
 
-There will be buses coming from different cities in Belgium, here are the schedules for the weekend. Please make sure you are present at least 15 minutes before departure.
+There will be buses coming from different cities in Belgium, here are the schedules for the weekend. Please make sure you are present at least 15 minutes before departure. 
+
+You need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>
 
 ![null](/images/uploads/tableau.png)
 
-You need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>
+
 
 ## BY CARPOOLING
 
