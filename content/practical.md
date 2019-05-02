@@ -184,7 +184,11 @@ money:
       with your card. One ATM is located at our campsite (Paradise Inn) and the
       others ATM’s are spread over the festival ground.
     question: ARE THERE ATM'S AT PARADISE CITY?
-  - question: CAN I CHARGE MY WRISTBAND AT PARADISE INN (CAMPSITE)
+  - answer: >-
+      Yes you can! There will be a Paradise City ATM located at Paradise Inn, so
+      you are able to charge your wristband all day and all night during your
+      stay.
+    question: CAN I CHARGE MY WRISTBAND AT PARADISE INN (CAMPSITE)?
 safety:
   - answer: >-
       There is a first aid station permanently present on site, clearly marked
