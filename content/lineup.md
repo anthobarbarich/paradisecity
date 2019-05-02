@@ -299,11 +299,11 @@ team:
     time: '18:30'
   - day: Sunday
     end: '16:30'
-    linkartist: ''
-    name: TBA
-    photo: ''
+    linkartist: 'https://www.facebook.com/lionsdrumsmusic/'
+    name: Lion's Drums
+    photo: /images/uploads/square-lion’s-drum-copie.jpg
     position: Silo
-    soundcloud: ''
+    soundcloud: 'https://soundcloud.com/abstraxion'
     time: '14:30'
   - day: Saturday
     end: '23:00'
