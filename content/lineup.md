@@ -518,8 +518,11 @@ team:
     time: '17:00'
   - day: Saturday
     end: '21:30'
-    name: TBA
+    linkartist: 'https://www.facebook.com/Je.Suis.Imperatrice/'
+    name: L'Impératrice
+    photo: /images/uploads/square-l’imperatrice.jpg
     position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/l-imperatrice'
     time: '20:10'
 ---
 
