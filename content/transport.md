@@ -6,7 +6,7 @@ title: How to get to Paradise City?
 
 It goes without saying that we recommend you to use your bike or public transport to get to the festival. The bike racks will be lit at night.
 
-Go to <http://fietsnet.be> and follow the junctions to our festival, from your location. Our festival is located in Perk, right next to junction 56. Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
+Go to <http://fietsnet.be> and follow the junctions to our festival, from your location. Our festival is located in Perk, right next to junction 56.  Whilst on the road you don’t have to worry about anything but to follow the signs on your chosen route to the festival.
 
 **Address: Kasteelhoekstraat 1, Perk, Belgium**
 
