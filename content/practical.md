@@ -39,25 +39,16 @@ transport:
       the signs on your chosen route to the festival.
     question: HOW DO I GET TO PARADISE CITY?
   - answer: >-
-      **We have three lines: **
-
-
-      1. Hasselt – Leuven/Louvain – Perk
-
-      2. Antwerpen/Anvers – Mechelen/Malines – Perk
-
-      3. Gent/Gand – Perk
+      There will be buses coming from different cities in Belgium, here are the
+      schedules for the weekend. Please make sure you are present at least 15
+      minutes before departure. 
 
 
       You need to buy a ticket for these busses:
-      https://shop.paylogic.com/122150/17501/add-ons
+      <https://shop.paylogic.com/122150/17501/add-ons>
 
 
-      There are also busses from Vilvoorde station on Friday and Saturday:
-      n°280.
-
-
-      Shuttle busses from Vilvoorde will be available as well (more info soon).
+      ![](/images/uploads/tableau.png)
     question: ARE THERE BUSES?
 tickets:
   - answer: >-
