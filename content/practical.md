@@ -56,7 +56,7 @@ transport:
       train station** to our doors. 
 
 
-      ![](/images/uploads/tableau-–-3.png)
+      ![null](/images/uploads/tableau-–-3.png)
     question: WILL THERE BE SHUTTLES FROM A TRAIN STATION?
 tickets:
   - answer: >-
@@ -140,6 +140,51 @@ money:
       (Payconiq, VISA, etc) and you’re good to go. More information about the
       app can be found soon on our website and at the festival itself.
     question: HOW DO I CHARGE MY PARADISE CITY WRISTBAND DURING THE FESTIVAL?
+  - answer: >-
+      After every order you place at a bar, your left over credits will be shown
+      on the device. If for some reason you forget how many credits you have
+      left, just go to a bar or cash desk and ask one of our crew members.
+    question: 'ALL RIGHT, BUT HOW DO I KNOW HOW MANY CREDITS ARE LEFT ON MY WRISTBAND?'
+  - answer: >-
+      If you still have some money left on your wristband after the festival,
+      you can simply ask for a refund on our website after the festival. More
+      information on how and where to get your refund will be given after the
+      festival.
+
+
+      New this year is that you will also be able to donate your credits that
+      are left on your wristband to a good cause.
+
+
+
+
+      And no worries, there is no GPS tracking device placed in your wristband,
+      so the Paradise City Big Brother crew won’t be able to track you down.
+      But… this is on our to-do-list for our edition in 2084. 
+
+
+
+
+      Note: If you would like to get a refund, please be aware that there will
+      be a small service fee charged. (Amount not yet known: Playpass will set
+      it for us, but it will be around 0.50euro)
+    question: >-
+      SO, CAN I RECOVER THE MONEY REMAINING ON THE WRISTBAND WHEN I LEAVE THE
+      FESTIVAL?
+  - answer: >-
+      No limit. Sky is the limit.
+
+
+      For your own safety the maximum amount you can recharge at once is 450
+      euros.
+    question: IS THERE A LIMIT TO THE AMOUNT I CAN RECHARGE?
+  - answer: >-
+      We do not have ATM machines for paper money at Paradise City! BUT… we do
+      have some special Paradise City ATM’s where you can charge your wristband
+      with your card. One ATM is located at our campsite (Paradise Inn) and the
+      others ATM’s are spread over the festival ground.
+    question: ARE THERE ATM'S AT PARADISE CITY?
+  - question: CAN I CHARGE MY WRISTBAND AT PARADISE INN (CAMPSITE)
 safety:
   - answer: >-
       There is a first aid station permanently present on site, clearly marked
@@ -198,4 +243,4 @@ others:
       info-point. They will help you further.
     question: 'I''VE LOST MY BELONGINGS AT THE FESTIVAL, WHAT CAN I DO?'
 ---
-Looking for info about the festival, tickets, access? You're at the right place!
+#
