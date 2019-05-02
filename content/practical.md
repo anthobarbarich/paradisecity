@@ -188,4 +188,4 @@ others:
       info-point. They will help you further.
     question: 'I''VE LOST MY BELONGINGS AT THE FESTIVAL, WHAT CAN I DO?'
 ---
-# **Practical - FAQ**
+#
