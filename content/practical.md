@@ -49,18 +49,15 @@ transport:
 
 
       ![null](/images/uploads/tableau.png)
-
-
-      **SHUTTLES**
-
-
+    question: ARE THERE BUSES?
+  - answer: >-
       This year we're working with our partner Brussels Airport who will provide
       electric shuttle busses that will bring you from the **Brussels Airport
       train station** to our doors. 
 
 
       ![](/images/uploads/tableau-–-3.png)
-    question: ARE THERE BUSES?
+    question: WILL THERE BE SHUTTLES FROM A TRAIN STATION?
 tickets:
   - answer: >-
       Seriously guys? Is it not clear enough on the website? Anyways, here’s a
