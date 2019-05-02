@@ -23,6 +23,10 @@ festival:
     question: ARE THERE LOCKERS PROVIDED AT THE FESTIVAL?
 transport:
   - answer: >-
+      Please check our page transport for this matter :
+      <https://paradisecity.be/transport>
+
+
       It goes without saying that we recommend you to use your bike or public
       transport to get to the festival. The bike racks will be lit at night.
 
