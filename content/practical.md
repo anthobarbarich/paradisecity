@@ -123,6 +123,23 @@ money:
     question: >-
       ELECTRONIC PAYMENTS WITH WRISTBAND? WHY ELECTRONIC PAYMENT? HOW DOES IT
       WORK?
+  - answer: >-
+      This year we have 3 magnificent charging options for you:
+
+
+      1. You can go to one of our cash desks, which are spread across the
+      festival ground. Here you can pay with cash or card.
+
+
+      2. Use one of our unmanned cashless top-up machines (card only) where you
+      can charge your wristband very quickly.
+
+
+      3. As from this year you can charge your wristband with our Paradise City
+      app. Just login, create/link your account, add your payment method
+      (Payconiq, VISA, etc) and you’re good to go. More information about the
+      app can be found soon on our website and at the festival itself.
+    question: HOW DO I CHARGE MY PARADISE CITY WRISTBAND DURING THE FESTIVAL?
 safety:
   - answer: >-
       There is a first aid station permanently present on site, clearly marked
