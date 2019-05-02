@@ -22,20 +22,7 @@ Before entering the centre of Perk you will be able to access a protected parkin
 
 This year we're working with our partner Brussels Airport who will provide electric shuttle busses that will bring you from the **Brussels Airport train station** to our doors. 
 
-**Friday**
-
-Departure : Between 14:00 - 17:00\
-Return : Between 22:30 - 00:00
-
-**Saturday**
-
-Departure : Between 12:00 - 16:00\
-Return : Between 22:30 - 00:00
-
-**Sunday** 
-
-Departure : Between 12:00 - 16:00\
-Return : Between 21:30 - 23:30
+![](/images/uploads/tableau-–-2.png)
 
 ## BY BUS
 
@@ -44,7 +31,7 @@ Dear citizen,
 We’re happy to see you will make use of our bus services. 
 Here are the schedules for the weekend. Please make sure you are present at least 15 minutes before departure.
 
-![null](/images/uploads/tabeau.png)
+![null](/images/uploads/tableau.png)
 
 You need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>
 
