@@ -70,8 +70,7 @@ tickets:
       with your BF).
 
 
-      If you want to sell your ticket to a friend, no problem. If you want to
-      change or cancel a ticket you’ve bought, that’s fine too.
+      If you want to sell your ticket to a friend, no problem.
     question: CAN I SHARE MY WEEKEND TICKET WITH A FRIEND?
   - answer: >-
       You can buy tickets for someone else. Note that there is a limit of 10
