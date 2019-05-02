@@ -95,9 +95,7 @@ We’re happy to see you will make use of our bus services.
 
 Here are the schedules for the weekend. Please make sure you are present 15 minutes before departure.
 
-![](/images/uploads/capture-d’écran-2019-05-02-à-11.23.25.png)
-
-
+![null](/images/uploads/capture-d’écran-2019-05-02-à-11.23.25-copie.jpg)
 
 You need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>
 
