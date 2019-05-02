@@ -22,7 +22,7 @@ Before entering the centre of Perk you will be able to access a protected parkin
 
 This year we're working with our partner Brussels Airport who will provide electric shuttle busses that will bring you from the **Brussels Airport train station** to our doors. 
 
-![](/images/uploads/tableau-–-2.png)
+![null](/images/uploads/tableau-–-3.png)
 
 ## BY BUS
 
