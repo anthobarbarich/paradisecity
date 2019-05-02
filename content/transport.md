@@ -27,19 +27,16 @@ This year we're working with our partner Brussels Airport who will provide elect
 **Friday**
 
 Departure : Between 14:00 - 17:00  
-
 Return : Between 22:30 - 00:00
 
 **Saturday**
 
 Departure : Between 12:00 - 16:00  
-
 Return : Between 22:30 - 00:00
 
 **Sunday** 
 
 Departure : Between 12:00 - 16:00  
-
 Return : Between 21:30 - 23:30
 
 
