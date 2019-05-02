@@ -105,10 +105,10 @@ There are also busses from Vilvoorde station on Friday and Saturday: n°280.
 
 Shuttle busses from Vilvoorde will be available as well (more info soon). 
 
-**KISS & RIDE: **
+**KISS & RIDE:**
 
 Drop off point is in the Kerkdreef in Perk.
 
-**BY TAXI: **
+**BY TAXI:**
 
 Visitors coming by taxi are advised to apply the same regulations as the Kiss & ride. Taxis will be waiting outside the festival area to bring you safely home.
