@@ -347,4 +347,4 @@ others:
       word. Use your common sense and do not bring others in danger.
     question: WHAT IS ABSOLUTELY FORBIDDEN AT THE FESTIVAL?
 ---
-#
+Looking for info about the festival, tickets, access? You're at the right place!
