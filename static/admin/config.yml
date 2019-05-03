@@ -287,3 +287,27 @@ collections:
             fields:
               - {label: Question, name: question, widget: string}
               - {label: Answer, name: answer, widget: markdown}
+          - label: Application
+            name: application
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}              
+          - label: Lost & Found
+            name: lostfound
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Volunteers & Jobs
+            name: volunteers
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Press Coverage
+            name: press
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
