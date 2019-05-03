@@ -47,5 +47,8 @@ partner:
   - name: Vlam
     photo: /images/uploads/logo-big.png
     position: 'http://vlam.be/'
+  - name: Rabobank
+    photo: /images/uploads/1.-logo-rabobank.png
+    position: 'https://www.rabobank.be/'
 ---
 
