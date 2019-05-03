@@ -19,6 +19,9 @@ partner:
   - name: Studio_Brussel
     photo: /images/uploads/stubru1.png
     position: 'https://stubru.be/'
+  - name: Rabobank
+    photo: /images/uploads/1.-logo-rabobank.png
+    position: 'https://www.rabobank.be/'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
     position: 'https://www.somersbycider.com/'
@@ -47,8 +50,5 @@ partner:
   - name: Vlam
     photo: /images/uploads/logo-big.png
     position: 'http://vlam.be/'
-  - name: Rabobank
-    photo: /images/uploads/1.-logo-rabobank.png
-    position: 'https://www.rabobank.be/'
 ---
 
