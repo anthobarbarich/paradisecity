@@ -65,7 +65,11 @@ collections:
             default: green
           - label: Title
             name: title
-            wid	get: string
+            widget: string
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Body
             name: body
             widget: markdown
@@ -121,6 +125,10 @@ collections:
             name: uniqueid
             widget: hidden
             default: contact
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Title
             name: title
             widget: string
@@ -155,6 +163,10 @@ collections:
           - {label: Type, name: type, widget: hidden, default: lineup}
           - {label: Title, name: title, widget: hidden}
           - {label: Intro, name: intro, widget: hidden}
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Team
             name: team
             widget: list
@@ -197,6 +209,10 @@ collections:
             name: uniqueid
             widget: hidden
             default: transport
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Title
             name: title
             widget: string
