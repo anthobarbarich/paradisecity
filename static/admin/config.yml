@@ -236,6 +236,10 @@ collections:
             name: title
             widget: string
             default: practical
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Body
             name: body
             widget: markdown
