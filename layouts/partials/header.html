@@ -15,7 +15,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta name="description" content="{{ .Content | truncate 150 }}" />
   <meta content="{{ .Content | truncate 150 }}" property="og:description">
 	<meta property="og:url" content="https://paradisecity.be{{ .Permalink }}" />
-	<meta property="og:image" content="{{ if isset .Params "opengraph" }}{{ index .Params "opengraph" }}{{else}}https://paradisecity.be/images/opengraph3.jpg{{ end }}">
+	<meta property="og:image" content="{{ if isset .Params "opengraph" }}https://paradisecity.be{{ index .Params "opengraph" }}{{else}}https://paradisecity.be/images/opengraph3.jpg{{ end }}">
 	<meta property="og:image:width" content="1200" />
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="/css/normalize.css" rel="stylesheet" type="text/css">
