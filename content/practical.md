@@ -346,5 +346,21 @@ others:
       services. In cases of discussion, the festival manager always has the last
       word. Use your common sense and do not bring others in danger.
     question: WHAT IS ABSOLUTELY FORBIDDEN AT THE FESTIVAL?
+application:
+  - answer: 'Yes, on the Apple Store and Play Store (Android) soon.'
+    question: CAN I DOWNLOAD AN OFFICIAL APP?
+lostfound:
+  - answer: >-
+      The police of Steenokkerzeel will centralize everything. Contact the
+      info-point. They will help you further.
+    question: 'I''VE LOST MY BELONGINGS AT THE FESTIVAL, WHAT CAN I DO?'
+volunteers:
+  - answer: 'Yes, send your motivation to nick@paradisecity.be (subject: volunteering)'
+    question: DO YOU HIRE VOLUNTEERS?
+press:
+  - answer: >-
+      Send an email to ann@pravdapressroom.com and/or tom@pravdapressroom.com
+      (Object: Paradise City Festival)
+    question: HOW CAN I CONTACT YOU FOR PRESS-RELATED QUESTIONS?
 ---
 Looking for info about the festival, tickets, access? You're at the right place!
