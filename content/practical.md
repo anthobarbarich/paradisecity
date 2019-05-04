@@ -2,6 +2,7 @@
 uniqueid: practical
 type: practical
 title: Practical - FAQ
+opengraph: /images/uploads/b64i708.jpg
 festival:
   - answer: >-
       * You can check-in on Friday from 14.00h and check-out until 01.00h. 
