@@ -269,8 +269,8 @@ camping:
       needs (hospitality desk), and the security will also look after you.
     question: ARE THERE CAMPING FACILITIES INCLUDED?
   - answer: >-
-      Check-in: Continuously from Friday June 29th, starting at 14.00h.
-      Check-out: Monday, July 2nd, before 11h00.
+      Check-in: Continuously from Friday July 5th, starting at 14.00h.
+      Check-out: Monday, July 8th, before 11h00.
     question: OPENING HOURS?
   - answer: 'Only at the festival, sorry.'
     question: ARE THERE LOCKERS ON THE CAMPSITES?
