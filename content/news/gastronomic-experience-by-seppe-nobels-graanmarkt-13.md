@@ -23,13 +23,13 @@ Take pleasure in the gastronomic experience, which is a 5-course meal with accom
 
 ## Food Corner dishes
 
-* Steak tartare made with red beets and garum, steak chips, watercress, elderberry capers, parsley mayonnaise, egg yolk, shallots and gherkins 
+* Steak tartare made of red beets and garum, steak chips, watercress, elderberry capers, parsley mayonnaise, egg yolk, shallots and gherkins 
 
-Veggie option: Open lasagne made with turnip cabbage, young spinach and sweet potatoes ‘Lemon thyme béchamel’
+Vegan option: Open lasagne made with turnip cabbage, young spinach and sweet potatoes ‘Lemon thyme béchamel’
 
 * Ceviche made with North Sea fish, sweet potato, maize, puffed maize, sesame, coriander, red onions and chili ‘Leche de tigre Malinois’
 
-Veggie option: Roasted pumpkin, summer purslane, lime zest, pistachios and pistachio oil, BBQ pumpkin cream, za’athar and goat cheese from Lokeren
+Vegan option: Roasted pumpkin, summer purslane, lime zest, pistachios and pistachio oil, BBQ pumpkin cream, za’athar and goat cheese from Lokeren
 
 * Belgian cone with crispy green asparagus chips in sourdough crumbs, Belgian pickle powder, mustard seeds, pickled shallots, garden cress and basil mayonnaise
 * Taco, chili con veggie with roasted maize, red beans from Leuven, sour cream and fermented chili
