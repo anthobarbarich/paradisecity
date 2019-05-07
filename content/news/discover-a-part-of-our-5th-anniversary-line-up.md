@@ -31,7 +31,7 @@ Does **Daphni** really need an introduction? Member and singer of the emblematic
 
 We also welcome **Nosedrip** this year, a young Belgian who is rapidly gaining notoriety thanks to the quality of his sets. He mixes and moves from one style to another: from new age, new wave, French psych to minimal synth and post-punk. We can only advise everyone to come and discover his selector talents on Friday on the _Under My Garage_ stage. The American **Eris Drew** will follow just after to remind us that "Music has been here since the beginning", be sure to check out her "[Art of DJing](https://www.residentadvisor.net/features/3352)" by _Resident Advisor._
 
-Finally, Paradise City will present its very first resident: **Lola Haro**. Lola is a 21-year-old young Antwerp woman with a real talent for digging. She spends her days at Wally's Groove World, one of Antwerp's most famous vinyl stores. She finds real treasures in all styles of music. Displaying remarkable skill, she produces energetic sets, full of good vibes. Come and discover on the _Play Label Records_ stage on Saturday!
+Finally, Paradise City will present its very first resident: **Lola Haro**. Lola is a 21-year-old  Antwerp woman with a real talent for digging. She spends her days at Wally's Groove World, one of Antwerp's most famous vinyl stores. She finds real treasures in all styles of music. Displaying remarkable skill, she produces energetic sets, full of good vibes. Come and discover on the _Play Label Records_ stage on Saturday!
 
 ## Live performances
 
