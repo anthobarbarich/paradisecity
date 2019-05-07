@@ -269,10 +269,6 @@ camping:
       needs (hospitality desk), and the security will also look after you.
     question: ARE THERE CAMPING FACILITIES INCLUDED?
   - answer: >-
-      Yes, here: https://paradisecity.be/book-hotel-festival/ and we have great
-      deals with shuttle included.
-    question: ARE THERE HOTEL OPTIONS?
-  - answer: >-
       Check-in: Continuously from Friday June 29th, starting at 14.00h.
       Check-out: Monday, July 2nd, before 11h00.
     question: OPENING HOURS?
