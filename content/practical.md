@@ -241,7 +241,7 @@ camping:
 
       No worries, we’ve got you covered: meet our circular camping where each
       camper has the opportunity to rent recycled camping gear! How cool is
-      that? https://paradisecity.be/meet-paradise-circular-inn/ 
+      that? 
 
 
       To access the campsite, you must be in possession of a valid camping
