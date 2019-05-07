@@ -180,8 +180,8 @@ money:
   - answer: >-
       We do not have ATM machines for paper money at Paradise City! BUT… we do
       have some special Paradise City ATM’s where you can charge your wristband
-      with your card. One ATM is located at our campsite (Paradise Inn) and the
-      others ATM’s are spread over the festival ground.
+      with your card. One ATM is located at our campsite and the others ATM’s
+      are spread over the festival ground.
     question: ARE THERE ATM'S AT PARADISE CITY?
   - answer: >-
       Yes you can! There will be a Paradise City ATM located at Paradise Inn, so
