@@ -184,10 +184,10 @@ money:
       are spread over the festival ground.
     question: ARE THERE ATM'S AT PARADISE CITY?
   - answer: >-
-      Yes you can! There will be a Paradise City ATM located at Paradise Inn, so
+      Yes you can! There will be a Paradise City ATM located at the campsite, so
       you are able to charge your wristband all day and all night during your
       stay.
-    question: CAN I CHARGE MY WRISTBAND AT PARADISE INN (CAMPSITE)?
+    question: CAN I CHARGE MY WRISTBAND AT THE CAMPSITE?
   - answer: "Every time you leave Paradise City and you want to come back the same day, you’ll have to check yourself out at the exit. This can be done easily: scan your wristband on the black boxes found at the exit, and the trick is done. \n\nIt is your responsibility to check yourself out! Failing to do so may give you problems when checking back in the same day. \n\nOnce you are ready to go to sleep, at the end of a beautiful day full of partying, you can exit the festival without checking yourself – we will reset all access control and you can scan your wristband the next day, if you bought a ticket of course… \U0001F609"
     question: DO I NEED TO CHECK-OUT EVERY TIME I LEAVE THE FESTIVAL?
 safety:
