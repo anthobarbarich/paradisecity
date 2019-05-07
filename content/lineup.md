@@ -67,13 +67,13 @@ team:
     soundcloud: soundcloud.com/axelhaube
     time: '00:00'
   - day: Friday
-    end: '19:30'
+    end: '16:30'
     linkartist: 'https://www.facebook.com/belbenmusic/'
     name: Belben
     photo: /images/uploads/square-belben-–-16-copie.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/belben'
-    time: '18:30'
+    time: '15:00'
   - day: Friday
     end: '18:30'
     linkartist: 'https://www.facebook.com/Bjeor/'
@@ -422,13 +422,13 @@ team:
     soundcloud: 'https://soundcloud.com/giegling'
     time: '15:30'
   - day: Friday
-    end: '17:00'
+    end: '18:00'
     linkartist: 'https://www.facebook.com/sedeffadasi/'
     name: Sedef Adasi
     photo: /images/uploads/square-sedef-adasi-–-9-copie.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/sedefadasi'
-    time: '15:00'
+    time: '16:30'
   - day: Saturday
     end: '14:30'
     linkartist: 'https://www.facebook.com/deejaysheherazade/'
@@ -470,13 +470,13 @@ team:
     soundcloud: 'https://soundcloud.com/stereoclip'
     time: '15:30'
   - day: Friday
-    end: '18:30'
+    end: '19:30'
     linkartist: 'https://www.facebook.com/supreemsmusic/'
     name: Supreems
     photo: /images/uploads/square-supreems-–-6-copie.jpg
     position: Love
     soundcloud: 'https://soundcloud.com/supreems'
-    time: '17:00'
+    time: '18:00'
   - day: Saturday
     end: '15:10'
     linkartist: 'https://www.facebook.com/tessa.dixson'
