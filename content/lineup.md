@@ -201,6 +201,11 @@ team:
     photo: /images/uploads/square-eli-verveine-–-42-copie.jpg
     position: Giegling
     soundcloud: 'https://soundcloud.com/eli-verveine'
+  - day: Saturday
+    end: '15:16'
+    name: Elli
+    photo: /images/uploads/square-elli–-29.jpg
+    position: Giegling
   - day: Friday
     end: '20:30'
     linkartist: 'https://www.facebook.com/ErisDrewPrairieState/'
@@ -524,10 +529,5 @@ team:
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/vaalofficial'
     time: '17:00'
-  - day: Saturday
-    end: '15:16'
-    name: Elli
-    photo: /images/uploads/square-elli–-29.jpg
-    position: Giegling
 ---
 
