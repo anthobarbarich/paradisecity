@@ -524,5 +524,10 @@ team:
     position: Nico Morano & Friends
     soundcloud: 'https://soundcloud.com/vaalofficial'
     time: '17:00'
+  - day: Saturday
+    end: '15:16'
+    name: Elli
+    photo: /images/uploads/square-elli–-29.jpg
+    position: Giegling
 ---
 
