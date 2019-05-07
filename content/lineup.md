@@ -203,9 +203,11 @@ team:
     soundcloud: 'https://soundcloud.com/eli-verveine'
   - day: Saturday
     end: '15:16'
+    linkartist: 'https://www.facebook.com/Giegling-199483106732919/'
     name: Elli
     photo: /images/uploads/square-elli–-29.jpg
     position: Giegling
+    soundcloud: 'https://soundcloud.com/vodkast12/elli-chriso'
   - day: Friday
     end: '20:30'
     linkartist: 'https://www.facebook.com/ErisDrewPrairieState/'
