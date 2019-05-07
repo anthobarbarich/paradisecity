@@ -20,7 +20,7 @@ partner:
     photo: /images/uploads/stubru1.png
     position: 'https://stubru.be/'
   - name: Rabobank
-    photo: /images/uploads/1.-logo-rabobank.png
+    photo: /images/uploads/rabobank-logo-png.png
     position: 'https://www.rabobank.be/'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
@@ -34,10 +34,6 @@ partner:
   - name: Eventication
     photo: /images/uploads/aca5f813-6bbe-468f-ae9a-7ccbf780d95c-1.png
     position: 'https://www.eventication.com/'
-  - name: Klimaat_Neutraal
-    photo: /images/uploads/label-klimaatneutraal-vlaamsbrabant-015.png
-    position: >-
-      https://www.vlaamsbrabant.be/wonen-milieu/milieu-en-natuur/vlaams-brabant-klimaatneutraal/index.jsp
   - name: TAO
     photo: /images/uploads/tao-300x200-1-.png
     position: 'https://www.taodrinks.com/'
