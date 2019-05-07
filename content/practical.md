@@ -256,7 +256,7 @@ camping:
       order your camping ticket, a camping upgrade is available.
     question: IS MY CAMPING TICKET INCLUDED IN MY FESTIVAL TICKET?
   - answer: >-
-      On our camping you can take a hot shower and use toilets. You will also
+      On our campsite you can take a hot shower and use toilets. You will also
       find what you need to do your dishes and recycle your waste!
 
 
