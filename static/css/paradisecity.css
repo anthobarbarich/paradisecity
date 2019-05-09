@@ -2317,7 +2317,7 @@ a.blogthumb.w-inline-block {
 
 @font-face {
     font-family: 'Akrobat';
-    src: url('../fonts/Akrobat-Black.otf') format('opentype');
+    src: url('../fonts/Akrobat-Black.woff2') format("woff2"),url('../fonts/Akrobat-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
 }
