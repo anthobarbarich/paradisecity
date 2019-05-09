@@ -44,7 +44,8 @@ team:
     position: Love
     soundcloud: 'https://soundcloud.com/attari'
     time: '16:00'
-  - end: '10:45'
+  - day: Saturday
+    end: '10:45'
     linkartist: 'https://www.facebook.com/ATEQ-555644307841253/'
     name: Ateq
     photo: /images/uploads/square-ateq-–-31-copie.jpg
