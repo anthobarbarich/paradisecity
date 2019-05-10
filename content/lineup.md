@@ -488,7 +488,7 @@ team:
   - day: Saturday
     end: '15:10'
     linkartist: 'https://www.facebook.com/tessa.dixson'
-    name: Tessa Dixon
+    name: Tessa Dixson
     photo: /images/uploads/square-tessa-dixon-–-8-copie.jpg
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/tessadixson'
