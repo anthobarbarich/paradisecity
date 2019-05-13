@@ -331,20 +331,6 @@ team:
     position: Play Label
     soundcloud: 'https://soundcloud.com/maxtelaer'
     time: '18:00'
-  - day: Saturday
-    end: '01:00'
-    linkartist: 'https://www.facebook.com/maxtelaer/'
-    name: Giegling DJ's
-    position: Giegling
-    soundcloud: 'https://soundcloud.com/maxtelaer'
-    time: '12:00'
-  - day: Sunday
-    end: '23:00'
-    linkartist: 'https://www.facebook.com/maxtelaer/'
-    name: Giegling DJ's
-    position: Giegling
-    soundcloud: 'https://soundcloud.com/maxtelaer'
-    time: '12:00'
   - day: Friday
     end: '01:00'
     linkartist: 'https://www.facebook.com/maxtelaer/'
@@ -527,5 +513,50 @@ team:
     name: L'impératrice
     position: Paradise City Live
     time: '20:10'
+  - day: Saturday
+    end: '16:00'
+    name: Elli
+    position: Giegling
+    time: '14:00'
+  - day: Saturday
+    end: '18:00'
+    name: dwig live
+    position: Giegling
+    time: '16:00'
+  - day: Saturday
+    end: '20:00'
+    name: Molly
+    position: Giegling
+    time: '18:00'
+  - day: Saturday
+    end: '22:00'
+    name: Edward
+    position: Giegling
+    time: '20:00'
+  - day: Saturday
+    end: '01:00'
+    name: Ateq
+    position: Giegling
+    time: '22:00'
+  - day: Sunday
+    end: '16:00'
+    name: eli verveine
+    position: Giegling
+    time: '14:00'
+  - day: Sunday
+    end: '18:00'
+    name: map.ache live
+    position: Giegling
+    time: '16:00'
+  - day: Sunday
+    end: '20:00'
+    name: dustin
+    position: Giegling
+    time: '18:00'
+  - day: Sunday
+    end: '22:00'
+    name: leafar legov live
+    position: Giegling
+    time: '20:00'
 ---
 
