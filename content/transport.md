@@ -20,9 +20,9 @@ Before entering the centre of Perk you will be able to access a protected parkin
 
 ## BY TRAIN
 
-This year we're working with our partner Brussels Airport who will provide electric shuttle busses that will bring you from the **Brussels Airport train station** to our doors. 
+This year we're working with our partner **Brussels Airport** who will provide electric shuttle busses that will bring you from the **Vilvoorde train station** to our doors. After the festival the shuttle will bring you to **Brussels Airport train station.**
 
-![null](/images/uploads/tableau-–-3.png)
+![null](/images/uploads/tableau-–-2434.png)
 
 ## BY BUS
 
@@ -31,8 +31,6 @@ There will be buses coming from different cities in Belgium, here are the schedu
 You need to buy a ticket for these busses: <https://shop.paylogic.com/122150/17501/add-ons>
 
 ![null](/images/uploads/tableau.png)
-
-
 
 ## BY CARPOOLING
 
