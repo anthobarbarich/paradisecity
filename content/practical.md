@@ -61,7 +61,7 @@ transport:
       **Brussels Airport train station**.
 
 
-      ![null](/images/uploads/tableau-–-2.png)
+      ![null](/images/uploads/tableau-–-2434.png)
     question: SHUTTLES FROM A TRAIN STATION
 tickets:
   - answer: >-
