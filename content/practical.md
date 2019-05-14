@@ -285,8 +285,7 @@ others:
       Bad temper. Seriously, Paradise City is about gathering happy and
       optimistic people, so mutual respect and respect for the environment is
       essential to be a good Citizen. We have zero tolerance on violence and
-      intimidating behaviour, discrimination and sexual intimidation. (And that
-      should not be a surprise to a real Citizen!)
+      intimidating behaviour, discrimination and sexual intimidation. 
 
 
       Weapons, knife, glass, spray cans, cans, fireworks and umbrellas are not
