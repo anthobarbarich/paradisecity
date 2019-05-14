@@ -164,8 +164,7 @@ money:
 
 
       Note: If you would like to get a refund, please be aware that there will
-      be a small service fee charged. (Amount not yet known: Playpass will set
-      it for us, but it will be around 0.50euro)
+      be a small service fee charged.
     question: >-
       SO, CAN I RECOVER THE MONEY REMAINING ON THE WRISTBAND WHEN I LEAVE THE
       FESTIVAL?
