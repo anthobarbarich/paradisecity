@@ -88,9 +88,8 @@ tickets:
       Just so you know.
     question: IS THERE A TICKET OFFICE  AT THE FESTIVAL?
   - answer: >-
-      No honey, stop dreaming. You can buy your tickets for the afterparty for
-      Sunday. Also many unofficial afterparties are happening in Perk on Friday
-      and Saturday.
+      You can buy your tickets for the afterparty for Sunday. Also many
+      unofficial afterparties are happening in Perk on Friday and Saturday.
     question: DOES MY TICKET TAKE ME TO THE AFTERPARTY?
   - answer: >-
       Nope! Everybody’s welcome at Paradise City Festival and kids below 12
