@@ -204,9 +204,8 @@ camping:
 
 
       Paradise City is the first festival offering a comfortable and super
-      sustainable camping experience. We recommend people not to bring their own
-      tents but use ours, you can reserve one on our webshop.
-      (https://shop.paylogic.com/124808/17501/accommodation)
+      sustainable camping experience. You can rent a tent on our
+      webshop.(https://shop.paylogic.com/124808/17501/accommodation)
 
 
       If you decide to bring your own, you’ll have to pay a warranty. At the end
