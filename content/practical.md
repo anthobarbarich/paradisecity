@@ -229,10 +229,6 @@ camping:
 
       To access the campsite, you must be in possession of a valid camping
       wristband. You will receive your wristband at the campsite cash register.
-
-
-      Don’t forget to bring your ID! No ID = no entry! One ticket is valid for
-      one entrance per person.
     question: WHERE TO STAY DURING THE FESTIVAL?
   - answer: >-
       Only on Holiday tickets. Not on Day and Weekend tickets. If you forgot to
