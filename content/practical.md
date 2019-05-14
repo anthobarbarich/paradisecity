@@ -76,7 +76,7 @@ tickets:
 
 
       If you want to sell your ticket to a friend, no problem.
-    question: CAN I SHARE MY WEEKEND TICKET WITH A FRIEND?
+    question: CAN I SHARE MY TICKET WITH A FRIEND?
   - answer: >-
       You can buy tickets for someone else. Note that there is a limit of 10
       tickets per order.
