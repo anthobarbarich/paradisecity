@@ -160,15 +160,6 @@ money:
       are left on your wristband to a good cause.
 
 
-
-
-      And no worries, there is no GPS tracking device placed in your wristband,
-      so the Paradise City Big Brother crew won’t be able to track you down.
-      But… this is on our to-do-list for our edition in 2084. 
-
-
-
-
       Note: If you would like to get a refund, please be aware that there will
       be a small service fee charged. (Amount not yet known: Playpass will set
       it for us, but it will be around 0.50euro)
