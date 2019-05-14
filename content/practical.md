@@ -62,8 +62,8 @@ transport:
     question: SHUTTLES FROM A TRAIN STATION
 tickets:
   - answer: >-
-      Seriously guys? Is it not clear enough on the website? Anyways, here’s a
-      link: [www.paradisecity.be/tickets](www.paradisecity.be/tickets)
+      Here’s a link to our ticketshop:
+      [www.paradisecity.be/tickets](www.paradisecity.be/tickets)
     question: WHERE CAN I BUY TICKETS?
   - answer: >-
       Yes of course… if you don’t go. The ticket doesn’t have to be registered
