@@ -324,7 +324,21 @@ lostfound:
       info-point. They will help you further.
     question: 'I''VE LOST MY BELONGINGS AT THE FESTIVAL, WHAT CAN I DO?'
 volunteers:
-  - answer: 'Yes, send your motivation to nick@paradisecity.be (subject: volunteering)'
+  - answer: >-
+      Yes we do!
+
+
+      Do you want to be part of the Paradise City community and to help and
+      build our cozy little festival? Without our 650 volunteers Paradise City
+      would not exist. It is together that we create this unique and sustainable
+      party on the grounds of the castle of Ribaucourt.  
+
+
+      If this sounds like something for you, sing-up here:
+      https://www.eventication.com/events/paradise-city-2019
+
+
+      You’re in for a memorable experience.
     question: DO YOU HIRE VOLUNTEERS?
 press:
   - answer: >-
