@@ -102,6 +102,11 @@ tickets:
 
       Please mind their ears and provide protection for the younger once. We
       have free earplugs available at the festival.
+
+
+      Although Paradise City is free for kids under 12, please be aware that the
+      festival has been conceived for adults. And activities for children are
+      limited.
     question: IS THERE A MINIMUM AGE?
 money:
   - answer: >-
