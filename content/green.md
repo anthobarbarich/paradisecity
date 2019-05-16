@@ -102,7 +102,7 @@ steps:
         </div>
         <div class="block50">
           <h3 class="section-heading">What you cannot do / use or bring</h3>
-          <div class="txtblock green page">	✓	do not pee on the land, use the provided toilets.<br>do not litter on the land, use the provided bins.<br>	✓	do not throw cigarettes butts on the floor as we recycle them, use provided ashtrays.<br>	✓	no plastic bottles for sale (you must use the reusable cups).<br>	✓	no flyering or stickering of any sort.</div>
+          <div class="txtblock green page">	✓	do not pee on the land, use the provided toilets.<br> ✓ do not litter on the land, use the provided bins.<br>	✓	do not throw cigarettes butts on the floor as we recycle them, use provided ashtrays.<br>	✓	no plastic bottles for sale (you must use the reusable cups).<br>	✓	no flyering or stickering of any sort.</div>
         </div>
       </div>
 	<br><br><br><h3 class="section-intro">To make sure we minimize our impacts, we have set a 10 steps process.
