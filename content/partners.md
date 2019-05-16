@@ -1,30 +1,33 @@
 ---
 uniqueid: partners
 partner:
-  - name: Metro_B
-    photo: /images/uploads/metro-logonlrvb.jpg
-    position: 'http://www.metrotime.be/'
-  - name: Metro_G
-    photo: /images/uploads/metro-logo_frrvb.jpg
-    position: 'http://www.metrotime.be/'
   - name: Ginette
     photo: /images/uploads/ginette-knipoog-logo.png
     position: 'https://www.ginettebeer.com/'
+  - name: Studio_Brussel
+    photo: /images/uploads/stubru1.png
+    position: 'https://stubru.be/'
   - name: Brussels Airport
     photo: /images/uploads/brussels-airport_baseline_rgb-copie.png
     position: 'https://www.brusselsairport.be'
   - name: DWNTWN
     photo: /images/uploads/logo-noir.png
     position: 'https://www.dwntwn.be/'
-  - name: Studio_Brussel
-    photo: /images/uploads/stubru1.png
-    position: 'https://stubru.be/'
+  - name: Metro_B
+    photo: /images/uploads/metro-logonlrvb.jpg
+    position: 'http://www.metrotime.be/'
+  - name: Metro_G
+    photo: /images/uploads/metro-logo_frrvb.jpg
+    position: 'http://www.metrotime.be/'
   - name: Rabobank
     photo: /images/uploads/rabobank-logo-png.png
     position: 'https://www.rabobank.be/'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
     position: 'https://www.somersbycider.com/'
+  - name: Fritz Kola
+    photo: /images/uploads/fritzkola.png
+    position: 'https://www.fritz-kola.de'
   - name: Aperol_Sprit
     photo: /images/uploads/aperol_logo_v2.png
     position: 'https://www.aperol.com/spritz-ritual'
