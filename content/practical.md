@@ -241,9 +241,9 @@ camping:
       find what you need to do your dishes and recycle your waste!
 
 
-      Hungry after a day of partying? Breakfast is available at the camping: on
-      Saturday and Sunday from 08.00h till 12.00h and on Monday from 08.00h
-      until 11.00h. 
+      Hungry after a day of partying? Breakfast is available on the island at
+      Brasserie 2050: on Saturday and Sunday from 08.00h till 12.00h and on
+      Monday from 08.00h until 11.00h. 
 
 
       Our camping crew will be at your disposal to answer all your questions and
@@ -253,7 +253,7 @@ camping:
       Check-in: Continuously from Friday July 5th, starting at 14.00h.
       Check-out: Monday, July 8th, before 11h00.
     question: OPENING HOURS?
-  - answer: 'Only at the festival, sorry.'
+  - answer: Yes there will be lockers on the campsite.
     question: ARE THERE LOCKERS ON THE CAMPSITES?
 others:
   - answer: >-
