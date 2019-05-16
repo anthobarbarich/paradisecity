@@ -13,15 +13,15 @@ partner:
   - name: DWNTWN
     photo: /images/uploads/logo-noir.png
     position: 'https://www.dwntwn.be/'
+  - name: Rabobank
+    photo: /images/uploads/rabobank-logo-png.png
+    position: 'https://www.rabobank.be/'
   - name: Metro_B
     photo: /images/uploads/metro-logonlrvb.jpg
     position: 'http://www.metrotime.be/'
   - name: Metro_G
     photo: /images/uploads/metro-logo_frrvb.jpg
     position: 'http://www.metrotime.be/'
-  - name: Rabobank
-    photo: /images/uploads/rabobank-logo-png.png
-    position: 'https://www.rabobank.be/'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
     position: 'https://www.somersbycider.com/'
