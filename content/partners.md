@@ -22,6 +22,9 @@ partner:
   - name: Metro_G
     photo: /images/uploads/metro-logo_frrvb.jpg
     position: 'http://www.metrotime.be/'
+  - name: FOCUS
+    photo: /images/uploads/focusvif_zw.jpg
+    position: 'https://focus.levif.be/culture/'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
     position: 'https://www.somersbycider.com/'
