@@ -423,12 +423,6 @@ team:
     position: Paradise City Live
     soundcloud: 'https://soundcloud.com/sheherazadevannuijs'
     time: '13:30'
-  - day: Saturday
-    end: 'MASTER OF CEREMONY -'
-    linkartist: 'https://www.facebook.com/sheridandj/'
-    name: Sheridan
-    photo: /images/uploads/square-sheridan-–-41-copie.jpg
-    position: Paradise City Live
   - day: Friday
     end: '01:00'
     linkartist: 'https://www.facebook.com/skatebard/'
@@ -437,6 +431,41 @@ team:
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/skatebard'
     time: '23:30'
+  - day: Saturday
+    end: '13:30'
+    linkartist: 'https://www.facebook.com/skatebard/'
+    name: Sheridan
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/skatebard'
+    time: '12:00'
+  - day: Saturday
+    end: '15:40'
+    linkartist: 'https://www.facebook.com/skatebard/'
+    name: Sheridan
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/skatebard'
+    time: '15:10'
+  - day: Saturday
+    end: '18:30'
+    linkartist: 'https://www.facebook.com/skatebard/'
+    name: Sheridan
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/skatebard'
+    time: '18:00'
+  - day: Saturday
+    end: '20:10'
+    linkartist: 'https://www.facebook.com/skatebard/'
+    name: Sheridan
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/skatebard'
+    time: '19:30'
+  - day: Saturday
+    end: '22:10'
+    linkartist: 'https://www.facebook.com/skatebard/'
+    name: Sheridan
+    position: Paradise City Live
+    soundcloud: 'https://soundcloud.com/skatebard'
+    time: '21:30'
   - day: Sunday
     end: '20:00'
     linkartist: 'https://www.facebook.com/stavrozmusic/'
