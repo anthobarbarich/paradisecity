@@ -23,7 +23,7 @@ partner:
     photo: /images/uploads/metro-logo_frrvb.jpg
     position: 'http://www.metrotime.be/'
   - name: FOCUS
-    photo: /images/uploads/fcs.png
+    photo: /images/uploads/knack_72_rgb-2.png
     position: 'https://focus.levif.be/culture/'
   - name: knack
     photo: /images/uploads/helemaal-knack_rgb.png
