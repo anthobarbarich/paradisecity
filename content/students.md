@@ -1,5 +1,11 @@
 ### You're a student? Fill the form below & get a discount!
 
+Student life can be expensive so as a student we are offering you a discount on Friday July 5 tickets! 
+Join us from 14:00 to 01:00 for only 39€ instead of 59€.
+To benefit from this discount you need to be a student. We will validate this with your email address from your school/university. 
+Please fill in the following info and we’ll send you a discount code with 48 hours. 
+For more info on Paradise City visit www.paradisecity.be
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -44,3 +50,6 @@
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[5]='BIRTHDAY';ftypes[5]='birthday';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+Note: This is a 18+ event. Students below 18 years old have to be accompanied by their parents at the event. 
+
