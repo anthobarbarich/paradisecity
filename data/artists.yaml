@@ -549,7 +549,7 @@ team:
     time: '14:00'
   - day: Saturday
     end: '18:00'
-    name: dwig live
+    name: dwig (live)
     position: Giegling
     time: '16:00'
   - day: Saturday
@@ -574,17 +574,17 @@ team:
     time: '14:00'
   - day: Sunday
     end: '18:00'
-    name: map.ache live
+    name: map.ache (live)
     position: Giegling
     time: '16:00'
   - day: Sunday
     end: '20:00'
-    name: dustin
+    name: DJ dustin
     position: Giegling
     time: '18:00'
   - day: Sunday
     end: '22:00'
-    name: leafar legov live
+    name: leafar legov (live)
     position: Giegling
     time: '20:00'
 ---
