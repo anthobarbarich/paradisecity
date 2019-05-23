@@ -1,3 +1,8 @@
+---
+title: Discount for students
+---
+
+
 ### You're a student? Fill the form below & get a discount!
 
 Student life can be expensive so as a student we are offering you a discount on Friday July 5 tickets! 
