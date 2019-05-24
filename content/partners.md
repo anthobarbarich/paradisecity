@@ -52,5 +52,8 @@ partner:
   - name: Vlam
     photo: /images/uploads/logo-big.png
     position: 'http://vlam.be/'
+  - name: Focus VIF
+    photo: /images/uploads/focusvif_zw.png
+    position: 'https://focus.levif.be/culture/?cookie_check=1558687574'
 ---
 
