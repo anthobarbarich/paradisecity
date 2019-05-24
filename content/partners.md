@@ -25,9 +25,6 @@ partner:
   - name: FOCUS
     photo: /images/uploads/knack_72_rgb-2.png
     position: 'https://focus.levif.be/culture/'
-  - name: knack
-    photo: /images/uploads/helemaal-knack_rgb.png
-    position: 'https://www.knack.be'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
     position: 'https://www.somersbycider.com/'
