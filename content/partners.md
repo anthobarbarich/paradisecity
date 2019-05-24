@@ -22,9 +22,12 @@ partner:
   - name: Metro_G
     photo: /images/uploads/metro-logo_frrvb.jpg
     position: 'http://www.metrotime.be/'
-  - name: FOCUS
+  - name: FOCUS Knack
     photo: /images/uploads/knack_72_rgb-2.png
     position: 'https://focus.levif.be/culture/'
+  - name: Focus VIF
+    photo: /images/uploads/focusvif_zw.png
+    position: 'https://focus.levif.be/culture/?cookie_check=1558687574'
   - name: Somersby
     photo: /images/uploads/somersby-logo-1.png
     position: 'https://www.somersbycider.com/'
@@ -52,8 +55,5 @@ partner:
   - name: Vlam
     photo: /images/uploads/logo-big.png
     position: 'http://vlam.be/'
-  - name: Focus VIF
-    photo: /images/uploads/focusvif_zw.png
-    position: 'https://focus.levif.be/culture/?cookie_check=1558687574'
 ---
 
