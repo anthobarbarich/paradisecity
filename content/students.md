@@ -28,20 +28,19 @@ For more info on Paradise City visit www.paradisecity.be
 	<label for="mce-FNAME">Your First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
-<div class="mc-field-group size1of2">
-	<label for="mce-MMERGE6-month">Date of Birth </label>
-	<div class="datefield">
-		<span class="subfield monthfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="MMERGE6[month]" id="mce-MMERGE6-month"></span> / 
-		<span class="subfield dayfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="MMERGE6[day]" id="mce-MMERGE6-day"></span> / 
-		<span class="subfield yearfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="MMERGE6[year]" id="mce-MMERGE6-year"></span>
-        <span class="small-meta nowrap">( mm / dd / yyyy )</span>
-	</div>
-</div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Your Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
-<div class="mc-field-group">
+<div class="mc-field-group size1of2">
+	<label for="mce-MMERGE6-month">Date of Birth </label>
+	<div class="datefield">
+		<span class="subfield dayfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="DD" size="2" maxlength="2" name="MMERGE6[day]" id="mce-MMERGE6-day"></span> / 
+        <span class="subfield monthfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="MMERGE6[month]" id="mce-MMERGE6-month"></span> / 
+		<span class="subfield yearfield"><input class="datepart " type="text" pattern="[0-9]*" value="" placeholder="YYYY" size="4" maxlength="4" name="MMERGE6[year]" id="mce-MMERGE6-year"></span>
+        <span class="small-meta nowrap">( dd / mm / yyyy )</span>
+	</div>
+</div><div class="mc-field-group">
 	<label for="mce-EMAIL">Your School Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
@@ -55,7 +54,7 @@ For more info on Paradise City visit www.paradisecity.be
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[6]='MMERGE6';ftypes[6]='date';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[6]='MMERGE6';ftypes[6]='date';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
 Note: This is a 18+ event. Students below 18 years old have to be accompanied by their parents at the event.
