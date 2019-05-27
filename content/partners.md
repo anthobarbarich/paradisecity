@@ -55,5 +55,8 @@ partner:
   - name: Vlam
     photo: /images/uploads/logo-big.png
     position: 'http://vlam.be/'
+  - name: Plug RTL
+    photo: /images/uploads/logo-plugrtl-cmyk.png
+    position: 'https://www.rtlplay.be/plug'
 ---
 
