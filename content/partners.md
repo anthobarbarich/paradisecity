@@ -14,7 +14,7 @@ partner:
     photo: /images/uploads/logo-noir.png
     position: 'https://www.dwntwn.be/'
   - name: Rabobank
-    photo: /images/uploads/rabobank-logo-png.png
+    photo: /images/uploads/rabo_nl_highres_new_short-copie.jpg
     position: 'https://www.rabobank.be/'
   - name: Metro_B
     photo: /images/uploads/metro-logonlrvb.jpg
