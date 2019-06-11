@@ -16,7 +16,7 @@ This year Brussels hosts the Tour de France on Saturday 6 & 7 July during Paradi
 
 After the festival the bus shuttles will drop people at **Central Station** with a stop at **Roodebeek** for the ones who left their means of transport there.
 
-Good news, MIVB/STIB tickets will be free during the whole weekend! (6 & 7 July)
+Good news, **MIVB/STIB** tickets will be free during the whole weekend! (6 & 7 July)
 
 ![null](/images/uploads/tableau-–-333.png)
 
