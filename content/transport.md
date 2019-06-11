@@ -32,7 +32,15 @@ You need to buy a ticket for these busses: <https://shop.paylogic.com/124808/175
 
 ![null](/images/uploads/tableau.png)
 
-![null](/images/uploads/tableau-–-424234.png)
+**From Brussels**
+
+Busses from Brussels are free of charge but you need to get a ticket on our shop at 5€. That amount will be put in credits on your wristband upon your arrival at the festival. Watch out, because of the Tour the France,  our bus shuttles will leave from **Roodebeek** (accessible with Metro 1 Stockel from Central Station). 
+
+After the festival the bus shuttles will drop people at **Central Station** with a stop at **Roodebeek** for the ones who left their means of transport there.
+
+Good news, MIVB/STIB tickets will be free during the whole weekend! (6 & 7 July)
+
+![](/images/uploads/tableau-–-333.png)
 
 ## BY CARPOOLING
 
