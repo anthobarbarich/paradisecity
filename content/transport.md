@@ -36,7 +36,7 @@ You need to buy a ticket for these busses: <https://shop.paylogic.com/124808/175
 
 ![](/images/uploads/buswebsite.jpg)
 
-Busses from Brussels are free of charge, thanks to our partner **Brussels Airport**, but you still need to get a ticket on our shop at 5€. That amount will be put in credits on your wristband upon your arrival at the festival. Watch out, because of the Tour the France,  our bus shuttles will leave from **Roodebeek** (accessible with Metro 1 Stockel from Central Station). 
+Busses from Brussels are free of charge, thanks to our partner **Brussels Airport**, but you still need to get a **ticket** on our shop at 5€. That amount will be put in credits on your wristband upon your arrival at the festival. Watch out, because of the Tour the France,  our bus shuttles will leave from **Roodebeek** (accessible with Metro 1 Stockel from Central Station). 
 
 After the festival the bus shuttles will drop people at **Central Station** with a stop at **Roodebeek** for the ones who left their means of transport there.
 
