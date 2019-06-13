@@ -18,6 +18,6 @@ After the festival the bus shuttles will drop people at **Central Station** with
 
 Good news, **MIVB/STIB** tickets will be free during the whole weekend! (6 & 7 July)
 
-![null](/images/uploads/tableau-–-333.png)
+![null](/images/uploads/tableau-–-3-2-.png)
 
 <a class="w-button btcta rev" href="https://shop.paylogic.com/124808/17501/bus" target="_blank" style="position:relative"> Book your tickets </a>
