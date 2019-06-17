@@ -58,5 +58,8 @@ partner:
   - name: Plug RTL
     photo: /images/uploads/logo-plugrtl-cmyk.png
     position: 'https://www.rtlplay.be/plug'
+  - name: Disposables.bio
+    photo: /images/uploads/disposables.bio-logo-jpg.png
+    position: 'https://www.disposables.bio/en/'
 ---
 
