@@ -425,7 +425,7 @@ team:
     end: '05:00'
     linkartist: 'https://soundcloud.com/reycolino'
     name: Rey Colino
-    photo: /images/uploads/square-rey-collino-–-10-copie.jpg
+    photo: /images/uploads/square-rey-collino-–-11.jpg
     position: Under My Garage
     soundcloud: 'https://soundcloud.com/reycolino'
     time: '15:30'
