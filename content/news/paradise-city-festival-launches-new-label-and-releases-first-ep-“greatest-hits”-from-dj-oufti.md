@@ -1,8 +1,6 @@
 ---
 layout: blog
-title: >-
-  Paradise City Festival launches new label and releases first EP “Greatest
-  Hits” from DJ Oufti
+title: New music label and first release “Greatest Hits” by DJ Oufti
 date: '2019-06-18T15:29:36+02:00'
 thumbnail: /images/uploads/full.png
 ---
