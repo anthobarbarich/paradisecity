@@ -10,4 +10,4 @@ DJ Oufti, a completely unknown producer, will kick off the label with his EP “
 
 The 2 tracks are peak-time weapons for the 2019 hot & sweaty summer. Enjoy!
 
-<a class="w-button btcta rev" href="fanlink.to/PCR001D" target="_blank" style="position:relative">Pre-order here</a>
+<a class="w-button btcta rev" href="https://fanlink.to/PCR001D" target="_blank" style="position:relative">Pre-order here</a>
