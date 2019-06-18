@@ -423,11 +423,11 @@ team:
     time: '19:30'
   - day: Friday
     end: '05:00'
-    linkartist: 'https://soundcloud.com/giegling'
+    linkartist: 'https://soundcloud.com/reycolino'
     name: Rey Colino
     photo: /images/uploads/square-rey-collino-–-10-copie.jpg
     position: Under My Garage
-    soundcloud: 'https://soundcloud.com/giegling'
+    soundcloud: 'https://soundcloud.com/reycolino'
     time: '15:30'
   - day: Friday
     end: '18:00'
