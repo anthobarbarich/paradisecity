@@ -1,0 +1,15 @@
+---
+layout: blog
+title: >-
+  Paradise City Festival launches new label and releases first EP “Greatest
+  Hits” from DJ Oufti
+date: '2019-06-18T15:29:36+02:00'
+thumbnail: /images/uploads/full.png
+---
+2 weeks ahead of the 5th edition of Paradise City Festival, we are launching our label “Paradise City Records”. The label is not really part of a big strategy, one night we were listening to some unreleased tracks from a friend and we stumbled on some great music. We decided that we had to release this music instead of letting it disappear on a hard drive. And that’s basically how the label idea started. The new labels motto’s is “For your hearts, not the charts”.
+
+DJ Oufti, a completely unknown producer, will kick off the label with his EP “Greatest Hits” that contains 2 tracks: Boulets au St Greg & Hangover en La Majeur. There is not a lot we can say about DJ Oufti, only that he is a very talented producer from Liège, and he has several aliases.
+
+The 2 tracks are peak-time weapons for the 2019 hot & sweaty summer. Enjoy!
+
+Pre-order here : fanlink.to/PCR001D
