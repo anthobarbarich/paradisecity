@@ -10,13 +10,11 @@ _Imagine a restaurant where you can taste the future. A future filled with healt
 
 The concept of Brasserie 2050 was created in 2018 by **Rabobank**, partnered with MOJO, The Food Line-up and Overtreders W. The bank’s mission: Growing a better world together. As Tom van Kuyk (Rabobank’s manager of brand experience and partnerships) puts it: in 2050 we’ll be **10 billion** people on earth. In order to sustain this growing population, food production has to raise by 60% and its ecological impact has to diminish by half. It’s imperative we start cultivating, producing and eating differently. With **Brasserie 2050**, we aim to provide a large public not only to see but also taste how that can happen.
 
-![](/images/uploads/20502.jpg)
-
 ## Boeuf-Bourguignon, without the beef
 
 The menu has a variety options, ranging from bourguignon without beef and shoarma made with celeriac. Every meal is coupled with a problematic related to food such as **biodiversity** or salinizing farmlands. The meals are not only meant to tickle the festivalgoers’ taste buds, but also to **incentivize** critical thought. Maartje Nelissen of Food Line-up, responsible for the culinary concept: “After presenting the concept in the Netherlands last year, it’s great to be able to introduce it in Belgium also. Indeed, chef **Gilbert Kolff**, responsible for the menu, looks with **Seppe Nobles** for local farmers with which they can partner up, and how to best adapt the menu to the Belgian market.”
 
-
+![](/images/uploads/20502.jpg)
 
 ## Reusable restaurant
 
@@ -24,5 +22,5 @@ Next to its meals, Brasserie 2050 is also pursuing **sustainability** and lookin
 
 
 
-_Enjoy Brasserie 2050’s meals at Paradise City from Friday 5th to Sunday 7th of July 2019. _\
-_Guests can attend the restaurant without reservation on Friday from 3pm – 10pm, and on Saturday and Sunday from 9am – 10pm. _
+Enjoy Brasserie 2050’s meals at Paradise City from Friday 5th to Sunday 7th of July 2019. 
+Guests can attend the restaurant without reservation on Friday from 3pm – 10pm, and on Saturday and Sunday from 9am – 10pm.
