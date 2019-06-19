@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Brasserie 2050 : The restaurant of the future comes to Paradise City'
+title: 'Brasserie 2050 : The restaurant of the future'
 date: '2019-06-19T18:26:20+02:00'
 thumbnail: /images/uploads/20503.jpg
 ---
