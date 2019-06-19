@@ -12,7 +12,7 @@ The concept of Brasserie 2050 was created in 2018 by **Rabobank**, partnered wit
 
 ## Boeuf-Bourguignon, without the beef
 
-The menu has a variety options, ranging from bourguignon without beef and shoarma made with celeriac. Every meal is coupled with a problematic related to food such as **biodiversity** or salinizing farmlands. The meals are not only meant to tickle the festivalgoers’ taste buds, but also to **incentivize** critical thought. Maartje Nelissen of Food Line-up, responsible for the culinary concept: “After presenting the concept in the Netherlands last year, it’s great to be able to introduce it in Belgium also. Indeed, chef **Gilbert Kolff**, responsible for the menu, looks with **Seppe Nobles** for local farmers with which they can partner up, and how to best adapt the menu to the Belgian market.”
+The menu has a variety of options, ranging from bourguignon without beef and shoarma made with celeriac. Every meal is coupled with a problematic related to food such as **biodiversity** or salinizing farmlands. The meals are not only meant to tickle the festivalgoers’ taste buds, but also to **incentivize** critical thought. Maartje Nelissen of Food Line-up, responsible for the culinary concept: “After presenting the concept in the Netherlands last year, it’s great to be able to introduce it in Belgium also. Indeed, chef **Gilbert Kolff**, responsible for the menu, looks with **Seppe Nobles** for local farmers with which they can partner up, and how to best adapt the menu to the Belgian market.”
 
 ![](/images/uploads/20502.jpg)
 
