@@ -113,14 +113,6 @@ team:
     position: Love
     soundcloud: 'https://soundcloud.com/blossomculture'
     time: '14:30'
-  - day: Friday
-    end: '15:30'
-    linkartist: 'https://www.facebook.com/cabasound/'
-    name: Cabasa
-    photo: /images/uploads/square-cabasa-–-25-copie.jpg
-    position: Under My Garage
-    soundcloud: 'https://soundcloud.com/cab_asa'
-    time: '14:00'
   - day: Saturday
     end: '23:30'
     linkartist: 'https://www.facebook.com/iamcarista/'
