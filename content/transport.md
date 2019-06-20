@@ -34,7 +34,7 @@ You need to buy a ticket for these busses: <https://shop.paylogic.com/124808/175
 
 **From Brussels with Brussels Airport electric busses**
 
-![](/images/uploads/buswebsite.jpg)
+![null](/images/uploads/buswebsite.jpg)
 
 Busses from Brussels are free of charge, thanks to our partner **Brussels Airport**, but you still need to get a **ticket** on our shop at 5€. That amount will be put in credits on your wristband upon your arrival at the festival. Watch out, because of the Tour the France,  our bus shuttles will leave from **Roodebeek** (accessible with Metro 1 Stockel from Central Station). 
 
@@ -44,9 +44,9 @@ Good news, MIVB/STIB tickets will be free during the whole weekend! (6 & 7 July)
 
 ![null](/images/uploads/tableau-–-3-2-.png)
 
-## BY CARPOOLING
+## CARPOOLING
 
-There will be a carpooling partner announced soon!
+Carpooling is a greener way to commute than coming alone in your car. Please check our carpooling options with Covevent here : https://my.covevent.be/paradisecity2019
 
 ## BY CAR
 
