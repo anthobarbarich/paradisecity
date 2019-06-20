@@ -186,7 +186,14 @@ safety:
 
       The Security team is also available on and around the festival.
     question: HOW ABOUT SECURITY AND FIRST AID ON AND AROUND THE FESTIVAL PREMISES?
-  - answer: Yes and we distribute them for free. Take care of your ears!
+  - answer: >-
+      Even if we limit the decibels, think about your ears. Earplugs are
+      available for free at the information booth. We count on you to throw them
+      in the bin and not on the floor as they take forever to degrade. If you
+      are looking for reusable earplugs specially designed for listening to live
+      music, then BLOX has what you are looking for. You can find earplugs with
+      acoustic filters via their mobile team walking around the scenes. Enjoy a
+      crystal-clear sound while protecting your ears. More info on www.blox.info
     question: ARE THERE EARPLUGS ON SITE?
   - answer: 'Of course, if it’s legal medication.'
     question: CAN I BRING MY MEDICATION?
