@@ -2,7 +2,7 @@
 layout: blog
 title: Foodtrucks
 date: '2019-06-20T15:43:41+02:00'
-thumbnail: /images/uploads/screen-shot-2019-06-20-at-18.09.24.jpg
+thumbnail: /images/uploads/64683636_604000356755227_2655818616896749568_n-copie.jpg
 ---
 
 
