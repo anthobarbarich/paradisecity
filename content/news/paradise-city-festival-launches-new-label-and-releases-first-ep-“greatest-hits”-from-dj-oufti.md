@@ -10,6 +10,6 @@ thumbnail: /images/uploads/full.png
 
 The 2 tracks are peak-time weapons for the 2019 hot & sweaty summer. Enjoy!
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/638502729&color=%23f88d79&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/806675727&color=%2354245c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <a class="w-button btcta rev" href="https://fanlink.to/PCR001D" target="_blank" style="position:relative">Pre-order here</a>
