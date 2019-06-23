@@ -10,5 +10,5 @@ Get all the latest updates about the festival and personalize your timetable to 
 Download it here:
 
 
-iOS: [bit.ly/iOSAPP19](bit.ly/iOSAPP19)
-Android: [bit.ly/PlayAPP19](bit.ly/PlayAPP19)
+iOS: [https://bit.ly/iOSAPP19](bit.ly/iOSAPP19)
+Android: [https://bit.ly/PlayAPP19](bit.ly/PlayAPP19)
