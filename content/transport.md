@@ -16,7 +16,7 @@ Go to <http://fietsnet.be> and follow the junctions to our festival, from your
 
 Several parking areas will be available.
 
-In an effort to incentivize people to carpool the price for the parking will be 5€ more expensive if you arrive with less than 3 people in a car. 
+In an effort to incentivize people to **carpool** the price for the parking will be **5€ more expensive **if you arrive with** less than 3 people** in a car. 
 
 Before entering the centre of Perk you will be able to access a protected parking area on your right hand side. Follow the parking signs. The entrance of the parking is situated on the split of the Tervuursesteenweg and Perksesteenweg in Perk. 
 
