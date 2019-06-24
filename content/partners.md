@@ -32,7 +32,7 @@ partner:
     photo: /images/uploads/somersby-logo-1.png
     position: 'https://www.somersbycider.com/'
   - name: Fritz Kola
-    photo: /images/uploads/fritzkola.png
+    photo: /images/uploads/logofritz.png
     position: 'https://www.fritz-kola.de'
   - name: Aperol_Sprit
     photo: /images/uploads/aperol_logo_v2.png
