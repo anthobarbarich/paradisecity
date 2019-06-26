@@ -7,12 +7,11 @@ thumbnail: /images/uploads/payconiq1website.jpg
 As you probably know we are a cashless festival, that means you will get a wristband with a chip on it.On this chip you’ll have to load up money to be able to buy drinks and food.\
 For a seamless Paradise City experience you should consider putting credits on your personal account before the festival weekend.
 
- Just as last year we are partnering up with Payconiq by Bancontact, they will offer you 2 major advantages!
+Just as last year we are partnering up with Payconiq by Bancontact, they will offer you 2 major advantages!
 
 ##  Free credits
 
- The first one is that Payconiq by Bancontact will offer you the possibility to buy credits in advance and get free credits!
-
+The first one is that Payconiq by Bancontact will offer you the possibility to buy credits in advance and get free credits!
 This way you avoid waiting in line at the festival and you'll be able to enjoy a free cold beer.
 
 **How does it work?**
@@ -28,7 +27,6 @@ You can gain:
 \- 5 free-credits for 100 credits bought
 
 \- 10 free-credits for 150 credits bought
-
 
 
 ## No queuing at the festival
