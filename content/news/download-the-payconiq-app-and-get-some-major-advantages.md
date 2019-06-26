@@ -17,7 +17,9 @@ This way you avoid waiting in line at the festival and you'll be able to enjoy a
 **How does it work?**
 
 Create your personal account here : <a href="https://account.playpass.eu/paradise-city-2019/login">https://account.playpass.eu/paradise-city-2019/login</a>.
+
 Fill in the barcode of your ticket so that all is linked and you can charge money on your account.
+
 If you want to benefit from free credits pay with Payconiq by Bancontact and if you don’t have the Payconiq by Bancontact app yet, download it here : <a href="http://onelink.to/payconiqbe">Payconiq App</a>.
 You can gain:
 
