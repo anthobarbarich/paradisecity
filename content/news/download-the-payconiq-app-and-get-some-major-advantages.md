@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Download the Payconiq app and get some major advantages!
+title: Put credits in your wristband with Payconiqbancontact
 date: '2019-06-26T20:24:02+02:00'
 thumbnail: /images/uploads/payconiq1website.jpg
 ---
