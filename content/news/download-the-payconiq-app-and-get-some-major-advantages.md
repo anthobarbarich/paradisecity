@@ -15,7 +15,7 @@ For a seamless Paradise City experience you should consider putting credits on y
 
 This way you avoid waiting in line at the festival and you'll be able to enjoy a free cold beer.
 
-** How does it work?**
+**How does it work?**
 
 Create your personal account here : <a href="https://account.playpass.eu/paradise-city-2018/signup">https://account.playpass.eu/paradise-city-2019/login</a>.
 
