@@ -9,7 +9,7 @@ For a seamless Paradise City experience you should consider putting credits on y
 
 Just as last year we are partnering up with Payconiq by Bancontact, they will offer you 2 major advantages!
 
-##  Free credits
+## Free credits
 
 The first one is that Payconiq by Bancontact will offer you the possibility to buy credits in advance and get free credits!
 This way you avoid waiting in line at the festival and you'll be able to enjoy a free cold beer.
@@ -28,7 +28,6 @@ You can gain:
 
 \- 10 free-credits for 150 credits bought
 
-
 ## No queuing at the festival
 
 The second advantage is brand new and will change the way you enjoy our festival. Thanks to the Payconiq by Bancontact app you will be able to scan the QR code that's on your wristband's chip and directly (send money) add credits on it. No time lost queuing in line to recharge your wristband and way more time to spend on the dance floor!
@@ -38,3 +37,7 @@ Download the app here :
 <a class="w-button btcta rev" href="http://bit.ly/IOSPayconiq" target="_blank" style="position:relative">App for IOS</a>
 
 <a class="w-button btcta rev" href="http://bit.ly/PlayPayconiq" target="_blank" style="position:relative">App for Android</a>
+
+## Extra
+
+You can also win all your expenses back thanks to Payconiq by Bancontact, check out how here : <https://www.payconiq.be/nl>
