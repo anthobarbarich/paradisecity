@@ -61,5 +61,8 @@ partner:
   - name: Disposables.bio
     photo: /images/uploads/disposables.bio-logo-jpg.png
     position: 'https://www.disposables.bio/en/'
+  - name: Watergroep
+    photo: /images/uploads/de-watergroep.png
+    position: 'https://www.dewatergroep.be/nl-be/drinkwater/meterstand-ingeven'
 ---
 
