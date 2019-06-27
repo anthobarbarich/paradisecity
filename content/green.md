@@ -76,7 +76,7 @@ steps:
       title: 'CO2-Neutral '
   - step:
       description: >-
-        Camping has always been an ecological issue for festivals, meanly
+        Camping has always been an ecological issue for festivals, mainly
         regarding all the waste left over. We have been working on the problem
         since our first edition and will implement for the second time in a row
         our circular camping where each camper has the opportunity to rent
