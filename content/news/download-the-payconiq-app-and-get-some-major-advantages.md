@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Put credits in your wristband with Payconiqbancontact
+title: Put credits in your wristband with Payconiq by Bancontact
 date: '2019-06-26T20:24:02+02:00'
 thumbnail: /images/uploads/payconiq1website.jpg
 ---
