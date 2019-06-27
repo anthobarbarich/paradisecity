@@ -44,7 +44,7 @@ After the festival the bus shuttles will drop people at **Central Station** with
 
 Good news, MIVB/STIB tickets will be free during the whole weekend! (6 & 7 July)
 
-![null](/images/uploads/tableau-–-3-2-.png)
+![null](/images/uploads/tableau-–-3-4-.png)
 
 ## CARPOOLING
 
