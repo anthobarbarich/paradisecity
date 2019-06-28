@@ -39,4 +39,8 @@ All fish dishes can be served as vegetarian dishes.
 
 <a class="w-button btcta rev" href="https://shop.paylogic.com/124808/17501/tickets" target="_blank" style="position:relative">Get your ticket for the Comfort experience </a>
 
+Already have a ticket for the festival? Just upgrade to the comfort experience including the gastronomic experience.
+
+<a class="w-button btcta rev" href="https://frontoffice.paylogic.nl/?event_id=124808&point_of_sale_id=19912" target="_blank" style="position:relative">Upgrade your experience</a>
+
 ![null](/images/uploads/food1small.jpg)
