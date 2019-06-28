@@ -135,20 +135,20 @@ team:
     photo: /images/uploads/square-_dixon-–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dixon'
-    time: '20:00'
+    time: '20:30'
   - end: '10:45'
     name: dj Dustin
     photo: /images/uploads/square-dustin-–-15-copie.jpg
     position: Giegling
     soundcloud: 'https://soundcloud.com/gieglingdustin'
   - day: Sunday
-    end: '20:00'
+    end: '20:30'
     linkartist: 'https://www.facebook.com/djkoze/'
     name: DJ Koze
     photo: /images/uploads/square-koze–-1.jpg
     position: Silo
     soundcloud: 'https://soundcloud.com/dj-koze-official'
-    time: '18:00'
+    time: '18:30'
   - day: Saturday
     end: '16:40'
     linkartist: ' https://www.facebook.com/djwey/'
@@ -507,7 +507,7 @@ team:
     soundcloud: 'https://soundcloud.com/timmermantoon'
     time: '23:40'
   - day: Sunday
-    end: '18:00'
+    end: '18:30'
     linkartist: 'https://www.facebook.com/ToddTerje/'
     name: Todd Terje (Dj set)
     photo: /images/uploads/square-toddterje-–-9.jpg
