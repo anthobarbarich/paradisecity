@@ -58,17 +58,13 @@ We partnered up with **Taxis Verts**, so you can easily order a taxi via their s
 
 \- Link a credit card to your account and enter your pick-up and drop-off address
 
-\- Enter the promo code PARADISECITY and confirm your order
+\- Enter the promo code **PARADISECITY** and confirm your order
 
 This offer valid from 05/07/19 until 08/07/19 on the first ride ordered via the Taxis Verts app. 1 promo code per user. If the trip fair exceeds 15 €, the remaining amount will be charged to the users’ credit card.
-
-
 
 ## BY CARPOOLING
 
 Carpooling is a greener way to commute than coming alone in your car. Please check our carpooling options with Covevent here : https://my.covevent.be/paradisecity2019
-
-
 
 ## BY CAR
 
