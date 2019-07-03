@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Share a "Taxi Verts" and get a 15€ discount
-date: '2019-06-19T23:30:21+02:00'
+date: '2019-06-22T23:30:21+02:00'
 thumbnail: /images/uploads/taxivert1.jpg
 ---
 We partnered up with **Taxis Verts**, so you can easily order a taxi via their smartphone application. **Share a taxi with friends** and get 15 € discount on your order via the Taxis Verts’ app with promo code **PARADISECITY**.
