@@ -22,9 +22,11 @@ Before entering the centre of Perk you will be able to access a protected parkin
 
 ## BY TRAIN
 
-This year we're working with our partner **Brussels Airport** who will provide electric shuttle busses that will bring you from the **Vilvoorde train station** to our doors. After the festival the shuttle will bring you to **Brussels Airport train station.**
+This year we're working with our partner **Brussels Airport** who will provide electric shuttle busses that will bring you from the **Vilvoorde train station** to our doors. After the festival the shuttle will bring you to the **Vilvoorde train station** and then to the **Brussels Airport train station.**
 
-![null](/images/uploads/tableau-–-2434.png)
+Check the train hours here : 
+
+![null](/images/uploads/tableau-–-4.png)
 
 ## BY BUS
 
