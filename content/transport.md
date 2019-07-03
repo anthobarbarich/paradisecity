@@ -66,6 +66,8 @@ This offer valid from 05/07/19 until 08/07/19 on the first ride ordered via the 
 
 Carpooling is a greener way to commute than coming alone in your car. Please check our carpooling options with Covevent here : https://my.covevent.be/paradisecity2019
 
+
+
 ## BY CAR
 
 **Coming from Antwerp:**
