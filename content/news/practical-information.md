@@ -18,7 +18,7 @@ Create your account : <https://account.playpass.eu/paradise-city-2019/signup>
 ## Top-up thanks to Payconiq by Bancontact
 
 On the festival site you can **avoid queuing** for topping up credits on your wristband. Use the QR code on your wristband and download the **Payconiq by Bancontact** app and directly put money on your wristband. Download the app [here.](https://paradisecity.be/news/download-the-payconiq-app-and-get-some-major-advantages/)
-**On top of that you can win all your expenses back! More info : **[**www.payconic.be**](www.payconiq.be)
+**On top of that you can win all your expenses back! More info : [www.payconic.be](www.payconiq.be)**
 
 ## No need to personalize your ticket.
 
