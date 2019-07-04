@@ -6,6 +6,12 @@ thumbnail: /images/uploads/tickets_sales-petitervb.jpg
 ---
 Dear Citizens, Paradise City is just around the corner, time to share some practical information about the festival...
 
+## OPENING HOURS
+
+Friday : 14:00 - 01:00\
+Saturday : 12:00 - 01:00\
+Sunday : 12:00 - 23:00
+
 ## TOP UP YOUR CREDITS IN ADVANCE
 
 As you probably know we are a cashless festival, that means you will get a wristband with a chip on it.
