@@ -29,7 +29,7 @@ We are sorry for the hassle about personalizing your ticket. If you have not don
 There are many ways to come to Paradise City and we are asking our citizens to use a more **sustainable** way to lower our ecological footprint.
 All info about transport can be found [here.](https://paradisecity.be/transport)
 
-Watch out, for the ones coming by car, we’re trying to incentivize everyone to carpool. **Cars with less than 3 passengers will have to pay 5€ extra for their parking ticket. **
+Watch out, for the ones coming by car, we’re trying to incentivize everyone to carpool. **Cars with less than 3 passengers will have to pay 5€ extra for their parking ticket.**
 
 ![null](/images/uploads/buswebsite.jpg)
 
