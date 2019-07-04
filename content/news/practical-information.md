@@ -47,3 +47,5 @@ A small batch of weekend tickets are still available and also Friday and Sunday 
 Be aware, available tickets will be 10€ more expensive at the door. Better to buy your ticket online [here.](https://shop.paylogic.com/124808/17501/tickets)
 
 ![null](/images/uploads/tickets-sales-1-–-6-copie.jpg)
+
+We can't wait to see you in Paradise...
