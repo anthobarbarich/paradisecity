@@ -10,13 +10,13 @@ With the Tour de France happening during the weekend of 6 & 7 July in Brussels i
 
 Electric busses given by Brussels Airport will bring you from Roodebeek station to Paradise City. After the festival the bus shuttles will drop people at Central Station with a stop at Roodebeek for the ones who left their means of transport there.
 
-![](/images/uploads/tableau-–-3-4-.png)
+![null](/images/uploads/tableau-–-3-4-.png)
 
 ## BY TRAIN
 
 If option above is sold out, take a train to **Vilvoorde train station**. There will be **free shuttles** from Vilvoorde station to Paradise City. After the festival the shuttle will bring you to the **Vilvoorde train station** and then to the **Brussels Airport train station**.
 
-![](/images/uploads/tableau-–-4.png)
+![null](/images/uploads/shuttlevilvoorde.jpg)
 
 ## BY SHARED TAXI
 
