@@ -58,10 +58,10 @@ transport:
       This year we're working with our partner **Brussels Airport** who will
       provide electric shuttle busses that will bring you from the **Vilvoorde
       train station** to our doors. The return shuttles will bring you to
-      **Brussels Airport train station**.
+      **Vilvoorde train station & Brussels Airport train station**.
 
 
-      ![null](/images/uploads/tableau-–-2434.png)
+      ![null](/images/uploads/shuttlevilvoorde.jpg)
     question: SHUTTLES FROM A TRAIN STATION
 tickets:
   - answer: >-
