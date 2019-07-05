@@ -26,7 +26,7 @@ This year we're working with our partner **Brussels Airport** who will provide e
 
 Check the train hours here : 
 
-![null](/images/uploads/tableau-–-4.png)
+![null](/images/uploads/shuttlevilvoorde.jpg)
 
 ## BY BUS
 
