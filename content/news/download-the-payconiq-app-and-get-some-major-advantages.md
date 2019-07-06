@@ -14,6 +14,8 @@ Just as last year we are partnering up with Payconiq by Bancontact, they will of
 The first one is that Payconiq by Bancontact will offer you the possibility to buy credits in advance and get free credits!
 This way you avoid waiting in line at the festival and you'll be able to enjoy a free cold beer.
 
+**Offer is valid until Friday July 5th at 15:00.**
+
 **How does it work?**
 
 Create your personal account here : <a href="https://account.playpass.eu/paradise-city-2019/login">https://account.playpass.eu/paradise-city-2019/login</a>.
@@ -26,7 +28,7 @@ You can gain:
 
 \- 5 free-credits for 100 credits bought
 
-\- 10 free-credits for 150 credits bought
+## \- 10 free-credits for 150 credits bought
 
 ## No queuing at the festival
 
