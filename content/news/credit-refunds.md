@@ -12,6 +12,6 @@ You can request the refund of your remaining credits on your wristband via the f
 
 \* Please note the refunds are available until July 31st.
 
-\* Playpass charges a small fee of 0,5 euro for the refund.
+\* We charge a small fee of 0,5 euro for the refund.
 
 \* Refunds will be made within the 8 days after your request.
