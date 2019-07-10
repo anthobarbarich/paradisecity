@@ -6,4 +6,10 @@ thumbnail: /images/uploads/tickets_sales-petitervb.jpg
 ---
 Dear citizens, 
 
-The credit refund system will be online on Wednesday. More info here and on our Facebook page.
+You can request the refund of your remaining credits on your wristband via the following link: [https://refunds.playpass.eu/en/events/paradise-city-2019](<You can request the refund of your remaining credits on your wristband via the following link: https://refunds.playpass.eu/en/events/paradise-city-2019>)
+
+\* Please note the refunds are available till 31/7.
+
+\* Playpass charges a small fee of 0,5 euro for the refund.
+
+\* Refunds will be made within the 8 days after your request.
