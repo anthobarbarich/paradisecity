@@ -8,7 +8,7 @@ Dear citizens,
 
 You can request the refund of your remaining credits on your wristband via the following link: [https://refunds.playpass.eu/en/events/paradise-city-2019](<You can request the refund of your remaining credits on your wristband via the following link: https://refunds.playpass.eu/en/events/paradise-city-2019>)
 
-\* Please note the refunds are available till 31/7.
+\* Please note the refunds are available until July 31st.
 
 \* Playpass charges a small fee of 0,5 euro for the refund.
 
