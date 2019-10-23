@@ -180,10 +180,14 @@ collections:
               - {label: Soundcloud, name: soundcloud, widget: string}
               - {label: Link, name: linkartist, widget: string}
             
-      - label: "Homepage"
-        name: "index"
-        file: "content/_index.md"
+      - label: "2019"
+        name: "2019"
+        file: "content/2019.md"
         fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: 2019
           - label: UniqueId
             name: uniqueid
             widget: hidden
