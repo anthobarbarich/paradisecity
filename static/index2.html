@@ -2,8 +2,7 @@
 <html data-wf-page="5c4b1835008881d3feae796a" data-wf-site="5c34c1d2a3cd45693156a337">
 
 <head>
-	<meta name="generator" content="Hugo 0.49" />
-  
+  <!-- Google Tag Manager -->
   <script>(function (w, d, s, l, i) {
       w[l] = w[l] || []; w[l].push({
         'gtm.start':
@@ -12,16 +11,12 @@
         j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
           'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
     })(window, document, 'script', 'dataLayer', 'GTM-M4CP3V8');</script>
-  
+  <!-- End Google Tag Manager -->
   <meta charset="utf-8">
   <title>Paradise City Festival 2020 | 26, 27 & 28 June Perk, Belgium</title>
-  <meta name="description" content="2019 marks our 5th anniversary and our excitement is mounting
-to deliver the most special edition to date. The Paradise City
-recipe has been quite …" />
+  <meta name="description" content="{{ .Content | truncate 150 }}" />
   <meta content="Paradise City Festival 2020 | 26, 27 & 28 June Perk, Belgium" property="og:title">
-  <meta content="2019 marks our 5th anniversary and our excitement is mounting
-to deliver the most special edition to date. The Paradise City
-recipe has been quite …" property="og:description">
+  <meta content="{{ .Content | truncate 150 }}" property="og:description">
   <meta property="og:url" content="https://paradisecity.be" />
   <meta property="og:image" content="https://paradisecity.be/images/opengraph3.jpg">
   <meta property="og:image:width" content="1200" />
@@ -38,15 +33,18 @@ recipe has been quite …" property="og:description">
       }
     });
   </script>
-  
+  <!-- [if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif] -->
   <script type="text/javascript"
     defer>!function (o, c) { var n = c.documentElement, t = " w-mod-"; n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch") }(window, document);</script>
   <link href="images/favico.png" rel="shortcut icon" type="image/x-icon">
   <script type="text/javascript">
     !function (t, e) { "object" == typeof exports && "undefined" != typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define(e) : t.lozad = e() }(this, function () {
       "use strict"; var g = Object.assign || function (t) { for (var e = 1; e < arguments.length; e++) { var r = arguments[e]; for (var o in r) Object.prototype.hasOwnProperty.call(r, o) && (t[o] = r[o]) } return t }, n = "undefined" != typeof document && document.documentMode, l = { rootMargin: "0px", threshold: 0, load: function (t) { if ("picture" === t.nodeName.toLowerCase()) { var e = document.createElement("img"); n && t.getAttribute("data-iesrc") && (e.src = t.getAttribute("data-iesrc")), t.getAttribute("data-alt") && (e.alt = t.getAttribute("data-alt")), t.appendChild(e) } if ("video" === t.nodeName.toLowerCase() && !t.getAttribute("data-src") && t.children) { for (var r = t.children, o = void 0, a = 0; a <= r.length - 1; a++)(o = r[a].getAttribute("data-src")) && (r[a].src = o); t.load() } t.getAttribute("data-src") && (t.src = t.getAttribute("data-src")), t.getAttribute("data-srcset") && t.setAttribute("srcset", t.getAttribute("data-srcset")), t.getAttribute("data-background-image") && (t.style.backgroundImage = "url('" + t.getAttribute("data-background-image") + "')"), t.getAttribute("data-toggle-class") && t.classList.toggle(t.getAttribute("data-toggle-class")) }, loaded: function () { } };
-
-function f(t) { t.setAttribute("data-loaded", !0) } var b = function (t) { return "true" === t.getAttribute("data-loaded") }; return function () { var r, o, a = 0 < arguments.length && void 0 !== arguments[0] ? arguments[0] : ".lozad", t = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : {}, e = g({}, l, t), n = e.root, i = e.rootMargin, d = e.threshold, c = e.load, u = e.loaded, s = void 0; return window.IntersectionObserver && (s = new IntersectionObserver((r = c, o = u, function (t, e) { t.forEach(function (t) { (0 < t.intersectionRatio || t.isIntersecting) && (e.unobserve(t.target), b(t.target) || (r(t.target), f(t.target), o(t.target))) }) }), { root: n, rootMargin: i, threshold: d })), { observe: function () { for (var t = function (t) { var e = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : document; return t instanceof Element ? [t] : t instanceof NodeList ? t : e.querySelectorAll(t) }(a, n), e = 0; e < t.length; e++)b(t[e]) || (s ? s.observe(t[e]) : (c(t[e]), f(t[e]), u(t[e]))) }, triggerLoad: function (t) { b(t) || (c(t), f(t), u(t)) }, observer: s } }
+/**
+   * Detect IE browser
+   * @const {boolean}
+   * @private
+   */function f(t) { t.setAttribute("data-loaded", !0) } var b = function (t) { return "true" === t.getAttribute("data-loaded") }; return function () { var r, o, a = 0 < arguments.length && void 0 !== arguments[0] ? arguments[0] : ".lozad", t = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : {}, e = g({}, l, t), n = e.root, i = e.rootMargin, d = e.threshold, c = e.load, u = e.loaded, s = void 0; return window.IntersectionObserver && (s = new IntersectionObserver((r = c, o = u, function (t, e) { t.forEach(function (t) { (0 < t.intersectionRatio || t.isIntersecting) && (e.unobserve(t.target), b(t.target) || (r(t.target), f(t.target), o(t.target))) }) }), { root: n, rootMargin: i, threshold: d })), { observe: function () { for (var t = function (t) { var e = 1 < arguments.length && void 0 !== arguments[1] ? arguments[1] : document; return t instanceof Element ? [t] : t instanceof NodeList ? t : e.querySelectorAll(t) }(a, n), e = 0; e < t.length; e++)b(t[e]) || (s ? s.observe(t[e]) : (c(t[e]), f(t[e]), u(t[e]))) }, triggerLoad: function (t) { b(t) || (c(t), f(t), u(t)) }, observer: s } }
     });</script>
 </head>
 
@@ -98,7 +96,7 @@ function f(t) { t.setAttribute("data-loaded", !0) } var b = function (t) { retur
   </div>
   <div class="section-2">
     <div id="subscribe" class="mailchimpform w-embed">
-      
+      <!--  Begin Mailchimp Signup Form  -->
       <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
       <style type="text/css">
           #mc_embed_signup {
@@ -106,7 +104,8 @@ function f(t) { t.setAttribute("data-loaded", !0) } var b = function (t) { retur
             clear: left;
             font: 14px Helvetica, Arial, sans-serif;
           }
-           
+          /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
         </style>
       <div id="mc_embed_signup">
         <form action="https://paradisecity.us10.list-manage.com/subscribe/post?u=9385d387968c3b3102284a2c6&amp;id=24f9a4275b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
@@ -166,17 +165,17 @@ function f(t) { t.setAttribute("data-loaded", !0) } var b = function (t) { retur
               <div class="response" id="mce-error-response" style="display:none"></div>
               <div class="response" id="mce-success-response" style="display:none"></div>
             </div>
-            
+            <!--  real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
             <div style="position: absolute; left: -5000px;;" aria-hidden="true"><input type="text" name="b_9385d387968c3b3102284a2c6_24f9a4275b" tabindex="-1" value=""></div>
             <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color: #fa8d76;"></div>
           </div>
         </form>
       </div>
-      
+      <!-- End mc_embed_signup -->
     </div>
   </div>
   <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js" type="text/javascript" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="/js/paradisecity.js" type="text/javascript"></script>
-  
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
 </body>
 </html>

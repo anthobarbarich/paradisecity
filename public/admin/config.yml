@@ -65,7 +65,11 @@ collections:
             default: green
           - label: Title
             name: title
-            wid	get: string
+            widget: string
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Body
             name: body
             widget: markdown
@@ -79,7 +83,35 @@ collections:
                 fields:
                   - {label: Title, name: title, widget: string, required: false}
                   - {label: Description, name: description, widget: markdown, required: false}
-                  - {label: Image, name: img, widget: image, required: false}
+                  - {label: Image, name: img, widget: image, required: false}     
+      - label: "Practical Test"
+        name: "practicaltest"
+        file: "content/practicaltest.md"
+        fields:
+          - label: Type
+            name: type
+            widget: hidden
+            default: practical
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: practical
+          - label: Title
+            name: title
+            wid	get: string
+          - label: Body
+            name: body
+            widget: markdown
+          - label: Category
+            name: category
+            widget: list
+            fields:
+              - label: Qa
+                name: qa
+                widget: list
+                fields:
+                  - {label: Question, name: question, widget: string, required: false}
+                  - {label: Answer, name: answer, widget: markdown, required: false}
   
       - label: "Contact"
         name: "contact"
@@ -93,6 +125,10 @@ collections:
             name: uniqueid
             widget: hidden
             default: contact
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Title
             name: title
             widget: string
@@ -127,6 +163,10 @@ collections:
           - {label: Type, name: type, widget: hidden, default: lineup}
           - {label: Title, name: title, widget: hidden}
           - {label: Intro, name: intro, widget: hidden}
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Team
             name: team
             widget: list
@@ -160,6 +200,25 @@ collections:
           - label: Line-up text
             name: lineuptxt
             widget: markdown
+              
+      - label: "Transport"
+        name: "transport"
+        file: "content/transport.md"
+        fields:
+          - label: UniqueId
+            name: uniqueid
+            widget: hidden
+            default: transport
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
+          - label: Title
+            name: title
+            widget: string
+          - label: Body
+            name: body
+            widget: markdown
             
       - label: "Partners"
         name: "partners"
@@ -185,21 +244,89 @@ collections:
             name: uniqueid
             widget: hidden
             default: practical
+          - label: Type
+            name: type
+            widget: hidden
+            default: practical
           - label: Title
             name: title
             widget: string
             default: practical
+          - label: Opengraph
+            name: opengraph
+            widget: image
+            required: false
           - label: Body
             name: body
             widget: markdown
-          - label: Tickets Info
-            name: tickets
+          - label: Festival Info
+            name: festival
             widget: list
             fields:
               - {label: Question, name: question, widget: string}
               - {label: Answer, name: answer, widget: markdown}
           - label: Transport Info
             name: transport
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Tickets Info
+            name: tickets
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Money Cashless Festival
+            name: money
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Money Cashless Festival
+            name: money
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Safety, Medical Help
+            name: safety
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Camping
+            name: camping
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Others
+            name: others
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Application
+            name: application
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}              
+          - label: Lost & Found
+            name: lostfound
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Volunteers & Jobs
+            name: volunteers
+            widget: list
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
+          - label: Press Coverage
+            name: press
             widget: list
             fields:
               - {label: Question, name: question, widget: string}

@@ -3,6 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/news/credit-refunds/</loc>
+    <lastmod>2019-07-08T21:51:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/practical-information/</loc>
+    <lastmod>2019-07-04T21:58:17+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/holiday-saturday-tickets-sold-out/</loc>
+    <lastmod>2019-07-03T17:24:41+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/download-the-payconiq-app-and-get-some-major-advantages/</loc>
+    <lastmod>2019-06-26T20:24:02+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/brussels-important-transport-information/</loc>
+    <lastmod>2019-06-23T17:05:50+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/share-a-taxi-verts-and-get-a-15-discount/</loc>
+    <lastmod>2019-06-22T23:30:21+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/foodtrucks/</loc>
+    <lastmod>2019-06-20T15:43:41+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/brasserie-2050-the-restaurant-of-the-future-comes-to-paradise-city/</loc>
+    <lastmod>2019-06-19T18:26:20+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/paradise-city-app/</loc>
+    <lastmod>2019-06-18T17:25:08+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/paradise-city-festival-launches-new-label-and-releases-first-ep-greatest-hits-from-dj-oufti/</loc>
+    <lastmod>2019-06-18T15:29:36+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/free-electric-bus-shuttles-by-brussels-airport/</loc>
+    <lastmod>2019-06-11T15:24:10+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/seppe-nobels-as-new-culinary-curator-at-paradise-city-2019/</loc>
+    <lastmod>2019-04-30T15:41:30+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/news/gastronomic-experience-by-seppe-nobels-graanmarkt-13/</loc>
+    <lastmod>2019-04-30T15:17:11+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/news/discover-a-part-of-our-5th-anniversary-line-up/</loc>
     <lastmod>2019-04-16T13:36:35+02:00</lastmod>
     <changefreq>daily</changefreq>
@@ -53,7 +144,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-16T13:36:35+02:00</lastmod>
+    <lastmod>2019-07-08T21:51:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -65,13 +156,31 @@
   </url>
   
   <url>
+    <loc>/steenokkerzeel/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/students/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/food/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/transport/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -126,7 +235,7 @@
   
   <url>
     <loc>/news/</loc>
-    <lastmod>2019-04-16T13:36:35+02:00</lastmod>
+    <lastmod>2019-07-08T21:51:00+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
