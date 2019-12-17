@@ -290,6 +290,22 @@ a {
     line-height: 21px;
     text-transform: uppercase;
 }
+
+.btn-hero2 {
+    position: relative;
+    margin-top: 7px;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: #fff;
+    -webkit-transition: -webkit-transform 200ms ease;
+    transition: -webkit-transform 200ms ease;
+    transition: transform 200ms ease;
+    transition: transform 200ms ease, -webkit-transform 200ms ease;
+    color: #fa8d76;
+    font-size: 24px;
+    line-height: 21px;
+    text-transform: uppercase;
+}
 .btn-hero:hover {
     -webkit-transform: scale(1.06);
     -ms-transform: scale(1.06);

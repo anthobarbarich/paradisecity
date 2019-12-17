@@ -364,6 +364,18 @@ a {
   text-transform: uppercase;
 }
 
+.btn-hero2 {
+    position: relative;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: #fa8d76;
+    color: #fff;
+    font-size: 18px;
+    line-height: 74px;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+}
+
 .btn-hero:hover {
   -webkit-transform: scale(1.06);
   -ms-transform: scale(1.06);
